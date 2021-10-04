@@ -1,0 +1,807 @@
+==================================================> English <==================================================
+https://www.osce.org/files/f/documents/6/c/499414.pdf
+OSCE Office for Democratic Institutions and Human Rights
+Election Observation Mission
+Republic of North Macedonia
+Local Elections, 17 October 2021
+INTERIM REPORT
+7–27 September 2021
+1 October 2021
+I. EXECUTIVE SUMMARY
+On 17 October, voters will elect the mayors and councils of 80 municipalities and the City of Skopje.
+In municipalities where no mayoral candidate receives the required absolute majority, a second round takes place two weeks later, between the two candidates with the most votes.
+Local elections are primarily regulated by the 1991 Constitution and the 2006 Electoral Code.
+The Electoral Code has been amended substantially since 2017 and was most recently amended on 15 September 2021, with the stated aim to address prior ODIHR recommendations.
+The changes, which apply to these elections, were adopted very close to election day and without any public discussion, though they had broad political support from all parliamentary parties.
+The elections are administered by the State Election Commission (SEC), 80 Municipal Election Commissions (MECs) and the Election Commission of the City of Skopje (ECCS), and some 3,480 Election Boards (EBs). 
+Election-administration bodies have thus far complied with most legal deadlines.
+The SEC has held regular open sessions, and the legal framework provides for international and citizen observers and authorized representatives of contestants to follow the electoral process at all levels of the election administration.
+Not all SEC decisions and instructions have been published on the SEC website in a timely manner.
+The latest Electoral Code amendments affected and delayed the technical and administrative preparations of the elections and necessitated adjustments of SEC instructions, training and educational programmes, as well as election-day materials and procedures.
+Voter lists are extracted from a permanent voter register which is updated periodically and, as of 24 September, includes some 1.8 million voters.
+Biometric voter identification is being introduced for the first time under a tight timeframe of execution, without an initial pilot project or comprehensive testing.
+Most ODIHR EOM interlocutors, including political parties, welcomed the use of biometric voter identification as an effective means to prevent fraud.
+Some, however, expressed concerns that potential problems with the use of the devices may negatively impact public trust in the integrity of the elections and in the election administration.
+Mayoral candidates and council lists are registered by the respective MECs and the ECCS.
+Independent candidates were required to submit voters’ signatures supporting their candidacy.
+The Electoral Code provides for a 40 per cent gender quota for council lists.
+A total of 571 candidate lists for municipal councils, including some 45 per cent women candidates, and 299 mayoral candidates, out of whom 25 are women, were registered within the legal deadline.
+The official campaign period for these elections began on 27 September and will end on 16 October.
+The Electoral Code contains provisions banning the use of administrative resources in the campaign, which were complemented by the September amendments.
+The pre-campaign environment has generally been peaceful.
+However, many stakeholders have raised concerns about emerging negative rhetoric in highly contested races.
+Election campaigns are publicly and privately funded.
+All campaign transactions must be administered through a dedicated bank account, and contestants must submit four financial reports, two before and two after election day.
+Campaign-finance reports must be published online, and the final report must be audited by the State Audit Office, which has limited oversight powers prior to the elections.
+The SCPC has authority to initiate ex-officio proceedings throughout the election period.
+The large number of media outlets are divided along political lines.
+Television and online media are the main sources of political information.
+The Electoral Code requires all media outlets, including online media, to cover elections in a fair, balanced and unbiased manner, and the public broadcaster is required to provide contestants with free airtime during primetime.
+Paid political advertisement in private broadcast, print and online media during the campaign period is funded directly from the state budget.
+Media compliance with legal requirements is overseen by the Agency for Audio and Audio-visual Media Services, including through its own monitoring of the campaign period.
+Complaints can be filed with MECs, the SEC, and the basic courts.
+Complaints concerning campaign finance and misuse of administrative resources can be lodged with the State Commission for Prevention of Corruption (SCPC).
+Voters can only file complaints regarding voter lists and on violation of their right to vote.
+The SEC and the SCPC have reported few complaints. Following the September amendments, the Administrative Court has filed an official request for clarification concerning the deadlines for review of election-day complaints.
+II. INTRODUCTION
+Following an invitation from the authorities of North Macedonia to observe the 17 October 2021 local elections, the OSCE Office for Democratic Institutions and Human Rights (ODIHR) established an Election Observation Mission (EOM) on 7 September.
+The mission, led by Tana de Zulueta, consists of a 13-member core team based in Skopje and 20 long-term observers (LTOs) deployed on 15 September to 9 locations around the country.
+Mission members are drawn from 19 OSCE participating States.
+ODIHR has requested participating States to second 250 short-term observers to observe election-day proceedings.
+III. BACKGROUND AND POLITICAL CONTEXT
+On 6 August 2021, the Speaker of Parliament called local elections for 17 October.
+The most recent local elections took place in 2017, when the coalition led by the Social Democratic Union of Macedonia (SDSM), which had successfully formed a ruling coalition following the December 2016 parliamentary elections, gained control of the majority of municipalities.
+The government, headed by SDSM president Zoran Zaev, is supported by a coalition of the SDSM, DUI and several smaller political parties.
+Women are underrepresented in public office, holding only 45 of the 120 seats in the current parliament and 4 of the 15 ministerial posts in the government.
+In the 2017 local elections, women were elected to 6 of 81 mayoral positions and represented some 34 per cent of elected councilors.
+The country’s long-standing aspirations for European Union (EU) membership and related postponements in accession talks, disagreements over the management of the COVID-19 pandemic by the government, concerns over the economic situation, particularly the high unemployment rate, and concerns over negative political rhetoric form the backdrop to these elections.
+A population census, the first since 2002, was launched on 5 September and is scheduled to last until 30 September.
+IV. LEGAL FRAMEWORK AND ELECTORAL SYSTEM
+Local elections are primarily regulated by the 1991 Constitution and the 2006 Electoral Code.
+Other relevant acts include the 2004 Law on Financing of Political Parties, the 2019 Law on Prevention of Corruption and Conflict of Interests, the 2013 Law on Media, and the 2013 Law on Audio and Audiovisual Media Services.
+North Macedonia has ratified key international human rights instruments pertaining to the holding of democratic elections.
+The Electoral Code has been amended substantially since the last local elections, including twice in 2021.
+On 2 April, amendments were passed to supplement provisions on biometric voter identification.
+On 15 September, the parliament suddenly adopted a number of amendments, most of which apply to these local elections. 
+The amendments include provisions related to the voting rights of citizens with intellectual disabilities, the withdrawal of candidate lists, safeguards against the misuse of public resources, campaigning in the media, deadlines for the submission and review of complaints, and the tenure of the State Election Commission (SEC).
+While parliament announced that these amendments stem from previous ODIHR recommendations, the ODIHR EOM was informed that a more comprehensive electoral reform is scheduled for after the elections to implement, inter alia, ODIHR recommendations which remain unaddressed.
+The 15 September amendments were adopted under an expedited procedure without prior public debate.
+While acknowledging that the changes were adopted very close to election day, most ODIHR EOM interlocutors noted that the process had broad political support,7 though key stakeholders such as the SEC said that they were not consulted on the draft amendments and raised concerns about the hasty adoption of important changes and the technical capacity to implement them in the limited time available before election day.
+Local councils and mayors will be elected for a four-year term in direct elections in the 80 municipalities and the City of Skopje.
+Elections of councilors are held under a closed-list proportional representation system without a threshold.
+Mayors are elected under a two-round majoritarian system.
+If no candidate receives an absolute majority of the votes cast in the first round, a second round takes place two weeks later, between the two candidates with the most votes.
+At least one-third of voters registered in a municipality must turn out in the first round for the mayoral election to be valid, otherwise the election must be repeated.
+The turnout requirement does not apply to possible second rounds and to council elections.
+V. ELECTION ADMINISTRATION
+Local elections are administered by a three-tiered structure led by the SEC and comprising 80 Municipal Election Commissions (MECs) and the Election Commission of the City of Skopje (ECCS) as well as some 3,480 Election Boards (EBs).
+The composition of each election management body must meet legal requirements for gender and ethnic representation.
+The SEC is a permanent body composed of seven members who are elected by parliament.
+Following an open recruitment process, four members, including the vice president, are proposed by the ruling parties, and three members, including the president, by the opposition parties from a draft list of applicants.
+The SEC in its current composition was appointed in January 2021 for a temporary two-year term; however, the 15 September amendments introduced a five-year term.
+Only two of the current SEC members are women, including the vice president.
+For administrative and organizational matters, the SEC is assisted by a professional service, led by a secretary general.
+The mandate of the previous secretary general expired in January 2021 and the position has since been vacant.
+The current MECs and the ECCS, as well as the non-partisan members of EBs, were appointed in June and July 2021, respectively, for five- and four-year terms.
+MECs supervise the administration of elections in the respective municipality, register candidates, appoint and train EBs, and manage other technical preparations.
+Upon initial selection, women comprised 49 per cent of MEC and ECCS members, presiding over 39 of the 81 mid-level bodies.
+In several municipalities, the composition of MECs and EBs have not yet been finalized as a considerable turnover among selected members was reported, mostly due to health reasons or conflict of interest in cases of members running for election.
+To date, election-administration bodies have complied with most legal deadlines.
+The SEC has held regular sessions which have been open to the media, observers, and authorized candidate representatives and which were live-streamed online, with recordings also made available on the SEC’s YouTube channel.
+Sessions are announced solely via an official mailing list, often at very short notice.
+Not all session minutes, decisions and instructions adopted have been published on the SEC website in a consistent and timely manner.
+See previous ODIHR election reports on North Macedonia.
+Currently, out of 80 municipalities and the City of Skopje, SDSM holds 57 mayorships, the ethnic-Albanian Democratic Union for Integration (DUI) 10, the Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity (VMRO-DPMNE) 5, and the Alliance of Albanians (AA) 3, while 3 mayors are independents.
+The Democratic Party of Albanians (DPA), the ethnic-Albanian Movement BESA (BESA), and the Democratic Party of Turks in Macedonia (DPTM) each hold one mayoral position.
+The current government also includes one minister each from the Movement BESA (BESA) and the Liberal Democratic Party (LDP).
+The SDSM-led coalition that won the parliamentary elections in 2020 included a total of 20 smaller parties.
+Including the 1966 International Covenant on Civil and Political Rights (ICCPR), the 1965 International Convention on the Elimination of All Forms of Racial Discrimination (CERD), the 1979 United Nations Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), the 2003 UN Convention against Corruption (UNCAC), the 2006 UN Convention on the Rights of Persons with Disabilities (CRPD), and the 1950 European Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR).
+North Macedonia is a member of the Council of Europe’s European Commission for Democracy through Law (Venice Commission) and the Group of States against Corruption (GRECO).
+Previously, changes to the Electoral Code were introduced in February 2020, affecting most electoral procedures and key responsibilities of the election administration.
+The Code was also amended in 2017, 2018, and 2019.
+An inter-agency working group, tasked to propose amendments to the Electoral Code and convened by the Ministry of Justice, met several times during December 2020 and April 2021.
+The working group was originally established in 2015 and reinstated following a 20 July 2016 agreement between four main political parties; the group continued its activities until 2021 under the co-ordination of the Ministry of Justice.
+The amendments were submitted by members of parliament from the six main parliamentary groups, representing both government and opposition, and adopted by a near-unanimous vote (78 votes for, 2 against, and 1 abstention).
+The latest amendments to the Electoral Code affected and delayed the technical and administrative preparations of the elections and necessitated last-minute adjustments of SEC instructions, training and educational programmes, as well as election-day materials and procedures.
+The SEC training department developed a comprehensive training programme and completed initial trainings of MECs and SEC-certified trainers by mid-September; however, these trainings did not cover the use of the biometric voter identification devices (BVIDs) and reflected the election procedures in force before the adoption of the latest amendments.
+Supplementary training sessions for SEC trainers on use of the BVIDs and new procedures were held on 24 and 25 September, after the adoption of the revised instructions and the setup of technical equipment.
+The number of councilors is determined by the population size of the municipality and ranges from 9 to 33, with 45 representatives to be elected to the Council of the City of Skopje.
+Seats are allocated using the d’Hondt formula.
+The announced electoral reform foresees altering the electoral system to introduce open candidate lists.
+The final number of operational EBs will only be determined after the completion of the voter registration process, given that polling stations will not be open in areas which have fewer than the minimum number of ten registered voters required for establishing a polling station.
+Each gender shall be represented by at least 30 per cent of members, and all ethnicities which comprise at least 20 per cent of the respective municipal population should be represented.
+The September 2021 amendments stipulate that in case of a change of government, the composition of the SEC shall be harmonized accordingly.
+MECs and the ECCS are composed of five members and their deputies, randomly selected by the SEC from among employees of the state and municipal administrations.
+EBs comprise three members and their deputies, randomly selected by MECs from among public and civil servants for a four-year term, and two temporary members and their deputies nominated for each election by parliamentary parties.
+The two ruling and two opposition parties which received the highest number of votes in the last parliamentary elections nominate one member and deputy each.
+VI. VOTER REGISTRATION
+All citizens who are at least 18 years old on election day have the right to vote, except those fully or partially deprived of legal capacity by a court decision on the basis of intellectual or psychosocial disability.
+To be included in the voter register, citizens must have a registered address in the country and a valid identification card or passport
+The September 2021 amendments allow citizens whose ID has expired after the announcement of the elections and who have requested a new ID by election day to be included in the voter register.
+Due to contradictions in the Electoral Code relating to updating the register, citizens who turn 18 between the first and second round are not included.
+The SEC is responsible for maintaining and updating the voter register, from which voter lists are extracted, on the basis of regular updates from various state institutions.
+In practice, the State Statistical Office ensures the technical and methodological processing of voter register data.
+The legal requirement for the voter register to be extracted from a National Population Register has yet to be implemented.
+All ODIHR EOM interlocutors expressed confidence in the accuracy and reliability of the voter register, though some recognized that a significant number of citizens residing abroad remain in the register as they maintain an official residence in-country.
+On 24 September, the SEC closed the voter register, with a total of 1,824,864 voters, and started the printing of the voter lists.
+Citizens could verify their data in the voter register online and at SEC regional offices throughout the year, as well as during a public inspection period which took place from 21 August to 9 September.
+Between 15 and 20 September, all parties contesting the elections could collect an electronic copy of the voter register, without copy-protection.
+The timeline for parties to appeal SEC decisions regarding the voter register can prevent the SEC from closing the register by the legal deadline; there were no such appeals in these elections.
+The law does not provide for scrutiny of the register by independent candidates.
+Biometric voter identification, introduced with the February 2020 revisions to the Electoral Code, will be used for the first time in these elections for all voters in regular polling stations, without a pilot project and without sufficient time for comprehensive testing of the hardware and software.
+A public procurement process was not initiated until June 2021, after which a total of 4,000 mobile BVIDs were procured in August 2021.
+Most machines were not delivered until the month prior to the scheduled election day.
+The September 2021 amendments introduced the possibility for citizens partially deprived of legal capacity to regain their voting rights based on a court decision, but this provision in practice has no effect on voting rights for these elections.
+Including the Ministry of Internal Affairs, the Ministry of Justice, and basic courts.
+Including 82,461 voters registered as residing abroad, who are entitled to vote in-country but are included in separate lists, as well as 2,250 in penitentiary and care institutions who are entitled to vote early on 16 October.
+The search can be performed based on citizens’ unique identification number or by address.
+A total of 15 parties collected an electronic copy of the voter register.
+Of a total of 16 requests for corrections submitted by 2 political parties, 11 requests for inclusion of voters were rejected by the SEC.
+The voter list of each polling station is to be uploaded on devices that will scan voters’ fingerprints to verify their identity by matching the fingerprint on record.
+The BVIDs, which are not networked or connected to the Internet, are to be operated by the EB president or vice president.
+Paper lists are to be used as a contingency in case of technical problems with the BVIDs.
+Most ODIHR EOM interlocutors, including political parties, welcomed the introduction of biometric voter identification as an effective means to prevent fraud, including multiple voting and voter impersonation.
+Some, however, expressed concerns that any potential problems with the use of the new devices may negatively impact public trust in the integrity of the elections and in the election administration.
+VII. CANDIDATE REGISTRATION
+Citizens who are at least 18 years of age on election day and have the right to vote are eligible to stand for the office of mayor or councilor in the municipality of their registered residence.
+The legal framework forbids those currently serving or awaiting to serve a delivered sentence of more than six months of imprisonment from standing in elections.
+Candidates for mayor and for councilor could be nominated by registered political parties or coalitions of parties, or they can run independently (individually as mayors or, in the case of councilors, on lists), supported by groups of voters.
+Each gender must account for at least 40 per cent of candidates on all lists for municipal councils, with a requirement that a candidate of the less represented gender is included in each group of three consecutive places, with an additional place within every group of ten candidates reserved for a candidate of the less represented gender.
+To support independent candidacies, groups of voters must collect between 100 and 450 supporting signatures of voters residing in the respective municipality, depending on the size of the municipality’s population, and at least 1,000 signatures for candidate lists at the level of the City of Skopje.
+For these elections, supporting signatures were collected between 16 and 30 August, in the presence of SEC officials at the SEC regional offices or at designated notaries’ offices.
+Nominating documents had to be submitted to MECs and the ECCS by 11 September.
+Upon receipt, MECs and the ECCS had 24 hours to verify the submitted documents.
+Submitters of candidate lists had two days to remedy any deficiencies identified in the nomination documents.
+Some MECs informed the ODIHR EOM that they were not always able to comply with all deadlines, due to the late submission of data regarding candidates’ criminal records by courts.
+The first tender launched on 21 May 2021 was annulled by the Bureau for Public Procurement.
+The contract with the German company Dermalog was signed on 11 August 2021.
+Two local companies, Simboliko and AlphazetMacedonia, are subcontracted for trainings and for uploading the voter lists to the devices, and for managing a call center for technical assistance, respectively.
+As of 27 September, 1,180 out of 4,000 mobile units had been delivered to the SEC.
+The remaining shipments are expected in-country by 2 October.
+If a voter’s fingerprint cannot be verified against the fingerprint in the electronic voter list, voter identification will be done by scanning the voter’s ID or entering the personal unique identification number.
+The Electoral Code requires that the number of candidates on submitted lists equals the available seats in the respective municipality, which precludes candidates from running individually.
+All submitted candidate lists must be accompanied by political parties’ registration certificates, as applicable; an irrevocable statement of consent with candidacy, statement of ethnic community affiliation, and copy of a valid ID or passport of each candidate; confirmation of a unique tax number from the Central Registry; confirmation of an open bank account dedicated only for campaign purposes; and an election symbol, if any, in digital form.
+Of 69 groups of voters which intended to nominate candidate lists for municipal councils, 67 obtained the required number of signatures.
+For the nomination of mayoral candidates, 30 of 38 prospective independent candidates collected the number of signatures required for registration.
+According to the SEC, within the legal deadline of 18 September, MECs and the ECCS registered a total of 10,649 candidates on 571 candidate lists for municipal councils submitted by 28 political parties, 6 coalitions and 58 groups of voters.
+Women comprise some 45 per cent of all councilor candidates and head 111 candidate lists (19 per cent).
+Mayoral elections will be contested by a total of 299 candidates (including 25 women, or 8 per cent) nominated by 22 political parties, 5 coalitions, and 25 groups of voters.
+The ODIHR EOM is aware of rejections of three mayoral candidates and nine candidate lists for municipal councilors by MECs on grounds of late submission or deficiencies in nomination documents.
+VIII. CAMPAIGN ENVIRONMENT
+The official campaign period started on 27 September and ends on 15 October at midnight.
+The Electoral Code contains provisions banning the use of administrative resources in the campaign, including a moratorium, from the day elections are called, on announcing new publicly funded projects and the prohibition of the use of state offices, equipment or personnel for campaigning, as well as of pressure on public employees.
+From the announcement of elections, payments of salaries, pensions or welfare other than regular payments may not be made from budgetary funds.
+The September 2021 amendments complemented existing rules governing the campaign and aim to enhance the transparency of the use of public resources, such as vehicles, during the electoral campaign.
+Competing in the upcoming local elections will be political parties and party-led coalitions, as well as a large number of independent candidates supported by groups of voters.
+During the reporting period, the pre-campaign environment has generally been peaceful.
+Most parties announced that their campaign strategies will employ positive campaigning as a method to counteract the trading of accusations and personal attacks among political leaders which characterized previous campaigns.
+However, most ODIHR EOM interlocutors expressed concerns over negative rhetoric that surfaced prior to the official start of the campaign.
+Political parties also pledged to adhere to the rules governing the electoral campaign by signing a Code for Fair and Democratic Elections on 23 September, under the auspices of the SEC.
+All contestants met by the ODIHR EOM indicated that their campaign plans will be adjusted to address challenges posed by the COVID-19 pandemic, by prioritizing small community meetings over large rallies and conducting extensive online activities.
+Political parties representing smaller ethnic communities, including Roma, Serbs and Turks, continue to align with stronger political forces in pre-election coalitions.
+For these elections, the Bosniak Democratic Union (BDS) will run independently for the first time, including for the position of Skopje city mayor.
+Parties representing Serbian and Turkish communities informed the ODIHR EOM that notwithstanding their participation in larger coalitions, they will also conduct separate campaign activities in their respective communities.
+For example, in the municipalities of Aerodrom, Butel, Centar, Petrovec, Sopishte, and Vinica.
+Some contestants started to engage voters in activities prior to the official start of the campaign.
+For example, billboards mentioning accomplishments by SDSM and criticizing the record of VMRO-DPMNE are in evidence in Skopje and several other municipalities.
+ODIHR EOM long-term observers were informed about the SDSM candidate for mayor meeting voters in Prilep and engaging them on his Facebook page, and of SDSM and VMRODPMNE candidates meeting with voters in Krushevo.
+In Skopje, the Green Humane City coalition held a public event with voters on 22 September.
+The configuration on coalitions differs depending on the municipality.
+For example, in Skopje and some other municipalities, the SDSM-led coalition, “The Best for My Municipality”, comprises DUI, BESA, and DPA as well as a number of smaller parties; the coalition led by VMRO-DPMNE, “The Renewal of Macedonia”, includes AA and AlternAtivA; while the Democratic Renewal of Macedonia (DOM) and the Liberal Democratic Party (LDP) form the “Movement Determined for Change” coalition.
+IX. CAMPAIGN FINANCE
+Election campaigns may be funded from political parties’ own funds and bank loans, as well as from donations.
+Donations from foreign, state, municipal, and anonymous sources, as well as from public, religious and charitable organizations are prohibited.
+Paid political advertisement in the broadcast, print and online media is funded directly by the state, through a separate fund (see Media).
+Political parties that received more than one per cent of the vote in previous parliamentary or local elections are entitled to public funding for their regular activities.
+Donations, whether monetary or in-kind, are limited to EUR 3,000 for individuals and EUR 30,000 for legal entities (in MKD equivalent, in both cases).
+Any free or discounted goods or services must be reported at their market price.
+The campaign spending limit is MKD 110 (approximately EUR 1.8) per voter registered in a municipality, for each round of an election.
+For campaign-finance purposes, the law does not distinguish between mayoral and council elections.
+All campaign transactions must be administered through a dedicated bank account.
+Contestants must keep a registry of donations and must submit four financial reports on income and expenditures, two of which are due before election day.
+The first post-election report is due within 19 days from election day, and the final report is due within 75 days from the announcement of final results.
+Campaign-finance reports must be submitted to the SEC, State Audit Office (SAO), and the State Commission for Prevention of Corruption (SCPC), and must be published on the websites of these institutions.
+Only the final report must be audited by the SAO, which can only initiate inquiries and investigations based on these final reports.
+The SCPC, which can initiate ex-officio proceedings throughout the election period, informed the ODIHR EOM of plans to field 16 monitors during the campaign.
+The Electoral Code provides for fines of up to EUR 9,000 for violations of campaign-finance regulations, including for exceeding donation or spending limits or for failing to submit a financial report.
+Criminal sanctions for violations of campaign-finance regulations include fines and imprisonment.
+X. MEDIA
+A large number of media outlets, divided along political lines, operate in a small advertisement market.
+Television and online media are the main sources of political information.
+The public broadcaster, Macedonian Radio and Television (MRT), is financed from the state budget, which in the view of some ODIHR EOM interlocutors affects its editorial independence.
+Although ODIHR EOM interlocutors noted general improvements in the media field in recent years, they raised concerns about selfcensorship, a low level of professionalism, cyber-harassment, especially against women journalists, and poor labour conditions in the media field.
+Under the Law on Financing of Political Parties, 0.15 per cent of the income portion of the annual state budget must be designated for subsidies to political parties.
+Of this, 70 per cent should be allocated to parliamentary parties proportional to the number of seats obtained, and 30 per cent should be allocated equally to all parties that received at least one per cent of votes in the last parliamentary or local elections.
+In 2021, some 58 political parties received state funding; of these, SDSM received MKD 49,956,552, and VMRO-DPMNE MKD 44,039,448 and (approximately EUR 818,000 and 722,000, respectively).
+EUR 1 equals approximately MKD 61.
+Depending on the population size of the municipalities, spending limits range from EUR 3,571 to EUR 169,174.
+The first interim report is due on 8 October, and the second on 16 October.
+No deadlines are specified in the law for publishing the reports.
+The Electoral Code requires all media outlets, including online media, to cover the elections in a fair, balanced and unbiased manner.
+During the official campaign period, MRT is obliged to dedicate 30 per cent of its newscasts to general events, 30 per cent to the parliamentary ruling parties, 30 per cent to the parliamentary opposition, and 10 per cent to non-parliamentary parties and independent candidates.
+MRT is also required to provide political contestants with free airtime during primetime.
+Private broadcasters must provide equal airtime to all mayoral candidates, while submitters of councilor lists should also receive an equal amount of airtime in local broadcast media.
+National public and private broadcasters are obliged to supplement all electoral coverage with sign language.
+Paid political advertisement in private broadcast, print and online media during the campaign period is funded directly from the state budget, which has been criticized by some ODIHR EOM interlocutors as potentially encouraging clientelism in the media.
+Media that plan to provide paid airtime to contestantsmust register with the SEC.
+The September 2021 amendments to the Electoral Code inter alia prescribe that eight minutes of paid airtime and 90 per cent of funds are to be equally divided between the two largest ruling and the two largest parliamentary opposition parties, one minute and 7 per cent of funds are to be allocated to smaller parliamentary parties, and 30 seconds and 3 per cent of funds, to non-parliamentary parties and independent candidates.
+Media compliance with legal requirements relating to electoral coverage is overseen by the statefinanced Agency for Audio and Audio-visual Media Services (AVMS).
+The AVMS commenced its monitoring on 7 August and submits to the SEC weekly reports before and daily reports during the official campaign period.
+In case the AVMS identifies violations in the broadcast media, it shall initiate a misdemeanor procedure with the competent court within 48 hours.
+On 22 September, the ODIHR EOM commenced its quantitative and qualitative monitoring of electionrelated coverage on six nationwide television channels and four news websites.
+XI. COMPLAINTS AND APPEALS
+Under the Electoral Code, complaints can be filed with MECs, the SEC, and the basic courts.
+Complaints concerning campaign finance and misuse of administrative resources can be lodged with the SCPC.
+The jurisdiction of MECs is limited to complaints by voters regarding alleged violations of their rights during the voting procedure.
+Basic courts and the SEC review complaints against campaign violations, and their jurisdiction on these matters is not clearly delineated.
+The Administrative Court is the final instance of appeals for the majority of complaints.
+While SEC decisions on violations of individual rights can be appealed to the Administrative Court, SEC regulations can only be challenged before the Constitutional Court, with no expedited procedure provided.
+The appellate courts are the final instances for reviewing challenges against election-related decisions of the basic courts.
+MRT provides its own studio for the recording of the free spots, which will be broadcast from 4 to 14 October.
+The law prescribes that national and local broadcasters should follow the principle of proportionality, based on the number of confirmed lists of candidates.
+The total budget allocated for media campaigns may not exceed EUR 2 per registered in-country voter, and an additional EUR 1 per registered voter during a second round.
+The average price for paid political advertising in each media outlet may not exceed the total average cost of advertising calculated for the last five election cycles.
+Pricelists should be submitted to and confirmed by the SEC.
+The SEC registered 35 television stations, 44 radio stations, 10 print media outlets, and 191 online news sites.
+Before the start of the official campaign period, the AVMS monitored seven national TV channels, while it intends to include some regional and local broadcasters during the official campaign.
+As of 24 September, no violations have been reported by the AVMS.
+These include the public MRT 1 and MRT 2, private broadcasters Alsat-M, Kanal 5, Telma, and Sitel, as well as the election-related coverage of the websites kurir.mk, plusinfo.mk, tetovasot.com, and lajmpress.org.
+There are four appellate courts in North Macedonia, based in Skopje, Bitola, Gostivar and Shtip.
+As a general rule, the right to lodge complaints is granted to contestants and voters.
+Voters can only file complaints regarding voter lists and on violation of their right to vote.
+Citizen observers can have remarks on alleged irregularities entered in EB logbooks; these remarks are not treated as complaints but can serve as ground for contestants to file complaints.
+The deadlines for submitting and deciding on complaints are short: as a rule, applicants have up to two days to file a complaint, with one to three days provided for review of most complaints.
+Following the latest changes to the Electoral Code, electionday complaints by voters must be lodged within 12 hours (previously 24 hours) and must be reviewed within two hours.
+The ODIHR EOM was informed by the Administrative Court that the latest changes adversely affected the clarity of the deadlines.
+XII. CITIZEN AND INTERNATIONAL OBSERVERS
+The Electoral Code provides for citizen and international observation of the entire election process.
+Citizen associations and foreign organizations which have been registered at least one year before election day and whose charters incorporate the principle of protection of human rights may apply for accreditation to deploy observers with the SEC until 10 days before election day.
+Expecting to deploy the largest group of citizen observers for these elections, CIVIL – Center for Freedom has conducted long-term observation activities across the country since mid-August, including monitoring of the media, social media platforms, and activities of political parties.
+Entities with registered candidates are entitled to appoint their authorized representatives to follow the election process at all levels of the election administration.
+Candidate representatives to lower-level election bodies can be registered with MECs until two days before election day.
+XIII. ODIHR EOM ACTIVITIES
+The ODIHR EOM commenced its activities in Skopje on 7 September.
+The Head of Mission has met with the SEC President, the Prime Minister, the Minister of Justice, the President of the Administrative Court, the Chairperson of the Legislative Committee of Parliament, and representatives of political parties.
+The ODIHR EOM has established regular contacts with the SEC, governmental institutions involved in the electoral process, the judiciary, political parties, candidates, civil society, the media, and the resident diplomatic and international community.
+The English version of this report is the only official document.
+Unofficial translations are available in Macedonian and Albanian.
+Following the amendments, the Administrative Court has filed an official request with the Ministry of Justice for clarification concerning the deadlines for review of election-day complaints.
+While the Electoral Code and the SEC calendar set ten days before election day as the latest date for submission of applications for accreditation, the SEC Code of Conduct indicates five days.
+==================================================> Macedonian <==================================================
+https://www.osce.org/files/f/documents/4/e/499423.pdf
+Канцеларија на ОБСЕ за Демократски институции и човекови права
+Мисија за набљудување на избори
+Република Северна Македонија,
+Локални избори, 17 октомври 2021
+ПЕРИОДИЧЕН ИЗВЕШТАЈ
+7–27 септември 2021
+1 октомври 2021
+I. РЕЗИМЕ
+На 17 октомври гласачите ќе избираат градоначалници и советници на 80 општини и на Градот Скопје. 
+Во општините каде ниеден од кандидатите за градоначалник нема да го добие апсолутното мнозинство, две седмици подоцна ќе се одржи и втора рунда, меѓу двата кандидати со најголем број гласови.
+Локалните избори се регулирани првенствено со Уставот од 1991 година и со Изборниот законик од 2006 година.
+Изборниот законик е значително изменет и дополнет од 2017 година наваму, а најскорешните измени се од 15 септември 2021 година, наведувајќи ја целта да се одговори на претходните препораки на ОДИХР.
+Промените, кои важат за овие избори, беа усвоени многу блиску до денот на изборите и без јавна дискусија, иако уживаа широка политичка поддршка од сите парламентарни партии.
+Изборите ги администрира Државната изборна комисија (ДИК), 80 општински изборни комисии (ОИК) и Изборната комисија на Градот Скопје (ИКГС) и околу 3480 избирачки одбори (ИО). 
+Телата на изборната администрација досега ги почитуваа повеќето законски рокови.
+ДИК одржуваше редовни јавни седници, а законската рамка овозможува меѓународните и граѓанските набљудувачи и овластените претставници на учесниците да го следат изборниот процес на сите нивоа на изборната администрација.
+Не сите одлуки и инструкции на ДИК беа објавени на веб-сајтот на ДИК навремено.
+Последните измени и дополнувања на ИЗ се одразија и ги одолговлекоа техничките и административните подготовки на изборите, и создадоа нужност од прилагодување на инструкциите на ДИК, програмите за обука и едукација, како и на материјалите и процедурите за денот на изборите.
+Избирачкиот список е извлечен од постојаниот регистар на гласачите кој периодично се ажурира и заклучно со 24 септември, содржи околу 1,8 милиони гласачи.
+За првпат се воведува биометриска идентификација на гласачите, со тесен рок на спроведување, без првичен пилот-проект или сеопфатно тестирање.
+Повеќето соговорници на МНИ на ОДИХР, вклучувајќи ги политичките партии, ја поздравија употребата на биометриската идентификација на гласачите, како делотворен начин да се спречи измама.
+Некои, сепак, изразија загриженост дека потенцијалните проблеми со користењето на новите уреди може негативно да се одразат на довербата на јавноста во интегритетот на изборите и во изборната администрација.
+Кандидатите за градоначалници и листите на советници се регистрирани кај соодветните ОИК и ИКГС.
+Од независните кандидати се бараше да поднесат потписи од гласачите кои ја поддржуваат нивната кандидатура. 
+Изборниот законик пропишува родова квота од 40 проценти за листите на советници.
+Вкупно 571 кандидатска листа за општинските совети, вклучувајќи околу 45 проценти кандидатки, и 299 кандидати за градоначалници, од кои 25 се жени, беа регистрирани во законскиот рок. 
+Официјалниот период на кампања за овие избори почна на 27 септември и ќе заврши на 16 октомври.
+Изборниот законик содржи одредби што забрануваат користење на административни ресурси во кампањата, што беше надополнето со амандманите од септември.
+Предизборната кампања главно се одвиваше мирно.
+Сепак, голем број засегнати страни изразија загриженост поради растечката негативна реторика во места каде изборната трка е мошне тесна.
+Изборните кампањи се финансираат од јавни и приватни средства.
+Сите трансакции од кампањата мора да се извршат преку наменска банкарска сметка, а учесниците мораат да поднесат четири финансиски извештаи, два пред и два после денот на изборите.
+Извештаите за финансирање на кампањите мора да се објават онлајн, а ревизија на завршниот извештај мора да изврши Државниот завод за ревизија, којшто има ограничени надзорни овластувања пред изборите.
+ДКСК има овластувања по службена должност да поведе постапка во тек на целиот изборен период.
+Големиот број медиумски куќи се поделени долж политичките линии.
+Телевизијата и онлајн медиумите се главните извори на политички информации.
+Изборниот законик бара од сите медиумски куќи, вклучително и онлајн медиумите, да ги покриваат изборите фер, балансирано и непристрасно, а од јавниот радиодифузен сервис се бара да обезбеди бесплатно медиумско време за учесниците, во ударни термини.
+Платеното политичко рекламирање кај приватните радиодифузни, печатени и онлајн медиуми во тек на периодот на кампањата се финансира директно од државниот буџет.
+Агенцијата за аудио и аудиовизуелни медиумски услуги надгледува дали медиумите ги почитуваат законските обврски, вклучително и преку сопствен мониторинг во периодот на кампања.
+Приговори може да се поднесат до ОИК, до ДИК и до основните судови.
+Приговори во врска со финансирањето на кампањите и злоупотребата на административните ресурси може да се поднесат до Државната комисија за спречување на корупцијата (ДКСК).
+Гласачите може да поднесуваат приговори само во однос на избирачките списоци и за повреди на нивното избирачко право.
+ДИК и ДКСК известуваат дека примиле неколку приговори. По септемвриските амандмани, Управниот суд поднел службено барање за појаснување во однос на роковите за разгледување на приговорите од денот на изборите.
+II. ВОВЕД
+На покана од властите на Северна Македонија да ги набљудува локалните избори на 17 октомври 2021, Канцеларијата на ОБСЕ за демократски институции и човекови прав, воспостави Мисија за набљудување на изборите (МНИ) на 7 септември.
+Мисијата, предводена од Тана де Зулуета, се состои од главен тим од 13 членови, со седиште во Скопје и 20 долгорочни набљудувачи распоредени на 9 локации ширум земјата, на 15 септември.
+Членовите на мисијата се доаѓаат од 19 земји членки на ОБСЕ.
+ОДИХР побара од земјите членки да испратат 250 краткорочни набљудувачи, за да ги набљудуваат случувањата на денот на изборите.
+III. ПОЗАДИНА И ПОЛИТИЧКИ КОНТЕКСТ
+На 6 август 2021, Претседателот на Собранието ги распиша локалните избори за 17 октомври.
+Претходните локални избори се одржаа во 2017 година, кога коалицијата предводена од Социјалдемократскиот сојуз на Македонија (СДСМ), која успешно формираше владејачка коалиција по парламентарните избори во 2016 година и стекна контрола над најголем дел од општините.
+Владата, предводена од претседателот на СДСМ, Зоран Заев, е поддржана од коалицијата на СДСМ, ДУИ и неколку помали политички партии.
+Жените се недоволно застапени на јавните функции, со само 45 од 120 места во сегашниот парламент, 4 од 15 министерски позиции во владата.
+На локалните изботри во 2017 година жени беа избрани на 6 од 81 градоначалничка позиција и претствауваат околу 34 проценти од избраните советници.
+Долготрајните аспирации на земјата за членство во Европската унија (ЕУ) и поврзаното со одложување на почетокот на пристапните преговори, несогласувањата околу тоа како Владата се справува со пандемијата на Ковид-19, загриженоста околу економската ситуација, особено високата стапка на невработеност, загриженоста околу негативната политичка реторика, ја
+сочинуваат позадината на овие избори. Пописот на населението, прв од 2002 година наваму, почна на 5 септември и предвидено е да трае до 30 септември.
+IV. ЗАКОНСКА РАМКА И ИЗБОРЕН СИСТЕМ
+Локалните избори се првенствено уредени со Уставот од 1991 година и Изборниот законик од 2006 година.
+Други релевантни закони се Законот за финансирање на политичките партии од 2004 година, Законот за спречување на корупцијата и судирот на интереси од 2019 година, Законот за медиуми од 2013 година и Законот за аудио и аудиовизуелни и медиумски услуги од 2013 година.
+Северна Македонија ги има ратификувано клучните меѓународни инструменти за човекови права, што се однесуваат на одржувањето демократски избори.
+Изборниот законик е значително изменет и дополнет во периодот од последните локални избори, вклучително двапати во 2021 година.
+На 2 април, беа донесени амандмани за да се дополнат одредбите за биометриска идентификација на гласачите.
+На 15 септември, Собранието ненадејно усвои извесен број амандмани, од кои повеќето се однесуваат на овие локални избори.
+Амандманите опфаќаат одредби што се однесуваат на правото на глас на граѓаните со интелектуална попреченост, повлекувањето на кандидатските листи, заштитните механизми против злоупотребата на јавните ресурси, водењето кампањи во медиумите, роковите за поднесување и разгледување на приговорите, и должината на мандатот на Државната изборна комисија (ДИК).
+Во меѓувреме, Собранието објави дека овие амандмани произлегуваат од претходните препораки на ОДИХР, дополнитело МНИ на ОДИХР беше информирана дека посеопфатна изборна реформа е закажана за периодот по изборите, за да се спроведат, меѓу другото, препораките на ОДИХР по кои досега не било постапено.
+Амандманите од 15 септември беа усвоени во скратена постапка, без претходна јавна дебата.
+Иако признаваа дека промените беа усвоени мошне блиску до денот на изборите, повеќето соговорници на МНИ на ОДИХР забележаа дека процесот има широка политичка поддршка,7 иако клучните засегнати страни, како ДИК, рекоа дека не биле консултирани околу нацртамандманите и изразија загриженост околу брзото усвојување на важните измени и техничкиот капацитет тие да се спроведат во ограниченото време што преостанува до денот на изборите.
+Локалните совети и градоначалници ќе бидат избрани за четиригодишен мандат, на непосредни избори во 80 општини и во Градот Скопје.
+Изборот на советниците се врши преку систем на пропорционална застапеност со затворени листи, без утвреден изборен праг.
+Градоначалниците се избираат преку мнозински систем во два изборни круга.
+Доколку ниеден кандидат не добие апсолутно мнозинство од гласовите во првиот круг, вториот круг се одржува две седмици подоцна, меѓу двајцата кандидати со најголем број гласови.
+Најмалку една третина од гласачите регистрирани во општината мора да излезат во првиот круг, за изборите за градоначалник да бидат важечки, во спротивно изборите мора да се повторат.
+Барањето за излезност не се применува на евентуалниот втор круг исто така, ова се однесува и на изборите за советите.
+V. ИЗБОРНА АДМИНИСТРАЦИЈА
+Локалните избори ги администрира структура од три нивоа, предводена од ДИК, а која опфаќа 80 општински изборни комисии (ОИК) и Изборна комисија на Градот Скопје (ИКГС), како и околу 3480 избирачки одбори (ИО).
+Составот на секое тело за управување со изборите мора да ги исполни законските услови за родова и етничка застапеност.
+ДИК е постојано тело составено од седум члена кои се избрани од Собранието.
+По отворен процес на пријавување, четири члена, вклучително и потпретседателот, се предлагаат од владејачките партии, а три члена, вклучувајќи го претседателот, од опозициските партии од нацрт-листата на пријавени кандидати.
+ДИК во својот сегашен состав е именувана во јануари 2021 година, со времен мандат од две години; сепак, амандманите од 15 септември воведоа петгодишен мандат.
+Само два од сегашните членови на ДИК се жени, вклучувајќи ја и потпретседателката.
+За административни и организациски прашања, на ДИК му помага стручна служба, предводена од генерален секретар.
+Мандатот на претходниот генерален секретар истече во јануари 2021 и позицијата е оттогаш не е поплнета.
+Сегашните ОИК и ИКГС, како и непартиските членови на ИО се именувани во јуни, односно јули 2021 година, на мандат од пет, односно четири години.
+ОИК го надгледуваат администрирањето на изборите во односната општина, ги регистрираат кандидатите, ги именуваат и обучуваат ИО и управуваат со други технички подготовки.
+По почетната селекција, жените сочинуваа 49 проценти од членовите на ОИК и ИКГС, претседавајќи со 39 од 81 тело на средно ниво.
+Во неколку општини, составот на ОИК и ИО се’ уште не е финализиран, зашто е пријавен значителен одлив меѓу одбраните членови, главно поради здравствени причини или конфликт на интереси во случај на членови кои се кандидирани на изборите.
+До денес, телата на изборната администрација ги почитуваа повеќето законски рокови.
+ДИК одржуваше редовни седници кои беа отворени за медиумите, набљудувачите и овластените претставници на кандидатите и од кои имаше стриминг во живо онлајн, при што снимките исто така беа достапни на YouTube каналот на ДИК.
+Седниците се најавуваат исклучиво преку официјалната мејлинг листа, често со најава многу кусо време пред седницата.
+Не сите усвоени записници, одлуки и инструкции беа објавени на веб-сајтот на ДИК доследно и навремено.
+Види го Претходните извештаи на ОДИХР за Северна Македонија.
+Во моментов, од 80 општини и Градот Скопје, СДСМ има 57 градоначалнички места, Демократската унија за интеграција (ДУИ) на етничките Албанци, има 10, Внатрешната македонска револуционерна организација – Демократска партија за македонско национално единство (ВМРО-ДПМНЕ) има 5, а Алијансата на Албанците (АА) има 3, додека 3 градоначалници се независни.
+Демократската партија на Албанците (ДПА), етничкото албанско Движење БЕСА (БЕСА) и Демократската партија на Турците во Македонија (ДПТМ) имаат по една градоначалничка позиција.
+Сегашната влада исто така опфаќа по еден министер од Движењето БЕСА (БЕСА) и Либералнодемократската партија (ЛДП).
+Коалицијата предводена од СДСМ, што победи на парламентарните избори во 2020 година, вклучуваше вкупно 20 помали партии.
+Вклучувајќи го Меѓународниот пакт за граѓански и политички права (International Covenant for Civil and Political Rights, ICCPR) од 1966 година, Меѓународната конвенција за елиминација на сите форми на расна дискриминација (International Convention on the Elimination of All Forms of Racial Discrimination, CERD) од 1965 година, Конвенцијата на Обединетите нации за елиминација на сите форми на дисцриминација на жената (United Nations Convention on the Elimination of All Forms of Discrimination Against Women, CEDAW) од 1979 година, Конвенцијата на Обединетите нации за правата на лицата со попреченост (the United Nations Convention on the Rights of Persons with Disabilities, CRPD) од 2006 година и Европската конвенција за заштита на човековите права и основните слободи (the European Convention for the Protection of Human Rights and Fundamental Freedoms, ECHR) од 1950 година.
+Северна Македонија е членка на Европската комисија за демократија преку правото (Венецијанската комисија) и на Групата држави против корупцијата (GRECO).
+Претходно, измените на Изборниот законик беа донесени во февруари 2020 година, што се одрази на повеќето изборни процедури и клучни одговорности на изборната администрација.
+Законикот беше, исто така, изменет и дополнет во 2017, 2018 и 2019 година.
+Меѓуресорна работна група задолжена да предложи амандмани на Изборниот законик и оформена од Министерството за правда се состана неколку пати во текот на декември 2020 и април 2021 година.
+Работната група беше првично основана во 2015 година, а обновена по договорот меѓу четирите главни политички партии, на 20 јули 2016 година; групата продолжи со своите активности се’ до 2021 година, под координација на Министерството за правда.
+Амандманите беа поднесени од страна на пратеници од шесте главни парламентарни групи, што ги претставуваат и власта и опозицијата, и усвоени речиси едногласно (78 гласа за, 2 против и 1 воздржан).
+Најновите амандмани на Изборниот законик се одразија и ги одолговлекоа техничките и административните подготовки за изборите и предизвикаа неопходност од прилагодувања на инструкциите, обуката и едукативните програми на ДИК, како и на материјалите и процедурите за денот на изборите, во последен момент.
+Секторот за обука на ДИК изготви сеопфатна програма за обука и ги заврши почетните обуки на ОИК и обучувачите сертифицирани од ДИК до средината на септември; сепак, овие обуки не го опфатија користењето на уредите за биометриска идентификација на гласачите (УБИГ) и ги отсликуваа изборните процедури во сила пред усвојувањето на најновите амандмани.
+Дополнителните сесии за обука за обучувачите на ДИК, за користењето на УБИГ и за новите процедури беа одржани на 24 и 25 септември, по усвојувањето на ревидираните инструкции и инсталирањето на техничката опрема.
+Бројот на советници се определува според големината на населението на општината и е во опсег од 9 до 33, со 45 претставници што треба да се изберат во Советот на Град Скопје.
+Местата се распределуваат согласно Донтовата формула.
+Најавената изборна реформа предвидува менување на изборниот систем за да се воведат отворени кандидатски листи.
+Конечниот број на ИО што ќе бидат во функција ќе биде утврден дури по завршувањето на процесот на регистрација на гласачите, земајќи предвид дека избирачки места нема да се отворат во областите каде има број на избирачи помал од минималниот – десет регистрирани гласачи, што бара отворање на избирачко место.
+Секој род треба да биде застапен со најмалку 30 проценти од членовите, а треба да бидат застапени сите етнички групи што претставуваат најмалку 20 проценти од односното население на општината.
+Амандманите од септември 2021 година предвидуваат дека во случај на смена на власта, составот на ДИК треба да биде соодветно усогласен.
+ОИК и ИКГС се составени од пет члена и нивни заменици, одбрани по случаен избор од страна на ДИК, од редот на вработените на државната и општинската администрација.
+ИО се состојат од три члена и нивни заменици, одбрани по случаен избор од страна на ДИК, од редот на јавни и државни службеници, со мандат од четири години, и два времени члена и нивни заменици номинирани за секои избори од страна на парламентарните партии.
+Секоја од двете владејачки и две опозициски партии што имаат добиено највисок број гласови на последните парламентарни избори номинира по еден член и еден заменик
+VI. РЕГИСТРАЦИЈА НА ГЛАСАЧИТЕ
+Сите граѓани на возраст од најмалку 18 години на денот на изборите имаат право да гласаат, освен оние на кои со судска одлука им е делумно или целосно одземена деловната способност врз основа на интелектуална или психосоцијална попреченост.
+За да бидат вклучени во регистарот на гласачи, граѓаните мораат да имаат регистрирана адреса во земјата и важечка лична карта или пасош.
+Амандманите од септември 2021 година им дозволуваат на граѓаните чија лична карта истекла по распишувањето на изборите, и кои побарале нова лична карта најдоцна до денот на изборите да бидат вклучени во регистарот на гласачи.
+Поради контрадикции во Изборниот законик во врска со ажурирањето на избирачкиот список, граѓаните кои ќе наполнат 18 години меѓу првиот и вториот круг не се вклучени.
+ДИК е одговорна за одржување и ажурирање на регистарот на гласачи, од кој се извлекува избирачкиот список, врз основа на редовни ажурирања од страна на различни институции.
+Во пракса, Државниот завод за статистика ја обезбедува техничката и методолошката обработка на податоците од регистарот на гласачи.
+Законското барање регистарот на гласачи да се извлекува од Централниот регистар на населението треба допрва да се имплементира.
+Сите соговорници на МНИ на ОДИХР изразија доверба во точноста и веродостојноста на регистарот на гласачи, иако некои признаваат дека значителен број граѓани кои живеат во странство остануваат во регистарот затоа што одржуваат официјално живеалиште во земјата.
+На 24 септември, ДИК го заклучи регистарот на гласачи, со вкупно 1 824 864 гласачи, и го отпочна печатењето на избирачкиот список.
+Граѓаните можеа да ги проверат своите податоци во регистарот на гласачи онлајн и во регионалните канцеларии на ДИК во текот на годината, како и за време на периодот на јавен увид што траеше од 21 август до 9 септември.
+Од 15 до 20 септември, сите партии – учеснички во изборите можеа да подигнат електронски примерок од регистарот на гласачи, без заштита од копирање.
+Временскиот рок за партиите да ги обжалат одлуките на ДИК во однос на регистарот на гласачи може да ја спречат ДИК да го затвори регистарот до истекот на законскиот рок; на овие избори немаше такви жалби.
+Законот не предвидува увид во регистарот од страна на независните кандидати.
+Биометриската идентификација на гласачите, воведена со измените на Изборниот законик од февруари 2020 година, ќе се користи за првпат на овие избори, за сите гласачи на редовнитте избирачки места, без пилот проект и без доволно време за сеопфатно тестирање на хардверот и софтверот.
+Процесот на јавни набавки не беше отпочнат до јуни 2021 година, по што вкупно 4000 мобилни УБИГ беа набавени во август 2021 година.
+Најголем дел од уредите не беа испорачани се’ до еден месец до денот на изборите.
+Амандманите од септември 2021 година воведоа можност граѓаните кои се делумно лишени од деловна способност повторно да го стекнат своето право на глас врз основа на судска одлука, но оваа одредба во пракса немаше ефекти врз гласачките права на овие избори.
+Вклучувајќи ги Министерството за внатрешни работи, Министерството за правда и основните судови.
+Вклучувајќи и 82,461 гласачи регистрирани како жители во странство, кои имаат право да гласаат во земјата, но се вклучени на одделни листи, како и 2250 во казнено-поправни установи и згрижувачки установи, кои имаат право да гласаат ден порано, на 16 октомври.
+Пребарувањето може да се врши врз основа на единствениот матичен број на граѓанинот или според адресата.
+Вкупно 15 партии подигнаа електронски примерок од регистарот на гласачи.
+Од вкупно 16 барања за корекции поднесни од две политички партии, 11 барања за вклучување на гласачи беа одбиени од ДИК.
+Избирачкиот список за секое избирачко место треба да се вчита на уредите што ќе ги скенираат отпечатоците на прст на гласачите за да го верификува нивниот идентитет преку совпаѓање со отпечатокот што стои во документацијата.
+Со УБИГ, кои не се вмрежени или поврзани на Интернет, ќе ракуваат претседателот или потпретседателот на ИО.
+Списоците на хартија ќе се користат како резерва, во случај на технички проблеми со УБИГ.
+Повеќето соговорници на МНИ на ОДИХР, вклучувајќи ги и политичките партии, го поздравија воведувањето на биометриската идентификација на гласачите, како делотворен начин да се спречи измама, вклучувајќи и повеќекратно гласање или гласање во име на друг.
+Некои, сепак, изразија загриженост дека потенцијалните проблеми со користењето на новите уреди може негативно да се одразат на довербата на јавноста во интегритетот на изборите и во изборната администрација
+VII. РЕГИСТРАЦИЈА НА КАНДИДАТИТЕ
+Граѓаните на возраст од најмалку 18 години на денот на изборите имаат право да избираат и да бидат избирани за функцијата градоначалник или советник во општината каде им е регистрираното живеалиште.
+Законската рамка забранува да бидат избирани оние кои во моментов отслужуваат или очекуваат отслужување на правосилна затворска казна од над шест месеци.
+Кандидатите за градоначалник и за советник може да се предложени од регистрирани политички партии или коалиции на партии, или може да се независни кандидати (поединечно како градоначалници или, во случај на советниците, на листи), поддржани од групи гласачи.
+Секој род мора да биде застапен со најмалку 40 проценти од кандидатите на сите листи за општински советници, со услов кандидат од помалку застапениот род да биде вклучен во секоја група од три последователни места, со дополнително место во рамки на секоја група од десет кандидати, резервирано за кандидат од помалку застапениот род.
+Како поддршка на независните кандидатури, групите избирачи мораат да соберат меѓу 100 и 450 потписи на гласачи кои живеат во односната општина, во зависност од големината на населението на општината, а најмалку 1000 потписи за кандидатски листи на ниво на Градот Скопје.
+а овие избори, потписите за поддршка беа собирани меѓу 16 и 30 август, во присуство на службеници на ДИК, во регионалните канцеларии на ДИК или во канцелариите на определените нотари.
+Документите за предлагање мораше да се поднесени до ОИК и до ИКГС до 11 септември.
+По приемот, ОИК и ИКГС имаа 24 часа да ги верификуваат поднесените документи.
+Подносителите на кандидатските листи имаа два дена да отстранат некои недостатоци идентификувани во документите за предлагање.
+Некои ОИК ја информираа МНИ на ОДИХР дека не можеле секогаш да се придржуваат до сите рокови, поради доцното поднесување на податоци во однос на кривичната евиденција за кандидатите од страна на судовите.
+Првиот тендер распишан на 21 мај 2021 година беше поништен од страна на Бирото за јавни набавки.
+Договорот со германската компанија Дермалог беше потпишан на 11 август 2021.
+Две локални компании, Симболико и Алфазет – Македонија, се ангажирани како подизведувачи за обуки и за вчитување на избирачкиот список во уредите, односно за управување со кол-центарот за техничка помош.
+На 27 септември, 1180 од 4000 мобилни единици беа испорачани на ДИК.
+Се очекува преостанатите пратки да пристигнат во земјата до 2 октомври.
+Доколку отпечатокот на прст на гласачот не може да се верификува во електронскиот избирачки список, идентификацијата на гласач ќе се врши со скенирање на личната карта на гласачот или со внесување на единствениот матичен број на граѓанинот.
+Изборниот законик бара бројот на кандидати на поднесените листи да е еднаков на бројот на советнички места во односната општина, што спречува кандидатите да се натпреваруваат поединечно.
+Сите поднесени кандидатски листи мора да бидат придружени со уверението за регистрација на политичката партија, доколку е соодветно; неотповиклива изјава на согласност за кандидатурата; изјава за припадност на етничка заедница и копија од важечка лична карта или пасош за секој кандидат; потврда на единствениот даночен број од Централниот регистар; потврда за отворена банкарска сметка, наменски само за потребите на кампањата; и изборниот симбол, доколку постои, во дигитална форма.
+Од 69 групи гласачи што имале намера да предложат кандидатски листи за општинските совети, 67 го добија потребниот број на потписи.
+Кај номинациите на кандидатите за градоначалник, 30 од 38 потенцијални независни кандидати го собраа бројот на потписи што е потребен за регистрација.
+Според ДИК, до законскиот рок 18 септември, ОИК и ИКГС регистрирале вкупно 10 649 кандидати од 571 кандидатски листи за општинските совети, поднесени од 28 политички партии, 6 коалиции и 58 групи гласачи.
+Жените сочинуваат околу 45 проценти од сите кандидати за советници и предводат 111 кандидатски листи (19 проценти).
+Во изборите за градоначалници ќе учествуваат вкупно 299 кандидати (вклучувајќи 25 жени, или 8 проценти) предложени од 22 политички партии, 5 коалиции и 25 групи избирачи.
+МНИ на ОДИХР е запознаена со одбивањето на три кандидатури за градоначалник и девет кандидатски листи за општински советници од страна на ОИК, по основа на доцно поднесување или недостатоци во документите за предлагање.
+VIII. ОПКРУЖУВАЊЕ НА КАМПАЊАТА
+Официјалниот период на кампања започна на 27 септември и завршува на 15 октомври на полноќ.
+Изборниот законик содржи одредби што забрануваат користење на административни ресурси во кампањата, вклучително и мораториум, од денот на распишување на изборите, на објавување на нови јавно финансирани проекти и забрана на користење на државни канцеларии, опрема или персонал за водењето кампања, како и за притисок врз јавните службеници.
+Од распишувањето на изборите, исплатата на плати, пензии или социјална помош, освен редовните исплати, не може да се врши од буџетски средства.
+Амандманите од септември 2021 година ги надополнија постојните правила што ја уредуваат кампањата и се стремат да ја зајакнат транспарентноста во користењето на јавни ресурси, како што се возилата, во тек на изборната кампања.
+На претстојните локални избори ќе се натпреваруваат политички партии и коалиции предводени од партии, како и голем број независни кандидати поддржани од групи на гласачи.
+Во текот на периодот опфатен со овој извештај, предизборната кампања главно се одвиваше мирно.
+Повеќето партии објавија дека нивните стратегии се да водат позитивна кампања како метода на противтежа за размената на обвинувања и лични напади меѓу политичките лидери, што беше карактеристика на претходните кампањи.
+Сепак, повеќето соговорници на МНИ на ОДИХР изразија загриженост околу негативната реторика што изби на површина пред официјалниот почеток на кампањата.
+Политичките партии, исто така, се обврзаа да се придржуваат кон правилата што ја уредуваат изборната кампања, со потпишување на Кодекс за фер и демократски избори на 23 септември, под покровителство на ДИК.
+Сите учесници со кои се сретна МНИ на ОДИХР посочија дека нивните планови за кампања ќе бидат прилагодени за да се осврнат на предизвиците што ги носи пандемијата на ковид19, со приоритизирање на мали средби во заедницата наместо големи митинзи, и водење опсежни онлајн активности.
+Политичките партии кои ги претставуваат помалите етнички заедници, вклучувајќи ги Ромите, Србите и Турците продолжуваат да се здружуваат со посилните политички сили во предизборни коалиции.
+За овие избори, Бошњачки демократски сојуз (БДС) за првпат ќе настапи на избори независно, вклучително и за позицијата на градоначалник на Град Скопје.
+Партиите што ги претставуваат заедниците на Србите и Турците ја информираа МНИ на ОДИХР дека без оглед на нивното учество во поголеми коалиции, тие исто така ќе водат одделни кампањски активности во нивните заедници.
+На пример, во општините Аеродром, Бутел, Центар, Петровец, Сопиште и Виница.
+Некои од учесниците почнаа да ги вклучуваат гласачите во активности пред официјалниот почеток на кампањата.
+На пример, билборди што ги споменуваат постигањата на СДСМ, а го критикуваат делувањето на ВМРО-ДПМНЕ може да се видат низ Скопје и неколку други општини.
+Долгорочните набљудувачи на МНИ на ОДИХР беа информирани дека кандидатот на СДСМ за градоначалник на Прилеп се среќавал со гласачите и ги ангажирал на неговата Фејсбук-страница, како и за кандидатите на СДСМ и на ВМРО-ДПМНЕ кои се среќавале со гласачите во Крушево.
+Во Скопје, коалицијата Зелен хуман град одржа јавен настан со гласачите на 22 септември.
+Конфигурацијата на коалициите се разликува зависно од општината.
+На пример, во Скопје и некои други општини, коалицијата предводена од СДСМ, „Најдоброто за мојата општина“ составена од ДУИ, БЕСА и ДПА, како и од одреден број помали партии; коалицијата предводена од ВМРО-ДПМНЕ „Обнова за Македонија“ што ги вклучува АА и АлтернАтивА; додека Демократската обнова на Македонија (ДОМ) и Либерално-демократската партија (ЛДП) ја сочинуваат коалицијата движење „Одлучно за промени“.
+IX. ФИНАНСИРАЊЕ НА КАМПАЊАТА
+Изборните кампањи може да се финансираат од сопствени средства на политичките партии и од банкарски заеми, како и од донации.
+Донациите од странски, државни, општински и анонимни извори, како и од јавни, верски и добротворни организации се забранети.
+Платеното политичко рекламирање во радиодифузните, печатените и онлајн медиумите е финансирано директно од државата, преку посебен фонд (види Медиуми).
+Политичките партии што имаат освоено повеќе од еден процент од гласовите на претходните парламентарни или локални избори имаат право на јавно финансирање за нивните редовни активности.
+Донациите, сеедно дали парични или во натура, се ограничени на 3000 Евра за поединци и 30 000 Евра за правни лица (во денарска противвредност, во обата случаи).
+Сите бесплатни стоки и услуги, или оние со попуст, мора да се пријават по нивната пазарна цена.
+Лимитот за трошење во кампањата е 110 денари (приближно 1,8 Евра) по гласач регистриран во општината, за секој круг на изборите.
+За целите на финансирањето на кампањата, законот не прави разлика меѓу изборите за градоначалник и за совет.
+Сите трансакции во кампањата мора да се извршат преку наменска банкарска сметка.
+Учесниците мораат да водат регистар на донации и мораат да поднесат четири финансиски извештаи за приходите и расходите, од кои два треба да се поднесат пред денот на изборите.
+Првиот пост-изборен извештај се поднесува во рок од 19 дена по денот на изборите, а рокот за финалниот извештај е 75 дена од објавувањето на финалните резултати.
+Извештаите за финансирањето на кампањата мора да се поднесат до ДИК, Државниот завод за ревизија (ДЗР) и Државната комисија за спречување на корупцијата (ДКСК), и мора да се објават на вебсајтовите на овие институции.
+Само финалниот извештај е предмет на ревизија од страна на ДЗР, кој може само да иницира испитувања и истраги врз основа на овие финални извештаи.
+ДКСК, која може да поведе постапки по службена должност во тек на целиот период на изборите, ја информира МНИ на ОДИХР за плановите во тек на кампањата да испрати на терен 16 набљудувачи.
+Изборниот законик предвидува казни до 9000 Евра за повреда на регулативата поврзана со финансирањето на кампањата, вклучително и за пречекорување на лимитот за донации или лимитот за трошење или за неподнесување на финансиски извештај.
+Кривичните санкции за повреди на регулативата за финансирање на кампањата вклучуваат парични и затворски казни.
+X. МЕДИУМИ
+Голем број медиумски куќи, поделени долж политички линии, делуваат на мал пазар за рекламирање.
+Телевизиите и онлајн медиумите се главни извори на политички информации.
+Јавниот радиодифузен сервис, Македонската радио-телевизија (МРТ) се финансира од државниот буџет, што, според мислењето на некои соговорници на МНИ на ОДИХР се одразува на нејзината уредничка независност.
+Иако соговорниците на МНИ на ОДИХР забележаа генерални подобрувања во медиумската сфера во последните години, тие искажаа загриженост околу самоцензурата, ниското ниво на професионалност, сајбервознемирувањето, особено против новинарики, и лошите работни услови во сферата на медиумите.
+Согласно со Законот за финансирање на политичките партии, 0,15 проценти од приходите на годишниот државен буџет мора да се распределат за субвенции за политичките партии.
+Од овие средства, 70 проценти треба да се распределат на парламентарните партии, пропорционално на бројот на освоени пратенички места, а 30 проценти треба да се распределат еднакво на сите партии кои освоиле најмалку 1 процент гласови на последните парламентарни или локални избори.
+Во 2021 година, околу 58 политички партии добиле државно финансирање; од нив, СДСМ доби 49 956 552 денари, а ВМРОДПМНЕ 44 039 448 денари, (приближно 818 000, односно 722 000 Евра).
+1 Евро изнесува приближно 61 денар.
+Во зависност од големината на населението на општините, лимитите на трошење се протегаат од 3571 Евро до 169 174 Евра.
+Првиот периодичен извештај треба да се предаде до 8 октомври, а вториот до 16 октомври.
+Во законот не се специфицирани рокови за објавување на извештаите.
+Изборниот законик бара од сите медиумски куќи, вклучувајќи ги и онлајн медиумите, да ги покриваат изборите на фер, балансиран и непристрасен начин.
+Во тек на официјалниот период на кампањата, МРТ е обврзана да посвети 30 проценти од своите термини за вести на општите настани, 30 проценти на парламентарните владејачки партии, 30 проценти на парламентарната опозиција, и 10 проценти на вонпарламентарните партии и независните кандидати.
+Од МРТ исто така се бара да обезбеди за учесниците во политичкиот натпревар бесплатно емитување во ударни термини.
+Приватните радиодифузери мора да обезбедат еднакво време на емитување на сите кандидати за градоначалници, додека подносителите на листи на советници треба исто така да добијат еднакво време на емитување кај локалните радиодифузни медиуми.
+Националните јавни и приватни радиодифузери се обврзани целото покривање на изборите да го надополнат со знаковен јазик.
+Платеното политичко рекламирање на приватните радиодифузни, печатени и онлајн медиуи во тек на периодот на кампања е финансирано директно од државниот буџет, што беше критикувано од некои соговорници на МНИ на ОДИХР, како нешто што потенцијално поттикнува клиентелизам кај медиумите.
+Медиумите што планираат да обезбедат платено медиумско време на учесниците во изборите мораат да се регистрираат кај ДИК.
+Амандманите на Изборниот законик од септември 2021 година пропишуваат, меѓу другото, дека осум минути платено медиумско време и 90 проценти од средствата треба еднакво да се поделат меѓу двете најголеми владејачки и двете најголеми партии од парламентарната опозиција, една минута и 7 проценти од средствата треба да се распределат на помалите парламентарни партии, а 30 секунди и три проценти од средствата на вонпарламентарните партии и независните кандидати.
+Почитувањето на законските услови во врска со покривањето на изборите од страна на медиумите го надгледува државно финансираната Агенција за аудио и аудиовизуелни медиумски услуги (АВМУ).
+АВМУ отпочна со мониторинг на 7 август и пред изборите поднесува седмични извештаи до ДИК, како и дневни извештаи во текот на официјалниот период за водење кампања.
+Во случај АВМУ да идентификува прекршувања од страна на радиодифузните медиуми, таа ќе поведе прекршочна постапка пред надлежниот суд, во рок од 48 часа.
+На 22 септември, МНИ на ОДИХР го отпочна своето квантитативно и квалитативно набљудување на покривањето на изборите на шест телевизиски канали со национално емитување и на четири новински веб-сајтови.
+XI. ПРИГОВОРИ И ЖАЛБИ
+Согласно со Изборниот законик, приговорите може да се поднесат до ОИК, ДИК и до основните судови.
+Приговорите што се однесуваат на финансирањето на кампањите и на злоупотребата на административни ресурси може да се поднесат до ДКСК.
+Надлежноста на ОИК е ограничена на приговори од гласачите во врска со наводни повреди на нивните права во текот на процедурата на гласање.
+Основните судови и ДИК ги разгледуваат приговорите против повредите во кампањата, а нивната надлежност во врска со овие прашања не е јасно разграничена.
+Управниот суд е крајна жалбена инстанца за повеќето приговори.
+Додека одлуките на ДИК за повредите на индивидуални права може да се обжалат пред Управниот суд, регулативата на ДИК може да се оспори само пред Уставниот суд, без да биде пропишана скратена постапка.
+Апелационите судови се крајна инстанца за разгледување на одлуките на основните судови во врска со изборите.
+МРТ обезбеди сопствено студио за снимање на бесплатните спотови, кои ќе се емитуваат од 4 до 14 октомври.
+Законот пропишува дека националните и локалните радиодифузери треба да го следат принципот на пропорционалност, врз основа на бројот на потврдени листи на кандидати.
+Вкупниот буџет распределен за медиумски кампањи не може да надмине 2 Евра по регистриран гласач во земјата, со дополнително 1 Евро по регистриран гласач во тек на вториот круг.
+Просечната цена за платено политичко рекламирање во секоја медиумска куќа не може да го надмине вкупниот просечен трошок за рекламирање пресметан за последните пет изборни циклуси.
+Ценовниците треба да се поднесат и потврдат од ДИК.
+ДИК регистрираше 35 телевизиски станици, 44 радио станици, 10 печатени медиуми и 191 онлајн новински сајтови.
+Пред почетокот на официјалниот период за кампања, АВМУ вршеше мониторинг на седум национални ТВ-канали, а има намера во тек на официјалната кампања да вклучи и некои регионални и локални радиодифузни медиуми.
+Заклучно со 24 септември, од страна на АВМУ не беа пријавени прекршувања.
+Станува збор за јавните радиодифузери МРТ1 и МРТ2, приватните радиодифузери Алсат-М, Канал 5, Телма и Сител, како и покривањето на изборите од страна на веб-сајтовите kurir.mk, plusinfo.mk, tetovasot.com и lajmpress.org.
+Во Северна Македонија има четири апелациони судови, со седиште во Скопје, Битола, Гостивар и Штип.
+Како генерално правило, правото да се поднесат приговори е гарантирано за учесниците и за гласачите.
+Гласачите можат да поднесат само приговори во однос на избирачките листи и за повредите на нивното право да гласаат.
+Граѓанските набљудувачи може да имаат забелешки за наводни неправилности внесени во записниците на ИО; овие забелешки не се третираат како приговори, но може да служат како основа за учесниците да поднесат приговор.
+Роковите за поднесување и за решавање по приговорите се куси: по правило, апликантите имаат до два дена да поднесат приговор, со еден до три дена предвидени за разгледување на повеќето приговори.
+По последните измени на Изборниот законик, приговорите за денот на изборите мора да бидат поднесени од страна на гласачите во рок од 12 часа (претходно 24 часа) и мора да се разгледаат во рок од два часа.
+МНИ на ОДИХР беше информирана од Управниот суд дека најновите промени негативно се одразиле на јасноста на роковите.
+XII. ГРАЃАНСКИ И МЕЃУНАРОДНИ НАБЉУДУВАЧИ
+Изборниот законик предвидува граѓанско и меѓународно набљудување на целокупниот изборен процес.
+Граѓанските здруженија и странски организации што се регистрирани најмалку една година пред денот на изборите, и чии статути го содржат принципот на заштита на човековите права може да аплицираат до ДИК за акредитација за да распоредат набљудувачи се’ до 10 дена пред денот на изборите.
+Очекувајќи да распореди најголема група граѓански набљудувачи за овие избори, ЦИВИЛ – Центар за слобода, спроведе активности на долгорочно набљудување ширум земјата од средината на август, вклучувајќи набљудување на медиумите, платформите на социјалните медиуми и активностите на политичките партии.
+Ентитетите со регистрирани кандидати имаат право да назначат свои овластени претставници да го следат изборниот процес на сите нивоа на изборната администрација.
+Претставниците на кандидатите во изборните тела од пониско ниво може да се регистрираат со ОИК до два дена пред денот на изборите.
+XIII. АКТИВНОСТИ НА ОДИХР МНИ
+МНИ на ОДИХР ги отпочна своите активности во Скопје на 7 септември.
+Шефицата на мисијата се сретна со претседателот на ДИК, со премиерот, со министерот за правда, со претседателот на управниот суд, претседавачот на законодавно-правната комисија на Собранието, и со претставници на политичките партии.
+МНИ на ОДИХР воспостави редовни контакти со ДИК, владините институции вклучени во изборниот процес, судството, политичките партии, кандидатите, граѓанското општество, медиумите и резидентната дипломатска и меѓународната заедница.
+Англиската верзија на овој извештај е единствениот официјален документ.
+Достапни се неофицијални преводи на македонски и на албански јазик.
+По амандманите, Управниот суд поднесе официјално барање до Министерството за правда за разјаснување во врска со роковите за разгледување на приговорите од денот на изборите.
+Иако Изборниот законик и календарот на ДИК го дефинираат рокот од десет дена пред денот на изборите како последен ден за поднесување на барањата за акредитација, Деловникот за работа на ДИК пропишува пет дена.
+==================================================> Shqip <==================================================
+https://www.osce.org/files/f/documents/9/d/499420.pdf
+Zyra e OSBE-së për Institucione Demokratike dhe të Drejtat e Njeriut
+Misioni për Vëzhgimin e Zgjedhjeve
+Republika e Maqedonisë së Veriut
+Zgjedhjet lokale, 17 tetor 2021
+RAPORT I PËRKOHSHËM
+7–27 shtator 2021
+1 tetor 2021
+I. PËRMBLEDHJE E SHKURTËR
+Më 17 tetor, votuesit do të zgjedhin kryetarët dhe këshillat e 80 komunave dhe të Qytetit të Shkupit.
+Në komunat ku asnjë kandidat për kryetar komune nuk e fiton shumicën e kërkuar absolute, dy javë më vonë mbahet rrethi i dytë, midis dy kandidatëve me numër më të madh votash.
+Zgjedhjet lokale kryesisht janë të rregulluara me Kushtetutën e vitit 1991 dhe Kodin Zgjedhor tëvitit 2006.
+Kodi Zgjedhor është ndryshuar ndjeshëm që nga viti 2017 dhe është ndryshuar së fundmi më 15 shtator 2021, me synimin e deklaruar për t’i adresuar rekomandimet paraprake të ODIHR-it.
+Ndryshimet, të cilat vlejnë për këto zgjedhje, u miratuan shumë afër ditës së zgjedhjeve dhe pa asnjë diskutim publik, megjithëse kishin mbështetje të gjerë politike nga të gjitha partitë parlamentare.
+Zgjedhjet administrohen nga Komisioni Shtetëror i Zgjedhjeve (KSHZ), 80 Komisione Zgjedhore Komunale (KZK) dhe Komisioni Zgjedhor i Qytetit të Shkupit (KZQSh), dhe rreth 3,480 Këshilla Zgjedhorë (KZ).
+Organet e administratës zgjedhore deri tani i kanë respektuar shumicën e afateve ligjore.
+KSHZ-ja ka mbajtur mbledhje të rregullta të hapura, ndërsa korniza ligjore parasheh që vëzhguesit ndërkombëtarë dhe qytetarë, si dhe përfaqësuesit e autorizuar të garuesve ta ndjekin procesin zgjedhor në të gjitha nivelet e administratës zgjedhore.
+Jo të gjitha vendimet dhe udhëzimet e KSHZ-së janë publikuar në faqen e internetit të KSHZ-së në kohën e duhur.
+Ndryshimet e fundit të Kodit Zgjedhor ndikuan dhe i vonuan përgatitjet teknike dhe administrative të zgjedhjeve dhe kërkonin përshtatje të udhëzimeve, programeve të trajnimit dhe edukimit, të KSHZ-së, si dhe të materialeve dhe procedurave të ditës së zgjedhjeve.
+Listat Zgjedhore nxirren nga regjistri i përhershëm i votuesve, i cili përditësohet periodikisht dhe, më datën 24 shtator, përfshinte rreth 1.8 milion votues.
+Identifikimi biometrik i votuesve futet në përdorim për herë të parë brenda një afati të ngushtë për realizim, pa një projekt pilot fillestar ose testim gjithëpërfshirës. 
+Shumica e bashkëbiseduesve të MVZ-së së ODIHR-it, duke përfshirë partitë politike, e mirëpritën përdorimin e identifikimit biometrik të votuesve, si një mjet efektiv për të parandaluar mashtrimin.
+Megjithatë, disa prej tyre shprehën shqetësime se problemet e mundshme me përdorimin e pajisjeve mund të ndikojnë negativisht në besimin e publikut në integritetin e zgjedhjeve dhe në administrimin e zgjedhjeve.
+Kandidatët për kryetarë të komunave dhe listat për Këshillat komunalë regjistrohen nga KZK-të përkatëse dhe KZQSh-ja.
+Kandidatëve të pavarur iu kërkua t’i dorëzojnë nënshkrimet e votuesve që e kanë mbështetur kandidaturën e tyre.
+Kodi Zgjedhor parashikon një kuotë gjinore prej 40 për qind për listat e Këshillave komunalë.
+Gjithsej 571 lista kandidatësh për këshillat komunalë, duke përfshirë rreth 45 për qind të kandidateve gra, dhe 299 kandidatë për kryetarë komune, 25 nga të cilët janë gra, u regjistruan brenda afatit ligjor.
+Periudha zyrtare e fushatës për këto zgjedhje filloi më 27 shtator dhe do të përfundojë më 16 tetor.
+Kodi Zgjedhor përmban dispozita që e ndalojnë përdorimin e burimeve administrative në fushatë, të cilat u plotësuan me ndryshimet e bëra në shtator.
+Ambienti para fushatës në përgjithësi ka qenë paqësor.
+Megjithatë, shumë palë të interesuara kanë ngritur shqetësime në lidhje me retorikën negative që u shfaq në garat me konkurrencë të rreptë.
+Fushatat zgjedhore financohen me mjete publike dhe private.
+Të gjitha transaksionet e fushatës duhet të administrohen përmes një llogarie të dedikuar bankare dhe garuesit duhet të dorëzojnë katër raporte financiare, dy para dhe dy pas ditës së zgjedhjeve.
+Raportet e financimit të fushatës duhet të publikohen në internet, ndërsa revizion të raportit përfundimtar duhet të bëjë Enti Shtetëror i Revizionit, i cili ka kompetenca të kufizuara mbikëqyrëse para zgjedhjeve.
+KSHPK-ja ka autorizimin të fillojë procedurë sipas detyrës zyrtare (ex-officio) gjatë gjithë periudhës zgjedhore.
+Numri i madh i mediave janë të ndara përgjatë vijave politike.
+Televizioni dhe mediat online janë burimet kryesore të informimit politik.
+Kodi Zgjedhor kërkon që të gjitha mediat, duke përfshirë edhe mediat online, t’i mbulojnë zgjedhjet në mënyrë të drejtë, të balancuar dhe të paanshme, ndërsa transmetuesit publik i kërkohet t'u sigurojë garuesve hapësirë për transmetim falas gjatë kohës me shikueshmëri më të madhe.
+Reklamat e paguara politike në mediat private transmetuese, të shkruara dhe ato online gjatë periudhës së fushatës financohen drejtpërdrejt nga buxheti i shtetit.
+Respektimi i kërkesave ligjore nga ana e mediave mbikëqyret nga Agjencia për Shërbime dhe Audio dhe Audiovizuale Mediatike, duke përfshirë edhe monitorimin e periudhës së fushatës nga ana e saj.
+Kundërshtimet mund të parashtrohen te KZK-të, KSHZ-ja dhe gjykatat themelore.
+Kundërshtimet në lidhje me financimin e fushatës dhe keqpërdorimin e burimeve administrative mund të parashtrohen në Komisionin Shtetëror për Parandalimin e Korrupsionit (KSHPK).
+Votuesit mund të parashtrojnë kundërshtime vetëm në lidhje me listat e votuesve dhe për shkeljen e të drejtës së tyre për të votuar. KSHZ-ja dhe KSHPK-ja kanë raportuar disa kundërshtime.
+Pas ndryshimeve të shtatorit, Gjykata Administrative ka parashtruar një kërkesë zyrtare për sqarim në lidhje me afatet për shqyrtimin e kundërshtimeve të ditës së zgjedhjeve.
+II. HYRJE
+Në përgjigje të ftesës nga autoritetet e Maqedonisë së Veriut për t’i vëzhguar zgjedhjet lokale të 17 tetorit të vitit 2021, Zyra e OSBE-së për Institucione Demokratike dhe të Drejtat e Njeriut (ODIHR) më 7 shtator e krijoi Misionin për Vëzhgimin e Zgjedhjeve (MVZ).
+Misioni i udhëhequr nga Tana de Zulueta, përbëhet nga 13 anëtarë të ekipit kryesor në Shkup dhe 20 vëzhgues afatgjatë, të cilët më 15 shtator u shpërndanë në 9 lokacione në mbarë vendin.
+Anëtarët e misionit janë siguruar nga 19 Shtete pjesëmarrëse të OSBE-së.
+ODIHR u ka kërkuar Shteteve pjesëmarrëse që të dërgojnë 250 vëzhgues afatshkurtër për të vëzhguar procedurat e ditës së zgjedhjeve.
+III. SFONDI DHE KONTEKSTI POLITIK
+Më 6 gusht të vitit 2021, Kryetari i Kuvendit i shpalli zgjedhjet lokale për më 17 tetor.
+Zgjedhjet më të fundit lokale u mbajtën në vitin 2017, kur koalicioni i udhëhequr nga Lidhja Social Demokratike e Maqedonisë (LSDM), e cila kishte krijuar me sukses një koalicion qeverisës pas zgjedhjeve parlamentare të mbajtura në dhjetor të vitit 2016, fitoi kontrollin në shumicën e komunave.
+Qeveria, e kryesuar nga kryetari i LSDM -së Zoran Zaev, mbështetet nga një koalicion i LSDM-së, BDI-së dhe disa partive më të vogla politike.
+Gratë janë më pak të përfaqësuara në funksionet e zgjedhura publike, me vetëm 45 nga 120 vende në parlamentin aktual, dhe 4 nga 15 postet ministrore në qeveri.
+Në zgjedhjet lokale të vitit 2017, gratë u zgjodhën në 6 nga 81 postet e kryetarëve të komunave dhe përfaqësuan rreth 34 për qind të këshilltarëve të zgjedhur.
+Aspiratat shumëvjeçare të vendit për anëtarësimin në Bashkimin Evropian (BE) dhe shtyrjet e ndërlidhura të bisedimeve për anëtarësim, mosmarrëveshjet mbi menaxhimin e pandemisë së KOVID-19 nga qeveria, shqetësimet mbi situatën ekonomike, veçanërisht shkalla e lartë e papunësisë dhe shqetësimet mbi retorikën negative politike e formojnë sfondin e këtyre zgjedhjeve.
+Regjistrimi i popullsisë, i pari që nga viti 2002, filloi më 5 shtator dhe është planifikuar të zgjasë deri më 30 shtator.
+IV. KORNIZA LIGJORE DHE SISTEMI ZGJEDHOR
+Zgjedhjet lokale kryesisht janë të rregulluara me Kushtetutën e vitit 1991 dhe Kodin Zgjedhor të vitit 2006.
+Ligjet e tjera relevante përfshijnë Ligjin për Financimin e Partive Politike të vitit 2004, Ligjin për Parandalimin e Korrupsionit dhe Konfliktit të Interesave të vitit 2019, Ligjin për Mediat të vitit 2013 dhe Ligjin për Shërbimet Audio dhe Audiovizuale Mediatike të vitit 2013.
+Maqedonia e Veriut i ka ratifikuar instrumentet kryesore ndërkombëtare për të drejtat e njeriut që kanë të bëjnë me mbajtjen e zgjedhjeve demokratike.
+Kodi Zgjedhor është ndryshuar ndjeshëm që nga zgjedhjet e fundit lokale, duke përfshirë edhe dy herë në vitin 2021.
+Më 2 prill u miratuan ndryshimet për t’i plotësuar dispozitat për identifikimin biometrik të votuesve.
+Më 15 shtator, Kuvendi papritur miratoi një numër ndryshimesh, shumica e të cilave vlejnë për këto zgjedhje lokale.
+Ndryshimet përfshijnë dispozita që kanë të bëjnë me të drejtat e votimit të qytetarëve me aftësi të kufizuara intelektuale, tërheqjen e listave të kandidatëve, masat mbrojtëse kundër keqpërdorimit të burimeve publike, zhvillimin e fushatës në media, afatet për dorëzimin dhe shqyrtimin e kundërshtimeve dhe mandatin e Komisionit Shtetëror të Zgjedhjeve (KSHZ).
+Megjithëse Kuvendinjoftoi se këto ndryshime rrjedhin nga rekomandimet e mëparshme të ODIHR-it, MVZ-ja e ODIHR-it u informua se një reformë zgjedhore më gjithëpërfshirëse është planifikuar për periudhën pas zgjedhjeve, për t’i implementuar, ndër të tjera, rekomandimet e ODIHR-it të cilat mbeten të patrajtuara.
+Ndryshimet e 15 shtatorit u miratuan me procedurë të shkurtuar, pa debat publik paraprak.
+Megjithëse pranuan se ndryshimet u miratuan shumë afër ditës së zgjedhjeve, shumica e bashkëbiseduesve të MVZ-së së ODIHR-it theksuan se procesi kishte mbështetje të gjerë politike7, edhe pse palët kryesore të interesit siç është KSHZ-ja, thanë se nuk u konsultuan për propozim-ndryshimet dhe ngritën shqetësime në lidhje me miratimin e nxituar të ndryshimeve të rëndësishme dhe kapacitetin teknik për t'i zbatuar ato brenda kohës së kufizuar që kishte mbetur deri para ditës së zgjedhjeve.
+Këshillat komunalë dhe kryetarët e komunave do të zgjidhen për një mandat katërvjeçar, në zgjedhje të drejtpërdrejta në 80 komunat dhe në Qytetin e Shkupit.
+Zgjedhjet e këshilltarëve mbahen sipas sistemit proporcional të përfaqësimit me lista të mbyllura, pa prag.
+Kryetarët e komunave zgjidhen sipas sistemit të shumicës me dy rrethe zgjedhore.
+Nëse asnjë kandidat nuk fiton shumicën absolute të votave të hedhura në rrethin e parë të zgjedhjeve, dy javë më vonë mbahet rrethi i dytë, midis dy kandidatëve
+me numër më të madh votash. Së paku një e treta e votuesve të regjistruar në një komunë duhet të votojnë në rrethin e parë që zgjedhjet për kryetar të komunës të jenë të vlefshme, përndryshe zgjedhjet duhet të përsëriten.
+Kërkesa për pjesëmarrje të votuesve nuk zbatohet për rrethet e dyta të mundshme dhe për zgjedhjet e këshillave komunalë.
+V. ADMINISTRIMI I ZGJEDHJEVE
+Zgjedhjet lokale administrohen nga një strukturë në tre nivele, e udhëhequr nga Komisioni Shtetëror i Zgjedhjeve (KSHZ) dhe e përbërë nga 80 Komisione Zgjedhore Komunale (KZK) dhe Komisioni Zgjedhor i Qytetit të Shkupit (KZQSh), si dhe rreth 3,480 Këshilla Zgjedhorë (KZ).
+Përbërja e çdo organi për menaxhim të zgjedhjeve duhet t’i plotësojë kërkesat ligjore për përfaqësimin gjinor dhe etnik.
+KSHZ-ja është një organ i përhershëm i përbërë nga shtatë anëtarë të cilët zgjidhen nga Kuvendi.
+Pas një procesi të hapur të rekrutimit, katër anëtarë, duke përfshirë edhe nënkryetarin, propozohen nga partitë në pushtet, ndërsa tre anëtarë, duke përfshirë edhe kryetarin, nga partitë opozitare, nga një listë paraprake e aplikuesve.
+KSHZ-ja në përbërjen e saj aktuale u emërua në janar të vitit 2021 për një mandat të përkohshëm dyvjeçar; megjithatë, me ndryshimet e bëra më 15 shtator u fut një mandat pesëvjeçar.
+Vetëm dy nga anëtarët aktualë të KSHZ-së janë gra, duke përfshirë edhe nënkryetaren.
+Për çështjet administrative dhe organizative, KSHZ-ja ndihmohet nga shërbimi profesional, i udhëhequr nga sekretari i përgjithshëm.
+Mandati i sekretarit të përgjithshëm të mëparshëm skadoi në janar të vitit 2021 dhe që atëherë pozita është e paplotësuar.
+KZK-të dhe KZQSh-ja aktuale, si dhe anëtarët jopartiakë të KZ-ve, u emëruan në qershor dhe korrik të vitit 2021, me mandate pesëvjeçare dhe katërvjeçare, respektivisht.
+KZK-të e mbikëqyrin administrimin e zgjedhjeve në komunën përkatëse, i regjistrojnë kandidatët, i emërojnë dhe i trajnojnë KZ-të, dhe menaxhojnë me përgatitjet e tjera teknike.
+Pas përzgjedhjes fillestare, gratë përbënin 49 për qind të anëtarëve të KZK-ve dhe KZQSh-së, duke kryesuar me 39 nga 81 organe të nivelit të mesëm.
+Në disa komuna, përbërja e KZK-ve dhe KZ-ve ende nuk është finalizuar, pasi është raportuar një largim i konsiderueshëm midis anëtarëve të përzgjedhur, kryesisht për shkak të arsyeve shëndetësore ose konfliktit të interesit në rastet e anëtarëve që janë kandiduar në zgjedhje.
+Deri më tani, organet e administratës zgjedhore i kanë respektuar shumicën e afateve ligjore.
+KSHZ-ja ka mbajtur mbledhje të rregullta të cilat kanë qenë të hapura për mediat, vëzhguesit dhe përfaqësuesit e autorizuar të kandidatëve dhe të cilat janë transmetuar drejtpërdrejt në internet, me ç’rast incizimet ishin në dispozicion edhe në kanalin e KSHZ-së në YouTube.
+Mbledhjet lajmërohen vetëm përmes listës zyrtare të e-mail-eve, shpesh pak para se të mbahen mbledhjet.
+Jo të gjitha procesverbalet e mbledhjeve, vendimet dhe udhëzimet e miratuara janë publikuar në faqen e internetit të KSHZ-së në mënyrë konsekuente dhe në kohë.
+Shih raportet e mëparshme ODIHR-it për zgjedhjet në Maqedoninë e Veriut.
+Aktualisht, nga 80 komuna dhe Qyteti i Shkupit, LSDM-ja ka 57 kryetarë komunash, Bashkimi Demokratik për Integrim (BDI) i shqiptarëve etnikë 10, Organizata e Brendshme Revolucionare Maqedonase – Partia Demokratike për Unitetin Kombëtar Maqedonas (VMRO-DPMNE) 5, dhe Aleanca për Shqiptarët (ASH) 3, ndërsa 3 kryetarë komunash janë të pavarur.
+Partia Demokratike e Shqiptarëve (PDSH), Lëvizja BESA e shqiptarëve etnikë (BESA) dhe Partia Demokratike e Turqve në Maqedoni (PDTM) kanë nga një kryetar komune.
+Qeveria aktuale përfshin gjithashtu një ministër nga Lëvizja BESA (BESA) dhe një nga Partia Liberal Demokratike (PLD).
+Koalicioni i udhëhequr nga LSDM-ja që i fitoi zgjedhjet parlamentare në vitin 2020 përfshinte gjithsej 20 parti më të vogla.
+Duke përfshirë Paktin Ndërkombëtar për të Drejtat Civile dhe Politike të vitit 1966 (PNDCP), Konventën Ndërkombëtare për Eliminimin e të Gjitha Formave të Diskriminimit Racor të vitit 1965 (KNEDR), Konventën e Kombeve të Bashkuara për Eliminimin e të Gjitha Formave të Diskriminimit ndaj Grave të vitit 1979 (KEDNG), Konventën e KB-së kundër Korrupsionit të vitit 2003 (KKBKK), Konventën e KB-së për të Drejtat e të Personave me Aftësi të Kufizuara të vitit 2006 (KDPAK), dhe Konventën Evropiane për Mbrojtjen e të Drejtave të Njeriut dhe Lirive Themelore të vitit 1950 (KEDNJ).
+Maqedonia e Veriut është anëtare e Komisionit Evropian për Demokraci përmes Ligjit të Këshillit të Evropës (Komisioni i Venedikut) dhe e Grupit të Shteteve kundër Korrupsionit (GRECO).
+Më parë, ndryshimet në Kodin Zgjedhor u miratuan në shkurt të vitit 2020, duke ndikuar në shumicën e procedurave zgjedhore dhe përgjegjësitë kryesore të administratës zgjedhore.
+Kodi u ndryshua gjithashtu në vitin 2017, 2018 dhe 2019.
+Një grup pune ndërinstitucional, që kishte për detyrë të propozojë ndryshime të Kodit Zgjedhor dhe i formuar nga Ministria e Drejtësisë, u takua disa herë gjatë dhjetorit të vitit 2020 dhe prillit të vitit 2021.
+Grupi i punës u krijua fillimisht në vitin 2015 dhe u riformua pas një marrëveshjeje të 20 korrikut të vitit 2016 midis katër partive kryesore politike; grupi vazhdoi aktivitetet e tij deri në vitin 2021 nën koordinimin e Ministrisë së Drejtësisë.
+Ndryshimet u parashtruan nga deputetë të gjashtë grupeve kryesore parlamentare, që përfaqësonin edhe pushtetin edhe opozitën, dhe u miratuan pothuajse unanimisht (78 vota për, 2 kundër dhe 1 abstenim).
+Ndryshimet e fundit të Kodit Zgjedhor ndikuan dhe i vonuan përgatitjet teknike dhe administrative të zgjedhjeve dhe kërkonin përshtatje në momentin e fundit të udhëzimeve, programeve të trajnimit dhe edukimit, të KSHZ-së, si dhe të materialeve dhe procedurave të ditës së zgjedhjeve.
+Sektori i trajnimit i KSHZ-së zhvilloi një program trajnimi gjithëpërfshirës dhe i përfundoi trajnimet fillestare të KZK-ve dhe trajnerëve të certifikuar nga KSHZ-ja deri në mes të shtatorit; megjithatë, këto trajnime nuk e mbuluan përdorimin e pajisjeve biometrike për identifikimin e votuesve (PBIV) dhe i përfshinë procedurat zgjedhore në fuqi para miratimit të ndryshimeve të fundit.
+Sesionet shtesë të trajnimit për trajnerët e KSHZ-së për përdorimin e PBIV dhe procedurat e reja u mbajtën më 24 dhe 25 shtator, pas miratimit të udhëzimeve të rishikuara dhe konfigurimit të pajisjeve teknike.
+Numri i këshilltarëve përcaktohet nga madhësia e popullsisë së komunës dhe ndryshon nga 9 deri në 33, ndërsa 45 përfaqësues zgjidhen në Këshillin e Qytetit të Shkupit.
+Mandatet shpërndahen duke përdorur formulën e d'Hondt-it.
+Reforma e paralajmëruar zgjedhore parashikon ndryshimin e sistemit zgjedhor për të futur lista të hapura të kandidatëve.
+Numri përfundimtar i KZ-ve që do të jenë funksionale do të përcaktohet vetëm pas përfundimit të procesit të regjistrimit të votuesve, duke qenë se vendvotimet nuk do të hapen në zonat në të cilat ka më pak votues se numri minimal prej dhjetë votuesve të regjistruar që kërkohet për krijimin e një vendvotimi.
+Çdo gjini duhet të përfaqësohet nga të paktën 30 për qind e anëtarëve, e po ashtu duhet të përfaqësohen edhe të gjitha bashkësitë etnike që përbëjnë të paktën 20 për qind të popullsisë në komunën përkatëse.
+Ndryshimet e shtatorit të vitit 2021 përcaktojnë se në rast të ndryshimit të qeverisë, përbërja e KSHZ-së do të harmonizohet në në mënyrë përkatëse.
+KZK-të dhe KZQSh-ja përbëhen nga pesë anëtarë dhe zëvendësit e tyre, të zgjedhur në mënyrë të rastësishme nga KSHZ-ja nga radhët e punonjësve të administratës shtetërore dhe komunale.
+KZ-të përbëhen nga tre anëtarë dhe zëvendësit e tyre, të përzgjedhur në mënyrë të rastësishme nga radhët e nëpunësve publikë dhe shtetërorë me mandat katërvjeçar dhe dy anëtarë të përkohshëm dhe zëvendësit e tyre, të emëruar nga partitë parlamentare për çdo zgjedhje.
+Secila nga dy partitë në pushtet dhe dy partitë opozitare, që kanë fituar numrin më të madh të votave në zgjedhjet e fundit parlamentare, emërojnë nga një anëtar dhe një zëvendës.
+VI. REGJISTRIMI I VOTUESVE
+Të gjithë qytetarët që kanë mbushur 18 vjet në ditën e zgjedhjeve kanë të drejtë vote, përveç atyre që u është marrë e drejta e votës plotësisht ose pjesërisht me vendim të gjykatës në bazë të aftësisë së kufizuar intelektuale ose psiko-sociale.
+Për t'u përfshirë në regjistrin e votuesve, qytetarët duhet të kenë adresë të regjistruar në vend dhe letërnjoftim ose pasaportë të vlefshme.
+Ndryshimet e shtatorit të vitit 2021 u lejojnë qytetarëve, letërnjoftimi i të cilëve ka skaduar pas shpalljes së zgjedhjeve dhe të cilët kanë kërkuar letërnjoftim të ri deri në ditën e zgjedhjeve, që të përfshihen në regjistrin e votuesve.
+Për shkak të kontradiktave në Kodin Zgjedhor në lidhje me azhurnimin e regjistrit të votuesve, qytetarët që mbushin 18 vjet midis rrethit të parë dhe të dytë nuk janë të përfshirë.
+KSHZ-ja është përgjegjëse për mirëmbajtjen dhe përditësimin e regjistrit të votuesve, nga i cili nxirren Listat Zgjedhore, në bazë të përditësimeve të rregullta nga institucionet e ndryshme shtetërore.
+Në praktikë, Enti Shtetëror Statistikor siguron përpunimin teknik dhe metodologjik të të dhënave nga regjistri i votuesve.
+Kërkesa ligjore që regjistri i zgjedhësve të nxirret nga Regjistri Kombëtar i Popullsisë ende nuk është zbatuar.
+Të gjithë bashkëbiseduesit e MVZ-së së ODIHR-it shprehën besim në saktësinë dhe besueshmërinë e regjistrit të votuesve, megjithëse disa pranuan se një numër i konsiderueshëm i qytetarëve që banojnë jashtë vendit mbeten në regjistër pasi mbajnë një vendbanim zyrtar në vend
+Më 24 shtator, KSHZ-ja e mbylli regjistrin e votuesve, me gjithsej 1,824,864 votues dhe filloi shtypjen e Listave Zgjedhore.
+Qytetarët mund t’i kontrollojnë të dhënat e tyre në regjistrin e votuesve në internet dhe në zyrat rajonale të KSHZ-së gjatë gjithë vitit, si dhe gjatë periudhës së këqyrjes publike, e cila u zhvillua nga 21 gushti deri më 9 shtator.
+Midis 15 dhe 20 shtatorit, të gjitha partitë që garojnë në zgjedhje kishin mundësi të merrnin një kopje elektronike të regjistrit të zgjedhësve, pa mbrojtje nga kopjimi.
+Afati kohor që partitë të parashtrojnë ankesa ndaj vendimeve të KSHZ-së në lidhje me regjistrin e votuesve mund ta pengojë KSHZ-në që ta mbyllë regjistrin deri në fund të afatit ligjor; në këto zgjedhje nuk kishte ankesa të tilla.
+Ligji nuk parashikon këqyrje të regjistrit nga kandidatët e pavarur.
+Identifikimi biometrik i votuesve, i cili u fut në Kodin Zgjedhor me ndryshimet e bëra në shkurt të vitit 2020, do të përdoret për herë të parë në këto zgjedhje për të gjithë votuesit në vendvotimet e rregullta, pa realizuar një projekt pilot dhe pa kohë të mjaftueshme për testimin gjithëpërfshirës të harduerit dhe softuerit.
+Procesi i furnizimit publik nuk u fillua deri në qershor të vitit 2021, pas të cilit, në gusht të vitit 2021, u furnizuan gjithsej 4,000 PIBV të lëvizshme.
+Shumica e makinave nuk u dorëzuan deri një muaj para ditës së caktuar të zgjedhjeve.
+Ndryshimet e shtatorit të vitit 2021 prezantuan mundësinë që qytetarët të cilët janë pjesërisht të privuar nga aftësia ligjore ta rifitojnë të drejtën e tyre të votimit në bazë të vendimit të gjykatës, por kjo dispozitë në praktikë nuk ka efekt në të drejtat e votës për këto zgjedhje.
+Duke përfshirë edhe Ministrinë e Punëve të Brendshme, Ministrinë e Drejtësisë dhe gjykatat themelore.
+Duke përfshirë edhe 82,461 votues të regjistruar si banorë jashtë vendit, të cilët kanë të drejtë të votojnë në vend, por janë përfshirë në lista të veçanta, si dhe 2,250 në institucionet ndëshkuese-përmirësuese dhe në institucionet e kujdesit, të cilët kanë të drejtë të votojnë një ditë më herë, më 16 tetor.
+Kërkimi mund të bëhet në bazë të numrin unik amë të qytetarit ose sipas adresës.
+Gjithsej 15 parti morën kopje elektronike të regjistrit të votuesve.
+Nga gjithsej 16 kërkesa për korrigjim të parashtruara nga 2 parti politike, 11 kërkesa për përfshirjen e votuesve u refuzuan nga KSHZ-ja.
+Lista Zgjedhore të secilit vendvotim duhet të ngarkohet në pajisje, e cila do t’i skenojë gjurmët e gishtërinjve të votuesve për ta verifikuar identitetin e tyre duke i përputhur gjurmët e gishtërinjve me ato të regjistruara në pajisje.
+Me PIBV-të, të cilat nuk janë të lidhura në rrjet ose të lidhura në internet, do të merret kryetari ose nënkryetari i KZ-së.
+Listat e shtypura në letër do të përdoren si zëvendësim, në rast të problemeve teknike me PIBV-të.
+Shumica e bashkëbiseduesve të MVZ-së së ODIHR-it, duke përfshirë partitë politike, e mirëpritën futjen në përdorim të identifikimit biometrik të votuesve, si një mjet efektiv për të parandaluar mashtrimin, duke përfshirë votimin e shumëfishtë dhe prezantimin e rrejshëm në emër të ndonjë votuesi tjetër.
+Megjithatë, disa prej tyre shprehën shqetësime se problemet e mundshme me përdorimin e pajisjeve të reja mund të ndikojnë negativisht në besimin e publikut në integritetin e zgjedhjeve dhe në administrimin e zgjedhjeve.
+VII. REGJISTRIMI I KANDIDATËVE
+Qytetarët që janë të paktën 18 vjeç në ditën e zgjedhjeve dhe kanë të drejtë vote, kanë të drejtë të kandidojnë për postin e kryetarit të komunës ose për këshilltar në komunën e vendbanimit të tyre të regjistruar.
+Korniza ligjore i ndalon të kandidojnë në zgjedhje ata që aktualisht vuajnë ose presin të vuajnë dënim të plotfuqishëm prej më shumë se gjashtë muaj burgim.
+Kandidatët për kryetar komune dhe këshilltarë mund të emërohen nga partitë e regjistruara politike ose nga koalicione partish, ose mund të kandidojnë në mënyrë të pavarur (individualisht për kryetar komune, ose, në rastin e këshilltarëve, në lista), të mbështetur nga grupe votuesish.
+Çdo gjini duhet të përbëjë të paktën 40 për qind të kandidatëve në të gjitha listat për këshillat komunalë, me kërkesë që kandidati i gjinisë më pak të përfaqësuar të përfshihet në secilin grup prej tre vendeve të njëpasnjëshme, me një vend shtesë brenda çdo grupi prej dhjetë kandidatësh të rezervuar për kandidatin e gjinisë më pak të përfaqësuar.
+Për të mbështetur kandidaturat e pavarura, grupet e votuesve duhet të mbledhin midis 100 dhe 450 nënshkrime mbështetëse të votuesve që banojnë në komunën përkatëse, në varësi të madhësisë së popullsisë së komunës, dhe të paktën 1,000 nënshkrime për listat e kandidatëve në nivelin e Qytetit të Shkupit.
+Për këto zgjedhje, nënshkrimet mbështetëse u mblodhën midis 16 dhe 30 gushtit, në prani të zyrtarëve të KSHZ-së, në zyrat rajonale të KSHZ-së ose në zyrat e noterëve të caktuar.
+Dokumentet për emërim duhej të dorëzoheshin te KKZ-të dhe KZQSh-ja deri më 11 shtator.
+Pas pranimit të tyre, KKZ-të dhe KZQSh-ja kishin 24 orë kohë për t’i verifikuar dokumentet e dorëzuara.
+Parashtruesit e listave të kandidatëve kishin dy ditë për t’i korrigjuar mangësitë eventuale të identifikuara në dokumentet për emërim.
+Disa KZK e informuan MVZ-në e ODIHR-it se ata nuk ishin gjithmonë në gjendje t’i respektonin të gjitha afatet, për shkak të dorëzimit të vonshëm të të dhënave në lidhje me dosjet penale të kandidatëve nga gjykatat.
+Tenderi i parë që u shpall më 21 maj të vitit 2021 u anulua nga Byroja për Furnizime Publike.
+Kontrata me kompaninë gjermane Dermalog u nënshkrua më 11 gusht të vitit 2021.
+Dy kompani lokale, Simboliko dhe Alphazet-Macedonia, janë nënkontraktuar për trajnimet dhe për ngarkimin e Listave Zgjedhore në pajisje, si dhe për menaxhimin e një qendre thirrjesh për asistencë teknike, respektivisht.
+Deri më 27 shtator, 1,180 nga 4,000 njësi të lëvizshme të PIBV i ishin dorëzuar KSHZ-së.
+Dërgesat e mbetura priten të arrijnë në vend deri më 2 tetor.
+Nëse gjurma e gishtit të një votuesi nuk mund të gjendet në listën elektronike të gjurmëve të gishtërinjve të votuesve, identifikimi i votuesit do të bëhet duke e skenuar letërnjoftimin e votuesit ose duke e futur numrin unik amë të qytetarit. 
+Kodi Zgjedhor kërkon që numri i kandidatëve në listat e parashtruara të jetë i barabartë me vendet që janë në dispozicion në komunën përkatëse, gjë që i pamundëson kandidatët të konkurrojnë individualisht.
+Të gjitha listat e parashtruara të kandidatëve duhet të shoqërohen me certifikatat e regjistrimit të partive politike, sipas rastit; një deklaratë të parevokueshme të pëlqimit me kandidaturën, deklaratë për përkatësinë në bashkësinë etnike dhe kopje të letërnjoftimit ose pasaportës së vlefshme të secilit kandidat; konfirmimi i numrit unik tatimor nga Regjistri Qendror; konfirmimi për hapjen e llogarisë bankare të dedikuar vetëm për qëllime të fushatës; dhe një simbol zgjedhor, nëse ka, në formë digjitale.
+Nga 69 grupe votuesish që synonin të propozonin lista të kandidatëve për këshillat komunalë, 67 e mblodhën numrin e kërkuar të nënshkrimeve.
+Për emërimin e kandidatëve për kryetarë të komunave, 30 nga 38 kandidatë të pavarur të mundshëm mblodhën numrin e nënshkrimeve të nevojshme për regjistrim.
+Sipas KSHZ-së, brenda afatit ligjor deri më 18 shtator, KZK-të dhe KZQSh-ja regjistruan gjithsej 10,649 kandidatë në 571 lista të kandidatëve për këshillat komunalë të parashtruara nga 28 parti politike, 6 koalicione dhe 58 grupe votuesish.
+Gratë përbëjnë rreth 45 për qind të të gjithë kandidatëve për këshilltarë dhe janë bartëse në 111 lista të kandidatëve (19 për qind).
+Në zgjedhjet për kryetarë komune do të garojnë gjithsej 299 kandidatë (duke përfshirë 25 gra, ose 8 për qind) të propozuar nga 22 parti politike, 5 koalicione dhe 25 grupe votuesish.
+MVZ-ja e ODIHR-it është në dijeni të refuzimeve të tre kandidatëve për kryetarë të komunave dhe nëntë listave të kandidatëve për këshilltarë komunalë nga KZK-të për shkak të dorëzimit të vonuar ose mangësive në dokumentet për emërim.
+VIII. AMBIENTI I FUSHATËS
+Periudha zyrtare e fushatës filloi më 27 shtator dhe përfundon më 15 tetor në mesnatë.
+Kodi Zgjedhor përmban dispozita që e ndalojnë përdorimin e burimeve administrative në fushatë, duke përfshirë moratorium, nga dita e shpalljes së zgjedhjeve, për publikimin e projekteve të reja të financuara me mjete publike dhe ndalesë për përdorimin e zyrave, pajisjeve apo punonjësve shtetërorë për fushatë, dhe presionin ndaj nëpunësve publikë.
+Pas shpalljes së zgjedhjeve, nuk mund të bëhen pagesa të rrogave, pensioneve dhe ndihmave sociale, përveç pagesave të rregullta, nga mjetet buxhetore.
+Ndryshimet e shtatorit të vitit 2021 i plotësuan rregullat ekzistuese që e rregullojnë fushatën dhe synojnë ta rrisin transparencën e përdorimit të burimeve publike, siç janë automjetet, gjatë fushatës zgjedhore.
+Në zgjedhjet e ardhshme lokale do të garojnë partitë politike dhe koalicionet e udhëhequra nga partitë, si dhe një numër i madh i kandidatëve të pavarur të mbështetur nga grupe të votuesve.
+Gjatë periudhës raportuese, ambienti para fushatës në përgjithësi ka qenë paqësor.
+Shumica e partive njoftuan se në strategjitë e tyre të fushatës do të përdorin fushatë pozitive, si një metodë për të kundërshtuar shkëmbimin e akuzave dhe sulmet personale midis udhëheqësve politikë që i karakterizuan fushatat e mëparshme.
+Megjithatë, shumica e bashkëbiseduesve të MVZ-së së ODIHR-it shprehën shqetësime mbi retorikën negative që u shfaq para fillimit zyrtar të fushatës.
+Partitë politike gjithashtu u zotuan se do t'i përmbahen rregullave që e rregullojnë fushatën zgjedhore duke e nënshkruar Kodin për Zgjedhje të Drejta dhe Demokratike më 23 shtator, nën patronazhin e KSHZ-së.
+Të gjithë garuesit që u takuan me MVZ-në e ODIHR-it theksuan se planet e tyre të fushatës do të përshtaten për t’i adresuar sfidat që u paraqitën nga pandemia e KOVID-19, duke i dhënë përparësi takimeve të vogla në komunitet ndaj tubimeve të mëdha dhe duke zhvilluar aktivitete të gjera online.
+Partitë politike që i përfaqësojnë bashkësitë më të vogla etnike, duke përfshirë romët, serbët dhe turqit, vazhdojnë të bashkohen me forcat më të fuqishme politike në koalicionet parazgjedhore.
+Për këto zgjedhje, Bashkimi Demokratik Boshnjak (BDB) për herë të parë do të garojë në mënyrë të pavarur, duke përfshirë edhe për postin e kryetarit të Qytetit të Shkupit.
+Palët që i përfaqësojnë komunitetet serbe dhe turke e informuan MVZ-në e ODIHR-it se pavarësisht pjesëmarrjes së tyre në koalicione më të mëdha, ato gjithashtu do të zhvillojnë aktivitete të veçanta të fushatës në komunitetet e tyre përkatëse
+Për shembull, në komunat e Aerodromit, Butelit, Qendrës, Petrovecit, Sopishtes dhe Vinicës.
+Disa garues filluan t’i përfshijnë votuesit në aktivitete para fillimit zyrtar të fushatës.
+Për shembull, bilbordet që i përmendin arritjet e LSDM-së dhe që i kritikojnë veprimet e VMRO-DPMNE-së mund të shihen në Shkup dhe në disa komuna të tjera.
+Vëzhguesit afatgjatë të MVZ-së së ODIHR-it u informuan se kandidati i LSDM-së për kryetar komune është takuar me votuesit në Prilep dhe i ka angazhuar ata në faqen e tij në Facebook, si dhe për kandidatët e LSDM-së dhe të VMRO-DPMNE-së që janë takuar me votuesit në Krushevë.
+Në Shkup, koalicioni Qyteti i Gjelbër Human mbajti një ngjarje publike me votuesit më 22 shtator.
+Konfigurimi i koalicioneve ndryshon në varësi të komunës.
+Për shembull, në Shkup dhe në disa komuna të tjera, koalicioni i udhëhequr nga LSDM-ja, "Më e mira për komunën time", përfshin partitë BDI, BESA dhe PDSH, si dhe një numër partish më të vogla; koalicioni i udhëhequr nga VMRO-DPMNE-ja, "Rindërtimi i Maqedonisë", përfshin partitë ASh dhe AlternAtivA; ndërsa Rindërtimi Demokratik i Maqedonisë (DOM) dhe Partia Liberal Demokratike (PLD) e formojnë koalicionin "Lëvizja e Përkushtuar për Ndryshim".
+IX. FINANCIMI I FUSHATËS
+Fushatat zgjedhore mund të financohen nga fondet vetanake të partive politike dhe kreditë bankare, si dhe nga donacionet.
+Donacionet nga burime të huaja, shtetërore, komunale dhe anonime, si dhe nga organizatat publike, fetare dhe ato bamirëse janë të ndaluara.
+Reklamat e paguara politike në mediat transmetuese, të shkruara dhe ato online financohen drejtpërdrejt nga shteti, përmes një fondi të veçantë (Shih Mediat).
+Partitë politike që kanë marrë më shumë se një për qind të votave në zgjedhjet e mëparshme parlamentare ose lokale kanë të drejtë për financim publik për aktivitetet e tyre të rregullta.
+Donacionet, qoftë monetare apo në natyrë, janë të kufizuara në 3,000 euro për individët dhe 30,000 euro për personat juridikë (në kundërvlerë në denarë, në të dy rastet).
+Çdo mall ose shërbim falas ose me zbritje duhet të raportohet me çmimin e tyre të tregut.
+Kufiri i shpenzimeve të fushatës është 110 denarë (afërsisht 1.8 euro) për votues të regjistruar në një komunë, për secilin rreth të zgjedhjeve.
+Për qëllime të financimit të fushatës, ligji nuk bën dallim midis zgjedhjeve për kryetar komune dhe për këshillat komunalë.
+Të gjitha transaksionet e fushatës duhet të administrohen përmes një llogarie të dedikuar bankare.
+Garuesit duhet të mbajnë një regjistër të donacioneve dhe duhet të dorëzojnë katër raporte financiare mbi të hyrat dhe shpenzimet, dy prej të cilave duhet të dorëzohen para ditës së zgjedhjeve.
+Raporti i parë paszgjedhor duhet të dorëzohet në afat prej 19 ditëve nga dita e zgjedhjeve, ndërsa raporti përfundimtar duhet të dorëzohet në afat prej 75 ditëve nga shpallja e rezultateve përfundimtare.
+Raportet e financimit të fushatës duhet t'i dorëzohen KSHZ-së, Entit Shtetëror të Revizionit (ESHR) dhe Komisionit Shtetëror për Parandalimin e Korrupsionit (KSHPK), dhe duhet të publikohen në faqet e internetit të këtyre institucioneve.
+Vetëm raporti përfundimtar i nënshtrohet revizionit nga ESHR-ja, e cila mund të fillojë inspektime dhe hetime vetëm në bazë të këtyre raporteve përfundimtare.
+KSHPKja, e cila mund të fillojë procedurë sipas detyrës zyrtare (ex-officio) gjatë gjithë periudhës zgjedhore, e informoi MVZ-në e ODIHR-it për planet që gjatë fushatës të dërgojë 16 monitorues në terren.
+Kodi Zgjedhor parashikon gjoba deri në 9,000 euro për shkelje të rregullave të financimit të fushatës, duke përfshirë tejkalimin e kufirit për donacione ose shpenzime ose mosdorëzimin e raportit financiar.
+Sanksionet penale për shkeljen e rregullave të financimit të fushatës përfshijnë gjoba dhe dënim me burg.
+X. MEDIAT
+Një numër i madh i mediave, të ndara përgjatë vijave partiake, funksionojnë në një treg të vogël për reklamim.
+Televizioni dhe mediat online janë burimet kryesore të informimit politik.
+Transmetuesi publik, Radio dhe Televizioni i Maqedonisë (RTM) financohet nga buxheti i shtetit, gjë që sipas mendimit të disa bashkëbiseduesve të MVZ-së së ODIHR-it ndikon në pavarësinë e tij redaktuese.
+Megjithëse bashkëbiseduesit e MVZ-së së ODIHR-it vunë re përmirësime të përgjithshme në fushën e mediave në vitet e fundit, ata ngritën shqetësime në lidhje me auto-censurën, nivelin e ulët të profesionalizmit, ngacmimin online, veçanërisht kundër gazetareve femra dhe kushteve të këqija të punës në fushën e mediave.
+Sipas Ligjit për Financimin e Partive Politike, 0.15 për qind e pjesës së të ardhurave të buxhetit vjetor të shtetit duhet të ndahet për subvencione për partitë politike.
+Nga kjo, 70 për qind duhet t'i ndahen partive parlamentare në proporcion me numrin e deputetëve të fituar, kurse 30 për qind duhet t’u ndahen në mënyrë të barabartë të gjitha partive që kanë marrë të paktën një për qind të votave në zgjedhjet e fundit parlamentare ose lokale.
+Në vitin 2021, rreth 58 parti politike morën financim shtetëror; nga këto, LSDM-ja mori 49,956,552 denarë, kurse VMRO-DPMNE 44,039,448 denarë (afërsisht 818,000 dhe 722,000 euro, respektivisht).
+1 euro është përafërsisht 61 denarë.
+Në varësi të madhësisë së popullsisë së komunave, kufijtë e shpenzimeve ndryshojnë nga 3,571 euro deri në 169,174 euro.
+Raporti i parë i përkohshëm duhet të dorëzohet më 8 tetor, ndërsa i dyti më 16 tetor.
+Në ligj nuk është përcaktuar asnjë afat për publikimin e raporteve.
+Kodi Zgjedhor kërkon që të gjitha mediat, duke përfshirë edhe mediat online, t’i mbulojnë zgjedhjet në mënyrë të drejtë, të balancuar dhe të paanshme.
+Gjatë periudhës zyrtare të fushatës, RTM-ja është e obliguar t’i kushtojë 30 për qind të lajmeve ngjarjeve të përgjithshme, 30 për qind partive në pushtet, 30 për qind opozitës parlamentare dhe 10 për qind partive joparlamentare dhe kandidatëve të pavarur.
+Nga RTM-ja gjithashtu kërkohet që t'u sigurojë garuesve politikë hapësirë transmetimi falas gjatë kohës me shikueshmëri më të madhe.
+Transmetuesit privatë duhet të sigurojnë kohë të barabartë transmetimi për të gjithë kandidatët për kryetarë komune, ndërsa parashtruesit e listave të këshilltarëve duhet gjithashtu të marrin kohë të barabartë transmetimi në mediat transmetuese lokale.
+Transmetuesit publikë dhe privatë kombëtarë janë të detyruar ta plotësojnë gjithë mbulimin e zgjedhjeve me gjuhën e shenjave.
+Reklamat e paguara politike në mediat transmetuese private, mediat e shkruara dhe ato online gjatë periudhës së fushatës financohen drejtpërdrejt nga buxheti i shtetit, gjë që është kritikuar nga disa bashkëbisedues të MVZ-së së ODIHR-it si gjë që potencialisht e inkurajon klientelizmin në media.
+Mediat që planifikojnë të ofrojnë kohë të paguar transmetimi për garuesit duhet të regjistrohen në KSHZ.
+Ndryshimet në Kodin Zgjedhor të bëra në shtator të vitit 2021 parashikojnë, ndër të tjera, se tetë minuta kohë transmetimi me pagesë dhe 90 për qind e mjeteve financiare duhet të ndahen në mënyrë të barabartë midis dy partive më të mëdha në pushtet dhe dy partive më të mëdha opozitare parlamentare, një minutë dhe 7 për qind të mjeteve financiare duhet t'u ndahen partive më të vogla parlamentare, kurse 30 sekonda dhe 3 për qind të mjeteve financiare, partive joparlamentare dhe kandidatëve të pavarur.
+Respektimi i kërkesave ligjore nga ana e mediave në lidhje me mbulimin e zgjedhjeve mbikëqyret nga Agjencia për Shërbime dhe Audio dhe Audiovizuale Mediatike (ASHAAM), e cila financohet nga shteti.
+ASHAAM-ja filloi monitorimin e saj më 7 gusht dhe i dorëzon KSHZ-së raporte javore para periudhës zyrtare të fushatës, si dhe raporte ditore gjatë saj.
+Në rast se ASHAAM-i identifikon shkelje nga ana e mediave transmetuese, ajo do të fillojë procedurë kundërvajtëse para gjykatës kompetente brenda 48 orëve.
+Më 22 shtator, MVZ-ja e ODIHR-it filloi monitorimin sasior dhe cilësor të mbulimit në lidhje me zgjedhjet të gjashtë kanaleve televizive mbarëkombëtare dhe të katër ueb-faqeve me lajme.
+XI. KUNDËRSHTIMET DHE ANKESAT
+Sipas Kodit Zgjedhor, kundërshtimet mund të parashtrohen te KZK-të, KSHZ-ja dhe gjykatat themelore.
+Kundërshtimet në lidhje me financimin e fushatës dhe keqpërdorimin e burimeve administrative mund të parashtrohen në KSHPK.
+Kompetenca e KZK-ve është e kufizuar në kundërshtimet e votuesve në lidhje me shkeljet e pretenduara të të drejtave të tyre gjatë procedurës së votimit.
+Gjykatat themelore dhe KSHZ-ja i shqyrtojnë kundërshtimet kundër shkeljeve të fushatës dhe kompetencat e tyre mbi këto çështje nuk janë përcaktuar qartë.
+Gjykata Administrative është shkalla e fundit e ankimit për shumicën e kundërshtimeve.
+Megjithëse për vendimet e KSHZ-së për shkeljet e të drejtave individuale mund të parashtrohet ankesë në Gjykatën Administrative, rregulloret e KSHZ-së mund të kontestohen vetëm para Gjykatës Kushtetuese, dhe për këtë nuk është parashikuar procedurë e shkurtuar.
+Gjykatat e Apelit janë instancat e fundit për shqyrtimin e kontestimeve kundër vendimeve të gjykatave themelore në lidhje me zgjedhjet.
+RTM-ja siguroi studion e vet për incizimin e klipeve falas, të cilat do të transmetohen prej 4 deri më 14 tetor.
+Ligji parashikon se transmetuesit kombëtarë dhe lokalë duhet ta ndjekin parimin e proporcionalitetit, në bazë të numrit të listave të konfirmuara të kandidatëve.
+Buxheti i përgjithshëm i ndarë për fushatat mediatike nuk mund të tejkalojë 2 euro për votues të regjistruar në vend, dhe një 1 euro shtesë për votues të regjistruar gjatë rrethit të dytë.
+Çmimi mesatar për reklamat e paguara politike në secilën medie nuk mund ta tejkalojë shpenzimin e përgjithshëm mesatar të reklamimit të llogaritur për pesë ciklet e fundit zgjedhore.
+Listat e çmimeve duhet t'i dorëzohen KSHZ-së dhe të konfirmohen prej saj.
+KSHZ-ja regjistroi 35 stacione televizive, 44 stacione radio stacione, 10 media të shkruara dhe 191 faqe lajmesh në internet.
+Para fillimit të periudhës zyrtare të fushatës, ASHAAM-i monitoroi shtatë kanale televizive kombëtare, ndërsa synon të përfshijë disa transmetues rajonalë dhe lokalë gjatë fushatës zyrtare.
+Deri më 24 shtator, nuk është raportuar asnjë shkelje nga ASHAAM-i.
+Ato përfshijnë transmetuesit publikë RTM1 dhe RTM2, transmetuesit privatë Alsat-M, Kanal 5, Telma dhe Sitel, si dhe mbulimin e zgjedhjeve nga ueb-faqet kurir.mk, plusinfo.mk, tetovasot.com, dhe lajmpress.org.
+Ekzistojnë katër Gjykata të Apelit në Maqedoninë e Veriut, me seli në Shkup, Manastir, Gostivar dhe Shtip.
+Si rregull i përgjithshëm, e drejta për të parashtruar kundërshtime është e garantuar për garuesit dhe votuesit.
+Votuesit mund të parashtrojnë kundërshtime vetëm në lidhje me Listat Zgjedhore dhe për shkeljen e të drejtës së tyre për të votuar.
+Vëzhguesit qytetarë mund të kenë vërejtje mbi parregullsitë e pretenduara të regjistruara në ditarët e KZ-ve; këto vërejtje nuk trajtohen si kundërshtime, por mund të shërbejnë si bazë për parashtrimin e kundërshtimeve nga garuesit.
+Afatet për parashtrimin e kundërshtimeve dhe vendosjen në lidhje me to janë të shkurtra: si rregull, ankuesit kanë deri në dy ditë për të parashtruar një kundërshtim, me ç’rast janë paraparë një deri në tre ditë për shqyrtimin e shumicës së kundërshtimeve.
+Pas ndryshimeve të fundit në Kodin Zgjedhor, kundërshtimet për ditën e zgjedhjeve nga votuesit duhet të parashtrohen brenda 12 orëve (më parë 24 orë) dhe duhet të shqyrtohen brenda dy orësh.
+MVZ-ja e ODIHR-it u informua nga Gjykata Administrative se ndryshimet e fundit ndikuan negativisht në qartësinë e afateve kohore.
+XII. VËZHGUESIT QYTETARË DHE NDËRKOMBËTARË
+Kodi Zgjedhor parashikon vëzhgimin qytetar dhe ndërkombëtar të të gjithë procesit zgjedhor.
+Shoqatat e qytetarëve dhe organizatat e huaja të regjistruara të paktën një vit para ditës së zgjedhjeve dhe statutet e të cilave e përfshijnë parimin e mbrojtjes së të drejtave të njeriut mund të aplikojnë për akreditim në KSHZ për të shpërndarë vëzhgues deri në 10 ditë para ditës së zgjedhjeve.
+Duke pritur të shpërndajë grupin më të madh të vëzhguesve qytetarë për këto zgjedhje, CIVIL – Qendra për Liri, ka kryer aktivitete afatgjata të vëzhgimit në të gjithë vendin që nga mesi i gushtit, duke përfshirë monitorimin e mediave, platformave të mediave sociale dhe aktiviteteve të partive politike.
+Subjektet me kandidatë të regjistruar kanë të drejtë të caktojnë përfaqësuesit e tyre të autorizuar për ta ndjekur procesin zgjedhor në të gjitha nivelet e administratës zgjedhore.
+Përfaqësuesit e kandidatëve në organet zgjedhore të nivelit më të ulët mund të regjistrohen në KZK deri në dy ditë para ditës së zgjedhjeve.
+XIII. AKTIVITETET E MVZ-SË SË ODIHR-IT
+MVZ-ja e ODIHR-it i filloi aktivitetet e saj në Shkup më 7 shtator.
+Shefja e Misionit është takuar me Kryetarin e KSHZ-së, Kryeministrin, Ministrin e Drejtësisë, Kryetarin e Gjykatës Administrative, Kryetarin e Komisionit Ligjdhënës-Juridik të Kuvendit dhe përfaqësuesit e partive politike.
+MVZ-ja e ODIHR-it ka vendosur kontakte të rregullta me KSHZ-në, institucionet qeveritare të përfshira në procesin zgjedhor, gjyqësinë, partitë politike, kandidatët, shoqërinë civile, mediat dhe komunitetin rezident diplomatik dhe ndërkombëtar.
+Versioni në gjuhën angleze i këtij raporti është dokumenti i vetëm zyrtar.
+Janë siguruar edhe përkthime jozyrtare në gjuhën maqedonase dhe në gjuhën shqipe.
+Pas ndryshimeve, Gjykata Administrative ka parashtruar një kërkesë zyrtare në Ministrinë e Drejtësisë për sqarim në lidhje me afatet për shqyrtimin e kundërshtimeve të ditës së zgjedhjeve.
+Megjithëse Kodi Zgjedhor dhe kalendari i KSHZ-së e caktojnë afatin prej dhjetë ditësh para ditës së zgjedhjeve si datë të fundit për parashtrimin e kërkesave për akreditim, Kodi i Sjelljes së KSHZ-së parasheh pesë ditë.
