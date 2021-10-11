@@ -10,7 +10,7 @@ The contents of this publication, the views, opinions, findings, interpretations
 For these reasons, no claims can be made against the OSCE in respect of potential consequences from the reliance on information or conclusions contained in this publication
 Acknowledgments
 The OSCE Mission to Skopje would like to thank Mission Members Alush Doda and Marina Mclellan for jointly developing and drafting the contents of this publication and designing, developing and implementing the activities that led to its compilation.
-The OSCE Mission to Skopje would also like to thank our partners, Borche Petrevski, National Coordinator for Countering Violent Extremism and Countering Terrorism; Xheladin Ajvazi, Deputy National Coordinator for Countering Violent Extremism; Zlatko Apostoloski, Deputy National Coordinator for Countering Terrorism; Marija Mihajloska Jankulovska, National Committee for Countering Violent Extremism and Counter Terrorism; our implementing partner Center for Research and Policy Making, in particular Marija Risteska, Ivan Stefanovski and Aleksandar Cekov; and Petar Arsovski.
+The OSCE Mission to Skopje would also like to thank our partners, Borche Petrevski, National Coordinator for Countering Violent Extremism and Countering Terrorism Xheladin Ajvazi, Deputy National Coordinator for Countering Violent Extremism Zlatko Apostoloski, Deputy National Coordinator for Countering Terrorism Marija Mihajloska Jankulovska, National Committee for Countering Violent Extremism and Counter Terrorism our implementing partner Center for Research and Policy Making, in particular Marija Risteska, Ivan Stefanovski and Aleksandar Cekov and Petar Arsovski.
 We would like to express our gratitude to the roundtable participants for their contributions and collaboration, and extend a special acknowledgment to the Monitoring Unit of the OSCE Mission to Skopje for their support.
 Glossary
 This glossary serves to clarify key terms used in this report.
@@ -186,7 +186,7 @@ At the same time, participants urged caution towards involving CSOs that lack th
 Participants also identified several areas in which CSOs can increase the focus of their activities in P/CVERLT, such as engaging parents in violence prevention, promoting human rights through nonformal education, and providing training to media organizations on conflict sensitivity in their reporting.
 During the roundtable discussions, participants provided numerous examples of positive contributions by local CSOs to the prevention of violent extremism.
 In Gostivar CSOs have been implementing various projects to build resilience within the local community, with relevant projects including digital skills training for marginalized youth and the opening of a youth center, as well as other initiatives focused on bringing together youth from diverse backgrounds.
-As explained by roundtable participants, good relations between civil society and local government also led to the establishment in Gostivar of the country’s first municipal youth council; however it was noted that the youth council faces challenges with insufficient funding for activities.
+As explained by roundtable participants, good relations between civil society and local government also led to the establishment in Gostivar of the country’s first municipal youth council however it was noted that the youth council faces challenges with insufficient funding for activities.
 Some CSOs in Kumanovo have not only taken a public stand against violent extremism, but also undertaken preventive work with youth susceptible to joining violent extremist groups abroad.
 Additionally, the roundtables in Prilep and Tetovo revealed civil society capacity built in providing assistance to vulnerable individuals that could potentially be applied in relation to preventing violent extremism.
 At the same time, participants at the roundtables in Kumanovo and Prilep noted that CSOs struggle to sustain long-term programming due to a lack of funds, with the discussion in Kumanovo identifying the need for donors to take local priorities and existing programming into account in allocating their funding.
@@ -237,7 +237,7 @@ Participants in Chair, Kumanovo, and Tetovo conveyed fears of stigmatization and
 Roundtable participants in Struga, on the other hand, expressed concerns about the capacity of police to deal with issues of prevention in addition to their existing caseload.
 Reflecting these concerns, roundtable participants explained that police should be engaged only as a last resort or if there is an imminent threat to public safety.
 Participants in Chair explained that community-based initiatives for preventing violent extremism in their municipality have made a point of not involving law enforcement officials for fear of doing harm, while participants in Gostivar emphasized that the strategic plan to be developed by the Community Action Team for prevention of violent extremism should avoid reliance on the police.
-At the same time, participants called for more trust-building between communities and the police through an open forum as a mechanism to share their community safety concerns; however, they noted that the police work from a highly centralized level which poses challenges to being able to address concerns raised in a timely manner.
+At the same time, participants called for more trust-building between communities and the police through an open forum as a mechanism to share their community safety concerns however, they noted that the police work from a highly centralized level which poses challenges to being able to address concerns raised in a timely manner.
 Taking into account low levels of community trust in law enforcement, the roundtables also probed co-operation between law enforcement on the one hand and schools and centers for social work on the other.
 While such cooperation generally received low marks from roundtable participants and most took the view that cases of youth delinquency should first be handled internally by school-based psycho-social support staff rather than involving police, roundtable participants in Strumica and Veles made note of good cooperation between police and schools.
 Finally, notwithstanding roundtable participants’ predominantly negative views of the role of police in relation to preventing violent extremism, participants in some roundtables recalled previous community policing practices, such as patrolman (pozornikar9), in positive terms and pointed to their potential role in preventing violent extremism by maintaining contacts at grassroots level.
@@ -259,7 +259,7 @@ From a different perspective, participants explained that some religious communi
 Mentioned in the roundtables in both Prilep and Gostivar, the failure of local authorities to restore the burned down Charshi Mosque in Prilep from the 2001 conflict has prevented true reconciliation between ethnic and religious communities.
 As a result, there remains considerable need for work on inter-religious dialogue in that municipality.
 At the roundtable in Gostivar, the low level of communication between religious communities and local institutions was explained in terms of the legacy of communism and its propagation of anti-religious views.
-Beyond references to specific religious communities, participants in some roundtables called for greater transparency and regulation within religious institutions in general; as one participant in the roundtable in Veles put it, “We can’t know what the priest and the imam say.
+Beyond references to specific religious communities, participants in some roundtables called for greater transparency and regulation within religious institutions in general as one participant in the roundtable in Veles put it, “We can’t know what the priest and the imam say.
 We need to see what they’re preaching.”
 In addition, MOC representatives participating in one of the roundtables pointed to cases in which individuals espousing extreme beliefs seek to manipulate national and religious identities, noting that some priests and members of the Church have an ideological approach and are difficult to keep under control.
 Among the concerns raised at the roundtables in relation to Muslim communities in North Macedonia, the most common related to the challenges for IRC of addressing the misuse of religion in such a way as to prevent VERLT.
@@ -281,7 +281,7 @@ Finally, participants at the roundtable in Kumanovo noted that the local communi
 3.6. Education and supporting at-risk youth
 Roundtable participants identified various challenges faced by youth that contribute to their vulnerability to violent extremism.
 At several of the roundtables, participants referred to pessimism and demoralization resulting from not only from a lack of direct opportunities, but also from the absence of positive role models in a society in which success apparently comes from personal connections rather than from skills, experience, and integrity.
-In this situation, participants noted that youth may seek a sense of belonging by engaging in extreme outlets; therefore youth need opportunities for positive mentorship and to gain leadership skills to make meaningful contributions to society.
+In this situation, participants noted that youth may seek a sense of belonging by engaging in extreme outlets therefore youth need opportunities for positive mentorship and to gain leadership skills to make meaningful contributions to society.
 In support of the thesis that youth need to feel understood and that they belong to their communities, participants at the roundtable in Kumanovo recalled the case of a girl who left for (and was eventually killed in) Syria because she felt deeply marginalized when she decided to express her religiosity openly.
 On a more positive note, participants at the roundtable in Gostivar spoke of the youth council and center established in that municipality as promising mechanisms for addressing some of the challenges faced by at-risk youth.
 The roundtables revealed major shortcomings in the operation of the education system in North Macedonia which greatly reduce the system’s ability to provide viable alternatives for at-risk youth.
@@ -330,7 +330,7 @@ Finally, the roundtables highlighted that social and cultural taboos around ment
 4. CONCLUSIONS AND RECOMMENDATIONS
 This section provides conclusions, combined with a few recommendations, on issues that were identified as challenges during the discussions.
 They are synthesized from the findings in each thematic area and provide guidance on how to promote a multi-stakeholder approach to P/CVERLT.
-4.1. Capacities for a whole-of-society approach to P/CVERLT (trained staff; infrastructure; finances)
+4.1. Capacities for a whole-of-society approach to P/CVERLT (trained staff infrastructure finances)
 4.1.1. Adequately trained staff
 The whole-of-society approach to P/CVERLT was supported in all of the roundtables organized.
 However, one of the main challenges identified during the discussions was the lack of training to ensure understanding and awareness of principles and approaches promoted by the central government through national strategies and action plans.
@@ -431,7 +431,7 @@ Each municipality has its own particular context and challenges that preclude a 
 A local needs assessment should be conducted that includes an analysis of all forms of VERLT phenomena and the resources that can be leveraged in prevention.
 Efforts should be made to build upon existing capacities and programming of local civil society.
 3. Give local stakeholders a direct stake in P/CVERLT programmes.
-Promote genuine empowerment of local stakeholders through their consultation and participation in decision-making processes; facilitate the inclusion of marginalized and under represented groups, such as minority communities, youth and women, who may also bring different voices and needs to the table.
+Promote genuine empowerment of local stakeholders through their consultation and participation in decision-making processes facilitate the inclusion of marginalized and under represented groups, such as minority communities, youth and women, who may also bring different voices and needs to the table.
 4. Apply a conflict-sensitive lens in planning and designing programmes.
 Understand local dynamics and sensitivities around inter-ethnic, religious, and political divisions that cause tensions and mistrust, as well as the need for trust-building between citizens and institutions, such as law enforcement.
 Take steps to promote confidencebuilding and community dialogue on sensitive issues relating to VERLT.
@@ -558,7 +558,7 @@ Failing to recognize the problem as significant, disregarding the problem or fai
 Strengthening of the civil society organizations, co-operation on a society level and exchange of good practices
 The participants agreed that a debate is needed in order to identify problems and the causes of violence.
 Only by knowing the roots of radicalization can preventive action be successfully planned and the phenomenon tackled.
-The role of religion in prevention from radicalization that can lead to violent extremism is very special to representatives of religious communities and the rest of the community recognizes the need for them to be involved on two levels: (i) working with families; and (ii) educating the youth and offering alternative interpretations to radical teaching.
+The role of religion in prevention from radicalization that can lead to violent extremism is very special to representatives of religious communities and the rest of the community recognizes the need for them to be involved on two levels: (i) working with families and (ii) educating the youth and offering alternative interpretations to radical teaching.
 The theologians should approach the families first because some of the problems arise mainly from family relations and the religious leaders have to work with them.
 In terms of education, the imams continuously have an educational role and whenever a social problem occurs in mosques, they spend 10-15 minutes lecturing ethics and morality before the prayer.
 To this end, the participants discussed the possibility for the imams to use the Friday lectures specifically to preach about radicalization and violent extremism as a phenomenon.
@@ -620,10 +620,10 @@ The rationale of the participants was that students from vocational schools do n
 Additionally, roundtable participants took the view that graduates of vocational schools have skills that can be applied in the economy, allowing them to earn a living.
 The Ministry of Education and Science should therefore rethink compulsory secondary education, introducing filters so that a transition is allowed to a secondary vocational school with an eye to reducing the trend of enrollment in a gymnasium/general high school.
 Organize cultural events and sports activities to strengthen resilience, allow for contact and co-operation and decrease trends of exclusion and marginalization
-Remove politics from education, equip schools with support staff, training and tools to prevent radicalization leading to violent extremism;
-Build the youth’s self-confidence so that they do not become violent, equip them with skills that will make them resilient to violent ideas, offer them services that will fill their free time with socially productive activities, and recognize their importance to society;
-Map community needs in Gostivar and develop a local action plan to implement the National Strategy for Countering Violent Extremism encompassing activities that are based on these needs;
-Taking into account the importance of local economic development, create jobs to minimize the radicalization factors and improve social well-being;
+Remove politics from education, equip schools with support staff, training and tools to prevent radicalization leading to violent extremism
+Build the youth’s self-confidence so that they do not become violent, equip them with skills that will make them resilient to violent ideas, offer them services that will fill their free time with socially productive activities, and recognize their importance to society
+Map community needs in Gostivar and develop a local action plan to implement the National Strategy for Countering Violent Extremism encompassing activities that are based on these needs
+Taking into account the importance of local economic development, create jobs to minimize the radicalization factors and improve social well-being
 Ensure that activities for prevention of radicalization and violent extremism are closely developed and implemented in co-operation with the Municipality of Gostivar, which is committed to the co-financing of their implementation.
 Unlike other municipalities in North Macedonia, co-operation between the local government and non-governmental organizations prevails in Kumanovo.
 After the 2001 armed conflict, relations between the communities were fragile and people were divided, but with the joint work of nongovernmental organizations and the municipality, this polarization has been managed effectively.
@@ -657,3 +657,200 @@ However, this is in decline, primarily due to economic reasons.
 The essence of volunteer work is human association and respecting each other by offering opportunities for self-realization so that youth volunteers can feel like they belong to a society that cares for all.
 The deployment of youth volunteers in local communities as active factors in the processes of prevention of radical extremism is not used enough.
 High school students in particular could be more engaged in the existing CSOs.
+Building trust between the community and the law enforcement agencies, the role of communities in prevention - Institutional mechanisms The participants in the discussion were of the opinion that there is hidden extremism in Kumanovo, and that the municipality should develop strategies on a local level for each institution to deal with radicalization that can lead to violence. Since the schools are a key tool against such radicalization, school-based strategies are needed, but also necessary are strategies at the level of other institutions (e.g., hospitals, theaters).
+These strategies should describe relevant procedures and suggest how to behave when radicalization shows signs of moving toward violent extremism.
+They should be developed together and aligned with the government‘s strategy in order to provide guidance.
+These strategies should have a holistic approach and should be interconnected with other policies.
+For example, one of the factors that cause radicalization is marginalization, and one of the reasons behind marginalization is chronic unemployment.
+The policies and the strategies for dealing with violent extremism need to address the causes created by the factors of radicalization and should be developed and implemented to meet needs on a local level.
+For example, the employment plan), which measures the number of unemployed people with secondary education, should include employment methods for people with primary or incomplete primary/secondary education, because these people can be easily manipulated and indoctrinated into radical ideologies that can lead to violent extremism.
+In dealing with this phenomenon, skills for preventing hate speech are instrumental, as are skills for dealing with post-traumatic stress, non-violent communication, and conflict management.
+There are several organizations in Kumanovo working on these issues for years, such as CSO Trust, the Center for Intercultural Dialogue, KHAM and the Women’s Association of Kumanovo.
+It was concluded that the media, religious communities and police can play an important role in preventing radicalization.
+The media do not have adequate knowledge of the phenomenon and fail to inform about and prevent violent extremism.
+On the other hand, religious communities fail to raise awareness of the value of mutual respect.
+They are not active in creating counter-narratives of the radical interpretations of religion with the exception of the Islamic Youth Forum.
+There is no co-operation amongst religious communities, despite the fact that mobilization is important for prevention.
+They do not recognize their role in hindering the phenomenon and do not direct their power towards this process.
+The introduction of extracurricular activities to encourage inter-ethnic and religious co-operation in secondary schools should be considered an opportunity.
+The role of the police is reflected in their work with the families in halting radicalization.
+In order to achieve this effectively, the community must not stigmatize those who cooperate with the police.
+The Prevention Department should strengthen their communication with the students in order to improve the trust between them.
+A good practice of confidence-building is the work of the police on traffic safety.
+This model should be replicated for the prevention of radicalization and violent extremism.
+On a local level, there are already several models of institutional cross-sectoral co-operation on various issues, such as the Local Prevention Council (LPC), a local body for preventing social risks.
+The UNICEF School Violence Program and the OSCE Safe Schools Project have also been identified as significant in tackling violence.
+It is necessary to appoint professional and motivated representatives in LPC so that they can effectively contribute in the managing of violent extremism.
+It is also very important that the rule of law and justice should apply to all equally and not selectively.
+The municipality has neither an action plan to implement the national strategy for the prevention of violent extremism, nor a reintegration program for the people who took part in ISIS as foreign fighters, and only one-time financial assistance is available.
+The new law on social protection should enable integrated casework that can be a response to the needs.
+According to the participants in the discussion, the prevention and reintegration measures depend on the local neighborhood units, since they can be the best at responding to people‘s needs.
+With the new law on local self-government, however, these units do not have legal subjectivity, such that amendments to the law are needed.
+The biggest challenge identified in the education system by the participants is the language segregation that encourages polarization in the municipality.
+Current segregation could be addressed via the construction of new schools where children would study together, but for now this solution is expensive and impossible to apply.
+At the same time, it was emphasized that the advocacy and activism of the non-governmental organizations successfully prevented an additional marginalization by ending the segregation of Roma children in Kumanovo schools.
+The local municipal institutions are advised to promote the status of Roma children by fostering understanding between the larger ethnic communities and Roma community.
+In addition, given the vulnerable economic situation of most of the Roma families, expenses for education are a major burden on family budgets, such that local officials should find appropriate funds, if possible.
+The solutions to segregation introduced to date are not systemic, with integration generally not pursued as a civic value and mainly supported by the projects funded by international organizations for managing conflict situations.
+By way of contrast, systemic solutions for the implementation of joint teaching will lead to familiarization and exchange with the “other”.
+Building on good practices on the national level by OSCE, the local officials should support CSOs from the region in implementation of confidencebuilding projects.
+Moreover, introducing topics and pedagogical methods in the teaching process will further develop critical thinking, tolerance and cooperation.
+The participants in the discussion concluded that the format developed by the OSCE through the Safe Schools Project for co-operation at school level and between the schools and the municipality is relevant for establishing a model for prevention of radicalization through the involvement of several entities.
+This being the case, the experience of the mediation club should be used and exchanged with the other schools.
+Special emphasis should be placed on building capacity and awareness of the phenomenon of radicalization that can lead to violent extremism among teachers in order to shape their statements, behaviors and the messages they send.
+The pedagogical and psychological services need to be strengthened in the monitoring of the teachers to check whether they show signs of radicalization and whether they can respond to radical behavior with appropriate support.
+Building such capacities was not perceived as a difficult task, especially since the teachers have already undergone training linked on the phenomenon and can use the newly acquired new skills in preventing violent extremism.
+The teachers should develop measures, methods and activities for inclusion in their annual work programs, while the municipalities should monitor the implementation of relevant measures.
+It is important to use the extracurricular content in education to prevent radicalization.
+It is noted in the teacher’s job descriptions that they should conduct after-school activities, clubs, thematic sections, competitions, and other activities beyond standard classroom instruction.
+However, it is necessary to stimulate teachers to implement these, with roundtable participants proposing inclusion of these activities in teachers’ performance evaluations.
+Additionally, municipalities have a role to help schools organize free activities by linking them with non-governmental organizations.
+The already excellent co-operation between the professional service and nongovernmental organizations is a very good basis for this.
+Such co-operation should be directed towards activities through which values such as sympathy, co-operation, mutual respect and empathy will be cultivated.
+The schools are in need of guidance on how to behave in the event of radicalization and must be connected to a broader system for prevention.
+Working with the parents is crucial, but there is a trend for parents not to come to parent’s meetings, resulting in less co-operation.
+Struga is one of the municipalities in North Macedonia that is considered as the cradle of religious and inter-ethnic cohesion.
+However, sporadic outbursts of religious and nationalist radicalization and violence are present on the territory of the municipality.
+These phenomena were most visible around the armed conflict in 2001 and its immediate aftermath, but also shortly before and after the new territorial division of municipalities in 2004.
+The main driver of these sporadic tensions is organized crime, mostly manifested through unsolved murders of more visible citizens with serious criminal records, drug trafficking, human trafficking, smuggling, extortion and land concessions.
+All these issues have seriously shaken citizens’ trust in central and local institutions, especially trust in law enforcement and judicial institutions.
+There was a clear consensus among the present discussants that a lot has to be done in order to make Struga a safe space resilient to radicalization leading to violent extremism.
+Lack of infrastructure was also pointed out as one of the main problems to be addressed in order to make Struga a strong city.
+In general, the discussion during the roundtable was not very vivid and lively, and there was a sense of fear among the participants to speak openly about some of the issues, mainly due to the presence of high officials from the local self-government.
+The representatives of civil society, who wanted to stress the role of local and national media, opened the discussion.
+It was widely accepted that taking into consideration the specifics of the municipality of Struga and the past events (mainly referring to the inter-ethnic incidents following the conflict in 2001 and the territorial municipal division in 2004), the media have a responsibility to report carefully, in a balanced and non-sensational manner, in order not to incite manifestations of violent behavior, radicalism or extremist views.
+The discussion later shifted to questions regarding trust building between local communities and law enforcement, especially in terms of developing institutional prevention mechanisms.
+In order to disseminate its contents and to facilitate the implementation of the National Strategy for Countering Violent Extremism, constant and constructive communication between the Committee on the central level, and the local government should be carried out.
+This was highlighted by representatives of the penitentiary institution in Struga, as well as by representatives of the NCCVECT.
+The same interlocutors also agreed that the rule of law is the key pillar for implementation of any national strategy on local level.
+Therefore, this pointed to the necessity of a systematic approach in strengthening the institutions, respecting the laws and preventing selectivity in the process.
+Only a “whole-of-society-approach” can result in long-term success.
+Representatives of civil society, as well as social welfare representatives, stressed that additional police activities are necessary in order to suppress criminal activities, which serve as a bad example for the youth.
+Criminal activities on the local level contribute to the process of radicalization leading to violent extremism.
+These stakeholders insisted on highlighting a series of unsolved murders on the local level.
+The felonies under discussion are closely related to organized crime: drug dealing, prostitution, human trafficking and local land concessions.
+These phenomena had resulted in a shattered trust of the citizens in local and central institutions.
+This refers primarily to the police who enjoy a record low trust among the local citizens in Struga.
+It was reaffirmed several times that restoring citizens’ faith in local and central institutions will be the crucial pillar on which prevention of radicalization leading to violent extremism should be built.
+In a similar vein, several discussants also circled the discussion with a conclusion that transparency and accountability of the local self-government need to be improved in order to regain the trust of its citizens.
+The roundtable discussion continued with topics related to the competencies of the local self-government, the context in which local communities operate, as well as the role of other relevant local stakeholders.
+Local civil society representatives agreed that additional efforts should be made to prevent the labeling and stigmatization of specific individuals/religious/political groups and presenting them as pivotal reason for the existence of radicalization leading to violent extremism.
+A more cohesive societal approach is needed.
+Social workers, frontline school workers and local religious leaders emphasized the importance of the family in the process of creating moral and ethical values among young people.
+They called for deeper engagement of all local stakeholders in order to preserve and develop family values.
+The representatives of the local self-government highlighted that it is necessary to investigate and highlight the disadvantages of the decentralization process, which could be an obstacle to an effective implementation of efforts in preventing radicalization leading to violent extremism.
+On the other hand, it was noted that the right-wing extremism propelled by the “black blocks” of sports fan is not present in Struga, and local authorities should continue to invest efforts to preserve this stability.
+Frontline school workers and social welfare representatives also highlighted that sports activities are of crucial importance in the aspiration to prevent violent extremism.
+Municipal investments in sports infrastructure are the best tool to create fertile ground for more sports activities in which local youth will be engaged.
+Therefore, it is necessary to allocate more funds for a sports hall, a swimming pool and other similar sports venues.
+The next topic in the discussion was the important role of local religious leaders.
+A straightforward consensus was reached that religious communities in the municipality must actively engage in the prevention process by promoting positive values in accordance with the established religious teaching.
+The representatives of the largest two religious communities jointly underpinned that it is of utmost importance and necessity to rebuild the positive example from the past, when the Macedonian Orthodox Church (MOC) and the Islamic Religious Community (IRC) had been actively involved in the roles of mediators among the local population through promoting values in the spirit of cohesion.
+They commented on the examples from several years ago when a potential religious conflict in the village of Oktisi was prevented through a joint intervention by the local religious leaders.
+Furthermore, several stakeholders embraced and supported the efforts of the IRC, which constantly communicates with its membership in order to prevent violent extremism and radicalization.
+Also presented in a positive light was the consistency with which the IRC distances itself from individuals and groups preaching outside of the institutions and the mosques, noting that the IRC cannot be aware if such individuals or groups promote violent extremism.
+At the same time, concerns were raised about the Ministry of Interior’s lack of activity and investigation following reports for radical behavior submitted by the IRC.
+Both religious leaders and other interlocutors involved in the discussion commented that better co-operation between the police and the religious communities is needed.
+Lastly, the discussion shifted from the role of the religious community to the role of education in preventing radicalization and violent extremism, being bridged through discussing the effects of studying religious concepts in school curricula.
+The local religious leaders were vocal in highlighting that History of Religions and Ethics in Religions courses are of exceptional importance in the early guidance and building a climate of coexistence, as well as understanding among young generations.
+That is why these courses should be taught by theologians, who have the needed experience and knowledge to correctly transfer the moral teaching of religions.
+Frontline school workers commented that primary education institutions are not engaged enough in promoting inclusive and multicultural environments for their students.
+They raised their concerns that this creates a spillover effect resulting with a tense atmosphere in high schools later on in the course of education of youth.
+It was consensually agreed that the role of education is crucial in the process of prevention of radicalization leading to violent extremism.
+An important precondition is securing a constant increase of the level of knowledge among both students and teachers.
+Reforms of the teaching curricula, as well as the reorganization of extracurricular activities, were mentioned by civil society representatives as some of the ways to achieve these goals.
+Lastly, the positive example of Iceland was highlighted for the combined patrols comprised of parents and police officers for monitoring the behavior of adolescents.
+Furthermore, it was stressed that the announced reintroduction of the “local neighborhood police officers” will play an important role in building a peaceful and cohesive local community.
+Taking into consideration the specifics of the municipality of Struga and the past events, the media have the responsibility to report carefully, and in a balanced and non-sensational manner in order not to incite manifestations of violent behavior, radicalism or extremist views.
+Implementation of the National Strategy for Countering Violent Extremism should be carried out through constant and constructive communication between the Committee on the central level, and the local government.
+The rule of law is the key pillar for the implementation of any national strategy on the local level.
+This points to the necessity of a systematic approach in strengthening the institutions and promoting consistent implementation of legislation.
+Additional police activities are necessary in order to suppress criminal activities, which serve as a bad example for the youth.
+Criminal activities on the local level contribute to the process of radicalization leading to violent extremism.
+The trust of citizens in the institutions is shattered.
+This refers primarily to the police who enjoy a record low trust among the local citizens in Struga.
+The transparency and accountability of the local self-government needs to be improved in order to regain the trust of its citizens.
+Additional efforts should be made to prevent the labeling and stigmatization of specific individuals/religious/political groups and presenting them as a pivotal reason for the existence of radicalization leading to violent extremism.
+Taking into account the importance of the family in the process of creating moral and ethical values among young people, deeper engagement of all local stakeholders is needed.
+It is necessary to investigate and highlight the disadvantages of the decentralization process, which could be an obstacle to effective implementation of efforts in preventing radicalization leading to violent extremism.
+The deviant phenomenon of right-wing extremism propelled by the “black blocks” of sports fan groups is not present in Struga.
+Sports activities are of crucial importance in the aspiration to prevent violent extremism.
+Municipal investments in sports infrastructure are the best tool to create fertile ground for more sports activities in which local youth will be engaged.
+Therefore, it is necessary to allocate more funds for a sports hall, a swimming pool and other similar sports venues.
+The religious communities in the municipality must actively engage in the prevention process by promoting positive values in accordance with the established religious teaching.
+It is of utmost importance and necessity to rebuild the positive example from the past when the Macedonian Orthodox Church (MOC) and IRC had been actively involved in the roles of mediators among the local population through promoting values in the spirit of cohesion.
+The stakeholders embraced and supported the efforts of the Islamic Religious Community (IRC), which constantly communicates with its membership to prevent violent extremism and radicalization.
+At the same time, concerns were raised about the Ministry of Interior’s lack of activity and investigation following reports for radical behavior submitted by the IRC.
+The History of Religions and Ethics in Religions courses are of exceptional importance in the early guidance and building a climate of coexistence, as well as understanding among young generations.
+That is why these courses should be taught by theologians, who have the needed experience and knowledge to correctly transfer the moral teaching of religions.
+Primary education institutions are not engaged enough in promoting inclusive and multicultural environments for their students.
+Furthermore, this creates a spillover effect resulting in tense atmosphere in high schools.
+The role of education is crucial in the process of prevention of radicalization leading to violent extremism.
+An important precondition is securing a constant increase of the level of knowledge among both students and teachers.
+The positive example of Iceland was highlighted for the combined patrols comprised of parents and police officers.
+Furthermore, it was stressed that the announced reintroduction of the “local neighborhood police officers” will play an important role in building a peaceful and cohesive local community.
+According to workshop participants, the lack of success in managing interethnic conflicts in Tetovo has increased the risk of violent extremism, such that the adoption of the measures for countering violent extremism in Tetovo comes late.
+Additionally, community relations are assessed as fragile.
+The main factors identified in the discussion as influencing an environment in which radical ideas can be adopted and can lead to violent extremism are
+Religious intolerance for people belonging to another religion.
+The discussion exposed a need for the people in Tetovo to love and treasure their own religion, but also to learn how to respect the religious freedoms and religious choices of others.
+Segregation in schools.
+This situation contributes to the divisions between the communities and the lack of contact deprives us of the opportunity to meet and get to know the other.
+The practice of inter-community dialogue is missing, except when it is encouraged by foreign-funded projects.
+Inner-community divisions.
+Example of this recurrent trend discussed in the workshop were the divisions in the prisons between groups that practice Islam or similarly between fan clubs of local football teams.
+The Local Prevention Council (LPC) in Tetovo was assessed to be non-functional, mainly due to the fact that the involved institutions are afraid to engage as they will overlap LPC council and the establishment of protocols for communication would be helpful to increase functionality, whereas the effectiveness will depend on the continuity and turnover of the council members with the change of government.
+To this end, it is important for the municipality to take over coordination of LPC for the purpose of countering and preventing violent extremism or to replace the LPC with a local council for countering violent extremism which will constitute a decentralized body of the national council.
+Workshop participants also discussed other possible mechanisms that can be useful for preventing and countering violent extremism.
+For example, the youth council that has not been operationalized yet and the local council for prevention of juvenile delinquency that is being formed now.
+For the purpose of prevention and building resilient youth in pre-school and primary education, the participants proposed forming at least two teams comprised of psychologists, sociologists and pedagogues, who would implement a training program using games, roleplays, and increasing skills for dialogue and cooperation.
+The practice of the municipality to finance multicultural youth activities needs to be continued and increased support should be provided.
+To this end, the civil society organizations that work with youth need to approach the municipality and initiate activities that will develop inter-community cooperation and dialogue.
+The municipality should consider financing extracurricular activities of the schools that facilitate inter-community interaction (such as debates, competitions, sports activities) as well as activities that stimulate the acquisition of skills such as critical thinking and conflict resolution, as well as a culture of dialogue.
+The most important conclusion from the discussion was that the institutions should not transfer the responsibilities for prevention and countering violent extremism from one to another.
+The whole of society approach should be applied where responsibilities need to be shared among all stakeholders in the community.
+Civil society and media have a pivotal role in managing hate speech, conflicts, and hostility, as well as in preventing adoption of radical ideas that might lead to violent extremism.
+To this end, one should consider working with the media and/or financing activities that will result in production of materials and content that will inform citizens about radicalization.
+Training is also needed so that the media do not become factors for instigating violent extremism.
+Civil society organizations are dependent on the finances of international organizations, as the municipality does not provide enough funding for their activities.
+More importantly, because funding for P/CVERLT work is not widely available as of yet, the Government on central level and through the local self-government units needs to secure funding for prevention from radicalization.
+Working with the football clubs and their fan clubs should be considered a priority.
+To this end, one should use the authority of the club managers to prevent use of hate speech towards other ethnic groups, taking into account that because the teams are ethnically mixed, cheering on ethnic basis may affect the team members’ performance.
+These efforts can lead towards prevention of polarization and segregation of communities.
+For the purpose of prevention from radicalization, the workshop participants noted that it is crucial for the municipality to activate the neighborhood communities.
+Through them, the community can be engaged in early prevention from radicalization.
+However, the neighborhood communities need to be supported by recommended approaches and a methodology in order to mobilize the community.
+In partnership with civil society, institutions and international organizations, neighborhood communities need to engage actively in raising awareness for critical thinking, media literacy and an overall promotion of democratic culture.
+Education has a central role in the system of prevention of violent extremism, providing skills for resilience and thus serving as an instrument for prevention of radicalization.
+In Tetovo, some activities already implemented in schools are relevant and compatible with prevention from radicalization that can lead to violent extremism.
+These are the OSCE Safe Schools Project; the Nansen Interethnic Cooperation Project, the OSCE Building Bridges Project and the new project that will enable the co-operation with parents.
+Such activities should be interlinked so that the teachers are aware that the skills acquired through different projects are relevant and useful for prevention of radicalization.
+Radicalization is prevented by applying tools against discrimination and exclusion of youth, considering that youth are most at risk to adopt radical ideas.
+Therefore, the municipality plans to include youth in decision making in the schools and at community level, with an eye to making youth feel included in the society.
+To this end, training is being organized for decision-making in schools, students elect their representatives in the student associations and their initiatives are being implemented (such as leisure activities, organization of sports events, etc.).
+The Youth Council of the municipality is still not operational, but once it is activated youth should be included in important decision making at the municipal level.
+The municipality needs to put additional efforts to ensure representatives in the school student bodies and in the municipal youth council, as well as disseminate the decisions to the youth they are representing.
+For this target group- the youth- the participants in the round table thought that the Internet still remains a challenge.
+The schools have been blocking online pages but are lacking an online security program or e-safety policy that will advise how children should critically assess internet-based content and build resistance.
+Additionally, raising awareness among and working together with parents to monitor their children’s online activity have not yet started in Tetovo.
+Overall, participants concluded that there is a paramount need to work with families in improving their children’s critical thinking.
+In principle, critical thinking is developed in a classroom through the education content using different pedagogical methods.
+In addition, the participants identified extra-curricular activities as an entry point for more critical thinking activities to be applied.
+However, due to being overburdened by the curricular activities, almost none of the schools realize extracurricular activities.
+Possibilities for the municipality to stimulate realization of extra-curricular activities should be explored.
+Possible options for this include providing funding for activities and overall reform of the system that encompasses extra-curricular activities.
+Finally, the participants discussed the role that pedagogical and psychological services have on school children.
+This expert service is seen as an important link in the prevention system from radicalization, as they can work on a daily basis with the students at high risk of acquiring radical ideas by regularly talking to them individually or working through group therapy programs.
+It is essential that the front-line workers continuously work with asocial students, those that have been problematic during classes and those coming from dysfunctional families.
+Setting up a system that will monitor and report on their progress regularly is a prerequisite for the new prevention system on the municipal level.
+While it was recognized that their role is very important during the school hours, the participants also noted that the overall impact of the pedagogical and psychological services in schools is limited because of lack of such support services after classes.
+This is especially the case in Tetovo because therapeutic communities and other types of psycho–social support groups are lacking in the municipality.
+The municipality needs to determine the source of inter-ethnic hatred and the incitement to violence and to plan and implement activities that prevent spread of inter-ethnic hatred and incitement to violence.
+Local prevention councils are a legal obligation and Tetovo municipality needs to revive them, but, there are no finances available for activating the LPC.
+Overcoming problems with overlapping responsibilities and funding should be resolved in co-operation with the central Government.
+In view of the already existing segregation, encouraging socialization, co-operation and exchange without ethnic barriers starting from kindergartens through primary and secondary schools should be the number one priority of the municipality, in order to enable contact with the ‘others’ in the community.
+Continuous monitoring and mapping of risky behavior in schools must be established, with awareness raising and training of teachers, psychologists and pedagogues on how to notice and prevent radicalization a prerequisite for this.
+The municipality needs a system to respond to violent extremism.
+To make the response more effective, this system should consist of a coordinating body with representatives of all institutions at local level, as well as a communication model between such institutions.
+Religious leaders have a leading role in promoting integration, cooperation and nonviolence in Tetovo.
+Therefore, they need to be actively involved in prevention of radicalization that can lead to violent extremism.
