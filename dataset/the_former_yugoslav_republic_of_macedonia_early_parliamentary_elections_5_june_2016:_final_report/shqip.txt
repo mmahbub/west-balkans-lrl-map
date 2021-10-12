@@ -6,41 +6,478 @@ Raporti përfundimtar i Misionit të OSBE/ODIHR-it për vëzhgimin e zgjedhjeve
 ISH-REPUBLIKA JUGOSLLAVE E MAQEDONISË
 ZGJEDHJET E PARAKOHSHME PARLAMENTARE
 TË CAKTUARA PËR 5 QERSHOR 2016
-Raporti përfundimtar i Misionit të OSBE/ODIHR-it për vëzhgimin e zgjedhjeve1
-I. PËRMBLEDHJE
-Në përgjigje të ftesës zyrtare, Zyra e OSBE-së për institucione demokratike dhe të drejtat e njeriut
-(OSBE/ODIHR) më 31 mars e krijoi Misionin për vëzhgimin e zgjedhjeve (MVZ) për t’i vëzhguar
-zgjedhjet e parakohshme parlamentare të caktuara për datën 5 qershor. MVZ-ja e OSBE/ODIHR-it i
-ndërpreu aktivitetet e saj vëzhguese më 1 qershor, pas anulimit të zgjedhjeve. Misioni vlerësoi se a
-u zhvilluan proceset dhe aktivitetet zgjedhore deri në atë datë në përputhje me angazhimet e OSBEsë, obligimet dhe standardet e tjera ndërkombëtare për zgjedhje demokratike dhe legjislacionin e
-vendit.
-Zgjedhjet e parakohshme parlamentare u caktuan si pjesë e marrëveshjes shumëpartiake të
-Përzhinës që kishte për qëllim t’u japë fund tensioneve politike që buronin nga bojkotimi i
-parlamentit nga ana e opozitës dhe publikimi i inçizimeve të komunikimeve përgjuara për
-shpërdorimin e pretenduar të fuqisë nga ana e zyrtarëve të lartë qeveritarë dhe publikë. Kriza
-politike u thellua pasi opozita njoftoi se ka ndërmend t’i bojkotojë zgjedhjet për shkak se nuk janë
-plotësuar kushtet kryesore të marrëveshjes. Pas negociatave, parlamenti i shtyri zgjedhjet e
-parakohshme për 5 qershor, të cilat fillimisht ishin caktuar për 24 prill. U organizuan demonstrata të
-vazhdueshme për t’i anuluar zgjedhjet si dhe kundër-demonstrata në mbështetje të mbajtjes së
-zgjedhjeve.
-Klima politike poashtu u ndikua edhe nga vendimi i kryetarit të shtetit, Gjorge Ivanov, për t’u dhënë
-amnisti të përgjithshme të gjithë personave që ishin të paditur, nën hetime ose të dyshuar për
-përfshirje në skandalin e përgjimeve.
-Nga katër palët nënshkruese të Marrëveshjes së Përzhinës, vetëm partia në pushtet dorëzoi lista të
-kandidatëve deri në afatin e fundit më 11 maj. Dy parti joparlamentare, të cilat dorëzuan lista të
-kandidatëve, u refuzuan për arsye teknike. Shumë bashkëbisedues të MVZ-së së OSBE/ODIHR-it
-theksuan se mbajtja e zgjedhjeve me vetëm një garues, e vë në pikëpyetje pluralizmin politik. Disa
-përfaqësues të bashkësisë ndërkombëtare theksuan se çdo qeveri që do të rezultonte nga zgjedhjet
-në të cilat nuk do të merrnin pjesë tre partitë më të mëdha, nuk do të ishte partner i besueshëm.
-Më 18 maj Gjykata Kushtetuese lëshoi ndalesë të përkohshme kundër vendimeve të parlamentit që
-ishin rezultat i shpërbërjes së tij, edhe pse më parë parlamenti kishte vendosur se nuk ka
-kompetencë që t’i shqyrtojë këto dy raste. Më 25 maj, Gjykata e shpalli shpërbërjen e parlamentit si
-jokushtetuese. Para se të merrej vendimi përfundimtar i gjykatës, parlamenti u rimblodh dhe votoi
-që t’i anulojë zgjedhjet e 5 qershorit. Qeveria u rikthye në përbërjen që e kishte para Marrëveshjes
-së Përzhinës.
-Edhe pse autoritetet ndërmorrën disa masa për ta parandaluar frikësimin dhe presionin ndaj
-qytetarëve, shpeshherë shumë bashkëbisedues të MVZ-së së OSBE/ODIHR-it pretendonin se ka një
-mjedis të frikësimit. Disa prej tyre, këtë ia përshkruan frikës nga hakmarrja që ekziston në
-ndërmarrjet dhe institucionet shtetërore. MVZ-ja e OSBE/ODIHR-it ka pranuar pretendime të besueshme të presionit mbi të punësuarit në sektorin publik për të marrë pjesë në kundërdemonstrata, duke përfshirë edhe kërcënime për largim nga puna. Kjo e ka vënë në pyetje të drejtën
-e votuesve për të votuar pa u frikësuar nga hakmarrja, siç është paraparë në paragrafin 7.7 të
-Dokumentit të Kopenhagës të OSBE-së të vitit 1990. 
+Raporti përfundimtar i Misionit të OSBE/ODIHR-it për vëzhgimin e zgjedhjeve
+PËRMBLEDHJE
+Në përgjigje të ftesës zyrtare, Zyra e OSBE-së për institucione demokratike dhe të drejtat e njeriut (OSBE/ODIHR) më 31 mars e krijoi Misionin për vëzhgimin e zgjedhjeve (MVZ) për t’i vëzhguar zgjedhjet e parakohshme parlamentare të caktuara për datën 5 qershor.
+MVZ-ja e OSBE/ODIHR-it i ndërpreu aktivitetet e saj vëzhguese më 1 qershor, pas anulimit të zgjedhjeve.
+Misioni vlerësoi se a u zhvilluan proceset dhe aktivitetet zgjedhore deri në atë datë në përputhje me angazhimet e OSBEsë, obligimet dhe standardet e tjera ndërkombëtare për zgjedhje demokratike dhe legjislacionin e vendit.
+Zgjedhjet e parakohshme parlamentare u caktuan si pjesë e marrëveshjes shumëpartiake të Përzhinës që kishte për qëllim t’u japë fund tensioneve politike që buronin nga bojkotimi i parlamentit nga ana e opozitës dhe publikimi i inçizimeve të komunikimeve përgjuara për shpërdorimin e pretenduar të fuqisë nga ana e zyrtarëve të lartë qeveritarë dhe publikë.
+Kriza politike u thellua pasi opozita njoftoi se ka ndërmend t’i bojkotojë zgjedhjet për shkak se nuk janë plotësuar kushtet kryesore të marrëveshjes.
+Pas negociatave, parlamenti i shtyri zgjedhjet e parakohshme për 5 qershor, të cilat fillimisht ishin caktuar për 24 prill.
+U organizuan demonstrata të vazhdueshme për t’i anuluar zgjedhjet si dhe kundër-demonstrata në mbështetje të mbajtjes së zgjedhjeve.
+Klima politike poashtu u ndikua edhe nga vendimi i kryetarit të shtetit, Gjorge Ivanov, për t’u dhënë amnisti të përgjithshme të gjithë personave që ishin të paditur, nën hetime ose të dyshuar për përfshirje në skandalin e përgjimeve.
+Nga katër palët nënshkruese të Marrëveshjes së Përzhinës, vetëm partia në pushtet dorëzoi lista të kandidatëve deri në afatin e fundit më 11 maj.
+Dy parti joparlamentare, të cilat dorëzuan lista të kandidatëve, u refuzuan për arsye teknike.
+Shumë bashkëbisedues të MVZ-së së OSBE/ODIHR-it theksuan se mbajtja e zgjedhjeve me vetëm një garues, e vë në pikëpyetje pluralizmin politik.
+Disa përfaqësues të bashkësisë ndërkombëtare theksuan se çdo qeveri që do të rezultonte nga zgjedhjet në të cilat nuk do të merrnin pjesë tre partitë më të mëdha, nuk do të ishte partner i besueshëm.
+Më 18 maj Gjykata Kushtetuese lëshoi ndalesë të përkohshme kundër vendimeve të parlamentit që ishin rezultat i shpërbërjes së tij, edhe pse më parë parlamenti kishte vendosur se nuk ka kompetencë që t’i shqyrtojë këto dy raste.
+Më 25 maj, Gjykata e shpalli shpërbërjen e parlamentit si jokushtetuese.
+Para se të merrej vendimi përfundimtar i gjykatës, parlamenti u rimblodh dhe votoi që t’i anulojë zgjedhjet e 5 qershorit.
+Qeveria u rikthye në përbërjen që e kishte para Marrëveshjes së Përzhinës.
+Edhe pse autoritetet ndërmorrën disa masa për ta parandaluar frikësimin dhe presionin ndaj qytetarëve, shpeshherë shumë bashkëbisedues të MVZ-së së OSBE/ODIHR-it pretendonin se ka një mjedis të frikësimit.
+Disa prej tyre, këtë ia përshkruan frikës nga hakmarrja që ekziston në ndërmarrjet dhe institucionet shtetërore.
+MVZ-ja e OSBE/ODIHR-it ka pranuar pretendime të besueshme të presionit mbi të punësuarit në sektorin publik për të marrë pjesë në kundërdemonstrata, duke përfshirë edhe kërcënime për largim nga puna.
+Kjo e ka vënë në pyetje të drejtën e votuesve për të votuar pa u frikësuar nga hakmarrja, siç është paraparë në paragrafin 7.7 të Dokumentit të Kopenhagës të OSBE-së të vitit 1990.
+Në pjesën më të madhe, zgjedhjet janë të rregulluara me Kushtetutë dhe me Kodin zgjedhor.
+Në nëntor të vitit 2015 parlamenti miratoi një numër të konsiderueshëm të ndryshimeve në Kodin zgjedhor.
+Me këto ndryshime u bë përpjekje për ta trajtuar shumicën e rekomandimeve të mëparshme të OSBE/ODIHR-it.
+Megjithatë, një numër i bashkëbiseduesve të MVZ-së së OSBE/ODIHR-it theksuan se po aq i rëndësishëm është edhe implementimi i plotë i Kodit zgjedhor.
+Ndryshimet e vonshme ndikuan negativisht në aspekt të kuptimit të dispozitave të reja nga ana e palëve të përfshira në procesin zgjedhor, si dhe në aftësinë e tyre për t’i kryer funksionet e tyre.
+Edhe pse këto ndryshime paraqesin përpjekje për ta përmirësuar Kodin zgjedhor, bashkëbiseduesit e MVZ-së së OSBE/ODIHR-it kishin mendim të ngjashëm se Kodi zgjedhor ka nevojë për rishikim të plotë për shkak të mospërputhjeve të brendshme dhe mungesës së koherencës.
+Ndërmjet 120 dhe 123 deputetë janë zgjedhur sipas sistemit proporcional të përfaqësimit nga listat e mbyllura.
+Prej tyre, 20 deputetë janë zgjedhur në secilën nga 6 njësitë zgjedhore të vendit.
+Si rezultat i ndryshimeve të vitit 2015 në Kodin zgjedhor, deri në tre deputetë mund të zgjidhen nga njësia e vetme zgjedhore jashtë vendit.
+Për shkak të numrit të pamjaftueshëm të votuesve të regjistruar jashtë vendit, votimi jashtë vendit u anulua, me çka në mënyrë efektive iu mor e drejta e votimit një numri të votuesve.
+Zgjedhjet menaxhohen nga administrata zgjedhore në tre nivele, e udhëhequr nga Komisioni shtetëror zgjedhor (KSHZ).
+Me ndryshimet e vitit 2015 u ndryshua përbërja e KSHZ-së dhe u rritën kompetencat e saj për ta përfshirë edhe mirëmbajtjen e regjistrit të votuesve.
+KSHZ-ja punoi në një ambient të tensionuar politik dhe u kritikua nga opozita dhe disa organizata të shoqërisë civile, të cilat ishin kundër mbajtjes së zgjedhjeve më 5 qershor.
+Ajo i respektoi afatet administrative dhe mbajti mbledhje të rregullta.
+Përkundër obligimit ligjor për të mbajtur mbledhje publike, KSHZ-ja mbajti dy sesione të mbyllura zyrtare, e poashtu rregullisht mbajti “sesione pune” që ishin të mbyllura për publikun.
+Vendimet e saj nuk u publikuan në mënyrë sistematike në uebfaqen e saj, gjë që e dobësoi transparencën e punës së saj.
+Poashtu, mbledhjet e KSHZ-së u bojkotuan nga dy anëtarë të KSHZ-së.
+Përderisa zyrat rajonale të KSHZ-së rezultuan të ishin të ekipuara me punëtorë me përvojë, zyrtarët lokalë të zgjedhjeve dukej se nuk kishin asnjë fuqi vendimmmarrëse, shumë prej tyre u ankuan për mungesën e resurseve të nevojshme, si dhe mbështetjen dhe udhëzimet e pamjaftueshme nga ana e zyrës qendrore.
+Madje, riemërimi i anëtarëve të Komisioneve komunale zgjedhore u bë gjatë procesit zgjedhor, që ndikoi në punën e tyre, duke e përfshirë edhe formimin e Këshillave zgjedhorë.
+Sistemi aktual i regjistrimit të votuesve që bazohet në numrin e vetëm amë mund të sigurojë saktësi të listave zgjedhore dhe të ofrojë masa të mjaftueshme mbrojtëse kundër regjistrimit të rrejshëm dhe atij të dyfishtë nëse zbatohet në mënyrë konsekuente dhe të drejtë.
+Edhe pse KSHZ-ja bëri përpjekje të konsiderueshme për ta realizuar në kohë azhurnimin e regjistrit të votuesve duke bërë kontrollim të kryqëzuar të bazave të të dhënave dhe kontrolle në terren, ky proces u tregua si i ndërlikuar, sfidues në aspekt metodologjik, e poashtu kërkonte edhe resurse të mëdha.
+Bashkëbiseduesit e MVZ-së së OSBE/ODIHR-it e kritikuan procesin se është kaotik, i pasigurt në aspekt metodologjik dhe se në disa raste i ka trajtuar në mënyrë joadekuate pretendimet e mëparshme për mashtrim.
+MVZ-ja e OSBE/ODIHR-it u informua për një numër rastesh të ekzistimit të pretenduar të votuesve fiktivë dhe për parregullsi të tjera.
+Megjithëse shumë pretendime u dëshmuan si të pavërteta, ose kishin të bëjnë me gabime gjatë regjistrimit, të cilat tashmë ishin korrigjuar, u vërejtën raste të votuesve që ishin të regjistruar në adresa që nuk ekzistonin, që mund të jetë ose regjistrim i rrejshëm ose gabim administrativ.
+Duke i trajtuar këto pretendime, MPB-ja njoftoi se deri më 31 mars 2016 në regjistrin e shtetasve kishte 2,464,925 qytetarë, duke i përfshirë edhe 1,956,518 qytetarë të moshës madhore – që mund të votojnë.
+Raporti për përparimin në azhurnimin e listave zgjedhore që u publikua nga KSHZ-ja më 26 prill nuk zbuloi dëshmi për regjistrim të rrejshëm të votuesve.
+Mjedisi mediatik është i ndarë në baza etnike dhe karakterizohet me një numër të madh të shtëpive mediatike që veprojnë në treg të kufizuar të reklamave.
+Një numër i bashkëbiseduesve të MVZ-së së OSBE/ODIHR-it shprehën brengosje për përkeqësimin e lirisë së mediave për shkak të presionit politik dhe ndërhyrjes së pronarëve në punën e gazetarëve.
+Disa theksuan se përzgjedhja e transmetuesve për reklamim nga ana e qeverisë është shpërblim për mbulimin e favorshëm dhe politikën redaktuese.
+Korniza ligjore për mbulimin e zgjedhjeve u ndryshua në masë të konsiderueshme; megjithatë, shumica e bashkëbiseduesve të MVZ-së së OSBE/ODIHR-it e potencuan nevojën për reforma më thelbësore.
+Si pjesë e Marrëveshjes së Përzhinës u mbajtën konsultime ndërmjet katër partive politike dhe organizatave të shoqërisë civile për ta reformuar edhe më tutje hapësirën mediatike, mirëpo ndryshimet e propozuara u hodhën poshtë nga parlamenti në prill.
+Monitorimi i mediave nga MVZ-ja e OSBE/ODIHR-it tregon se edicionet informative të RTM-1 ofruan informata të kufizuara për ngjarjet politike dhe iu shmangën raportimit gjithëpërfshirës gjatë mbulimit të tyre ditor të lajmeve.
+Në disa raste, gazetarët e RTM-1 i përzien faktet me mendimet e tyre politike gjatë mbulimit të lajmeve.
+Stacionet më të popullarizuara private televizive, Sitel dhe Kanal 5, së bashku me televizionin Alfa, treguan qasje të njësuar në mbulimin e lajmeve, edhe atë ekskluzivisht pozitive dhe neutrale ndaj partisë në pushtet dhe negative ndaj partisë kryesore opozitare.
+Telma dhe televizioni që emetohet vetëm në kabëll Vesti 24 ofruan mbulim më të balancuar dhe më të detajuar të lajmeve.
+Me ndryshimet e vitit 2015 të Kodit zgjedhor u përshtatën afatet për shqyrtimin dhe marrjen e vendimeve për kundërshtimet zgjedhore dhe u parapa që të gjitha seancat për shqyrtim të organeve administrative të jenë të hapura për publikun.
+Përkundër dispozitës kushtetuese për të mbajtur sesione gjyqësore publike, Gjykata Administrative veproi në mënyrë jotransparente, dhe i shqyrtoi dy raste që kishin të bëjnë me zgjedhjet pa mbajtur seancë publike.
+Poashtu, mungesa e udhëzimeve të përhershme për procesin e kundërshtimeve e dëmton efektivitetin e mjeteve ligjore të ndreqjes, që është paraparë me paragrafin 5.10 të Dokumentit të Kopenhagës të OSBE-së të vitit 1990.
+HYRJE DHE FALËNDERIME
+Në përgjigje të ftesës zyrtare, dhe në bazë të rekomandimit nga Misionit për vlerësimin e nevojave të realizuar prej 2 deri më 5 nëntor 2015, Zyra për institucione demokratike dhe të drejtat e njeriut e OSBE-së (OSBE/ODIHR) më 31 mars e krijoi Misionin për vëzhgimin e zgjedhjeve (MVZ) për t’i vëzhguar zgjedhjet e parakohshme parlamentare të caktuara për 5 qershor 2016.
+MVZ-ja, e udhëhequr nga ambasadori Jan Petersen, përbëhej nga ekipi bazë prej 12 anëtarëve, të vendosur në Shkup dhe 24 vëzhguesve afatgjatë (VA) të vendosur në gjithë vendin që nga 13 prilli.
+Anëtarët e misionit u siguruan nga 21 Shtete pjesëmarrëse të OSBE-së.
+Me anulimin e zgjedhjeve më 18 maj, më 1 qershor MVZ-ja e OSBE/ODIHR-it i përfundoi aktivitetet e saj vëzhguese.
+Megjithatë, misioni e vlerësoi përputhshmërinë e procesit zgjedhor dhe aktiviteteve të zhvilluara deri në atë datë, me angazhimet e OSBE-së, me detyrimet dhe standardet e tjera ndërkombëtare për zgjedhje demokratike, si dhe me legjislacionin vendas.
+Ky raport përfundimtar pason pas dy Raporteve të përkohshme.
+MVZ-ja e OSBE/ODIHR-it dëshiron t’i falënderojë autoritetet për ftesën për t’i vëzhguar zgjedhjet, si dhe Komisionin Shtetëror të Zgjedhjeve (KSHZ), Ministrinë për Punë të Jashtme dhe autoritetet e tjera shtetërore dhe lokale për mbështetjen dhe bashkëpunimin e tyre gjatë veprimit të MVZ-së.
+Misioni, poashtu i shpreh falënderim edhe Misionit të OSBE-së në Shkup, organizatave të tjera ndërkombëtare dhe ambasadave të akredituara në Shkup, si dhe partive politike, organizatave të shoqërisë civile dhe përfaqësuesve të mediave për bashkëpunimin dhe mbështetjen e tyre.
+KONTEKSTI POLITIK
+Zgjedhjet e parakohshme parlamentare u caktuan si pjesë e Marrëveshjes së Përzhinës, të nënshkruar më 2 qershor 2015 dhe Protokollit të saj të datës 15 korrik, të cilat u përgatitën për t’iu dhënë fund tensioneve politike që buronin nga bojkotimi i parlamentit nga ana e opozitës dhe publikimi i inçizimeve të komunikimeve përgjuara për shpërdorimin e pretenduar të fuqisë nga ana e zyrtarëve të lartë qeveritarë dhe publikë.
+Kjo marrëveshje, që u arrit ndërmjet katër partive kryesore - Organizatës së Brendshme Revolucionare Maqedonase – Partisë Demokratike për Unitet Kombëtar Maqedonas (VMRODPMNE), Lidhjes Socialdemokratike të Maqedonisë (LSDM), Bashkimit Demokratik për Integrim (BDI), dhe Partisë Demokratike Shqiptare (PDSH), u ndihmua nga Komisioni Evropian (KE).
+Zgjedhjet e parakohshme fillimisht u caktuan për 24 prill 2016.
+Në janar të vitit 2016, LSDM-ja njoftoi se nuk do të marrë pjesë në zgjedhje, duke theksuar se nuk janë plotësuar kushtet kryesore të Marrëveshjes së Përzhinës, edhe atë pastrimi i listës së votuesve, reformat e mediave, dhe ndarja e shtetit nga aktivitetet partiake.
+Më 23 shkurt,parlamenti e miratoi propozimin e BDI-së për ta shtyrë shpërbërjen e parlamentit dhe më 15 prill kryetari i parlamentit i ricaktoi zgjedhjet për 5 qershor.
+Klima politike u përkeqësua pas 12 prillit, kur kryetari i shtetit, Gjorge Ivanov solli vendim për amnisti të përgjithshme për të gjithë ata që ishin të paditur, nën hetime ose të dyshuar për përfshirje në skandalin e përgjimeve.
+Të gjitha partitë kryesore politike e dënuan amnistinë dhe i bënë thirrje krytearit të shtetit që ta tërheqë vendimin e tij. Amnistia shkaktoi protesta dhe kundër-protesta.
+Të bashkuar nën ombrellën e lëvizjes Protestoj, demonstruesit kërkuan dorëheqjen e kryetarit të shtetit dhe anulimin e zgjedhjeve.
+Edhe pse përfaqësuesit e lëvizjes Protestoj deklaruan se janë të pavarur politkisht, VMRO-DPMNE-ja thoshte se protestat janë të orkestruara nga LSDM-ja.
+Kundërprotestat e organizuara nga Lëvizja qytetare për mbrojtjen e Maqedonisë (GDOM) e mbështesnin qëndrimin e qeverisë duke pohuar se zgjedhjet duhet të mbahen më 5 qershor.
+Edhe pse autoritetet ndërmorrën disa masa për ta parandaluar presionin mbi qytetarët, si për shembull deklaratat politike dhe vendosja e lidhjeve të drejtpërdrejta telefonike (hot-line), shumë bashkëbisedues të MVZ-së së OSBE/ODIHR-it shpeshherë pretendonin se ka klimë të frikësimit, dhe disa prej tyre këtë ia përshkuanin frikës nga hakmarrja që ekziston në institucionet dhe ndërmarrjet shtetërore.
+Edhe pse nuk është parashtruar asnjë ankesë zyrtare, MVZ-ja e OSBE/ODIHR-it ka pranuar pretendime të besueshme për presion ndaj të punësuarve në sektorin publik për të marrë pjesë në kundër-protesta, duke i përfshirë edhe kërcënimet për largim nga puna.
+Kjo e vë në pikëpyetje të drejtën e votuesve për të votuar pa u frikësuar nga hakmarrja, siç është paraparë me Dokumentin e Kopenhagës të OSBE-së të vitit 1990.
+Qytetarët, duke i përfshirë edhe të punësuarit në institucionet publike ose shtetërore, nuk duhet t’i nënshtrohen presionit ose frikësimit.
+Autoritetet duhet t’i inkurajojnë qytetarët në mënyrë aktive që t’i denoncojnë të gjitha rastet e presioneve, duke i mbështetur ato me dëshmi të verifikueshme.
+Të gjitha rastet dhe pretendimet për presion dhe frikësim duhet të hetohen plotësisht dhe në mënyrë efektive dhe të ndiqen penalisht nga autoritetet.
+Periudha para fushatës u karakterizua me këmbim të retrorikës së ashpër ndërmjet partive kryesore politike, veçanërisht ndërmjet VMRO-DPMNE-së dhe LSDM-së.
+VMRO-DPMNE-ja theksonte se mbajtja e zgjedhjeve të parakohshme është mënyra e vetme për dalje nga kriza, ndërsa për LSDMnë prioritet ishte implementimi i Marrëveshjes së Përzhinës para se të mbahen zgjedhjet.
+Më 9 prill, LSDM-ja dhe 17 parti më të vogla e nënshkruan Platformën për Maqedoni demokratike, ku kërkonin implementimin e Marrëveshjes së Përzhinës dhe njoftuan se do t’i bojkotojnë zgjedhjet.
+Në fund, BDI-ja dhe PDSH-ja thanë se ata janë për zgjedhje inkluzive, ku do të marrin pjesë të gjitha partitë.
+Shumica e partive ishin në pritje të përfshirjes më të madhe të bashkësisë ndërkombëtare për zgjidhjen e krizës.
+Pas negociatave, nuk u arrit ndonjë marrëveshje politike, dhe nga katër partitë nënshkruese të Marrëveshjes së Përzhinës, vetëm VMRO-DPMNE-ja dorëzoi lista të kandidatëve më 11 maj, dhe në fund ishte garuesi i vetëm i regjistruar zgjedhor.
+Shumë bashkëbisedues të MVZ të OSBE/ODIHR-it theksuan se mbajtja e zgjedhjeve me vetëm një garues, e vë në pikëpyetje pluralizmin politik.
+Më 17 maj, një përfaqësues i Komisionit Evropian deklaroi se ata “nuk shohin se janë plotësuar as kushtet minimale për të mundësuar zgjedhje të besueshme më 5 qershor 2016, të cilat do të njiheshin nga bashkësia ndërkombëtare” dhe se “çdo qeveri që do të rezultonte nga zgjedhjet në të cilat nuk do të merrnin pjesë tre partitë më të mëdha, nuk do të ishte partner i besueshëm për bashkësinë ndërkombëtare”.
+Më 18 maj, Gjykata Kushtetuese e shqyrtoi kërkesën e BDI-së, të dorëzuar më 15 maj, ku kërkohej që shpërbërja e parlamentit të shpallej jokushtetuese.
+Në kërkesë theksohej se zgjedhjet mund të mbahen vetëm brenda 60 ditëve nga dita e shpërbërjes së parlamentit.
+Me vendim unanim, gjykata solli ndalesë të përkohshme për vendimin për shpërbërjen e parlamentit, duke e përfshirë edhe shpalljen e zgjedhjeve për 5 qershor nga ana e kryetarit të parlamentit.
+Periudha e fushatës dhe të gjitha aktivitetet që kanë të bëjnë me zgjedhjet u pezulluan derisa gjykata të vendosë për kërkesën e lartëpërmendur ose ta heqë ndalesën e përkohshme.
+Para vendimit përfundimtar të gjykatës, parlamenti u mblodh më 18 maj dhe votoi unanimisht që ta heqë nga Kodi zgjedhor datën e 5 qershorit si datë të caktuar për mbajtjen e zgjedhjeve.
+Nuk u caktua datë e re për mbajtjen e zgjedhjeve.
+Më 25 maj, Gjykata Kushtetuese e miratoi kërkesën e BDI-së dhe e shpalli shpërbërjen e parlamentit si jokushtetuese, dhe me këtë e anuloi vendimin e kryetarit të parlamentit për t’i shpallur zgjedhjet e 5 qershorit.
+Paraprakisht, gjykata dy herë e refuzoi rastin e ngjashëm për shkak se u deklarua si jokompetente për të vendosur për këtë çështje.
+Disa bashkëbisedues të MVZ të OSBE/ODIHR-it thanë se vendimi i Gjykatës Kushtetuese ishte i ndikuar nga zhvillimet politike.
+Në mbledhjen e mbajtur më 18 maj, parlamenti i miratoi dorëheqjet e ministrave të LSDM-së që ishin dorëzuar më 6 prill, dhe i zëvendësoi ata me përfaqësues të koalicionit në pushtet të VMRODPMNE-së.
+LSDM-ja dhe PDSH-ja thanë se është shkelur Marrëveshja e Përzhinës, pasi që njëra nga dispozitat e saj ishte edhe krijimi i qeverisë së përkohshme.
+Parlamenti poashtu e ndryshoi edhe Ligjin për amnisti që t’i mundësojë kryetarit të shtetit që t’i tërheqë amnistitë e dhëna më parë, gjë që kryetari e bëri më 6 qershor.
+Një numër i përfaqësuesve të opozitës inicuan procedurë për heqjen e kryetarit Ivanov nga detyra për shkak të shkeljes së Kushtetutës gjatë dhënies së amnistive.
+Më 21 qershor, parlamenti nuk e arriti shumicën e dy të tretave që nevojitej për të kaluar kjo iniciativë.
+KORNIZA LIGJORE
+Zgjedhjet janë të rregulluara me Kushtetutë dhe me Kodin zgjedhor, të plotësuara me rregullat që i shpall KSHZ-ja.
+Kodi zgjedhor është miratuar në vitin 2006, mirëpo që atëherë është ndryshuar dukshëm.
+Pas Marrëveshjes së Përzhinës, u krijua një grup pune me pjesëmarrje të VMRO-DPMNE-së, LSDM-së, BDI-së dhe PDSH-së. 
+Grupi arriti konsensus për reformën zgjedhore dhe më 9 nëntor parlamenti miratoi një numër të rëndësishëm të amandamenteve.
+Me këto ndryshime u bë përpjekje që të trajtohen shumica e rekomandimeve të mëparshme të OSBE/ODIHR-it, veçanërisht ato që kishin të bëjnë me parimin e të drejtës së barabartë të votës për votimin jashtë vendit, përbërjen dhe kompetencat e KSHZ-së, terrenin e barabartë në aspekt të mbulimit mediatik gjatë periudhës zgjedhore, përforcimin e raportimit dhe revizionit për financimin e partive dhe të fushatës, masat e përmirësuara mbrojtëse për ndarjen e partisë nga shteti, vendosjen e afateve kohore për gjykatat që të vendosin për kontestet zgjedhore dhe qartësimin e definicionit për zhvillimin e fushatës dhe periudhën e fushatës.
+U futën fotografitë e votuesve në listat zgjedhore dhe shënimi me ngjyrë i gishtit të madh të votuesit si masa të mundshme mbrojtëse kundër votimit të shumëfishtë.
+Edhe pse këto ndryshime paraqesin përpjekje për përmirësimin e Kodit zgjedhor, një numër i bashkëbiseduesve të MVZ të OSBE/ODIHR-it mendojnë se ndryshimet e fundit kanë ndikuar negativisht në atë se si palët e përfshira në procesin zgjedhor i kuptojnë dispozitat dhe në aftësinë e tyre për t’i kryer funksionet e tyre.
+Për shembull, shumë pak palë të përfshira në procesin zgjedhor kishin njohuri ose i kishin kuptuar dispozitat e reja për reklamimin politik duke i përdorur posterët, afishet dhe tabelat reklamuese.
+Poashtu, dispozitat për fushatën e parakohshme nuk ishin efektive për shkak se definicioni i garuesve në zgjedhje që nuk mund të zhvillojnë fushatë është i kufizuar në ata që janë të konfirmuar si kandidatë nga KSHZ-ja, gjë që nuk ndodh deri atëherë kur duhet të fillojë fushata.
+Poashtu, duhet të qartësohen edhe dispozitat për procedurat për regjistrimin e votuesve jashtë vendit që t’u mundësohet e drejta e votimit të gjithë votuesve që kanë të drejtë vote.
+Bashkëbiseduesit e MVZ-së së OSBE/ODIHR-it kishin mendim të ngjashëm se Kodi zgjedhor ka nevojë për rishikim të plotë.
+Ata poashtu theksuan se po aq i rëndësishëm është edhe implementimi i plotë dhe efektiv i Kodit zgjedhor.
+Kodi zgjedhor ka nevojë për rishikim të plotë që të harmonizohet brendia e tij, e poashtu të harmonizohet edhe me ligjet e tjera relevante.
+Rishikimi duhet të bëhet pas konsultimeve të bëra me të gjitha palët e interesuara politike dhe organizatat relevante të shoqërisë civile. 
+Kjo duhet të përfundohet shumë më herët, para se të mbahen zgjedhjet e ardhshme.
+Duhet të realizohen trajnime për stafin zgjedhor dhe programe për ngritjen e vetëdijes publike për ta përmirësuar implementimin efektiv të Kodit zgjedhor.
+SISTEMI ZGJEDHOR
+Ndërmjet 120 dhe 123 deputetë janë zgjedhur sipas sistemit proporcional të përfaqësimit nga listat e mbyllura.
+Prej tyre, 20 deputetë janë zgjedhur në secilën nga 6 njësitë zgjedhore të vendit.
+Si rezultat i ndryshimeve të vitit 2015 në Kodin zgjedhor, deri në tre deputetë mund të zgjidhen nga njësia e vetme zgjedhore jashtë vendit.
+Sistemi i ri i votimit jashtë vendit ishte përpjekje për t’i balancuar votat e votuesve në vend dhe atyre jashtë vendit.
+Më 13 maj, KSHZ-ja e anuloi votimin jashtë vendit pasiqë konsideroi se janë regjistruar numër i pamjaftueshëm i qytetarëve për të votuar.
+Me këtë vendim, në mënyrë efektive iu mor e drejta e votimit të gjithë votuesve të regjistruar jashtë vendit, pasiqë KSHZ-ja nuk ofroi dispozitë alternative që ata të mund ta ushtrojnë të drejtën e tyre të votës.
+Në qoftë se nuk ndryshon sistemi aktual i votimit jashtë vendit, duhet të përgatiten dispozita alternative që do t’u mundësojnë votuesve ta ushtrojnë të drejtën e tyre të votës në qoftë se anulohet votimi jashtë vendit.
+Më 13 maj, KSHZ-ja i dërgoi letër ministrit për drejtësi dhe kryetarit të parlamentit, ku i njofton se tre nga gjashtë njësitë zgjedhore kanë dallim më të madh në numrin e votuesve se sa 5 përqindëshi i lejuar me Kodin zgjedhor.
+21 Në dhjetor të vitit 2015, KSHZ-ja i ka njoftuar paraprakisht këto institucione për këtë jokonsekuencë, mirëpo nuk u ndërmorr asnjë veprim për t’i ndryshuar njësitë zgjedhore para shpërbërjes së parlamentit në prill.
+Në Kodin zgjedhor nuk është paraparë procedurë për caktimin e kufinjve të njësive zgjedhore e as kritere në bazë të të cilave përcaktohen ato, që është në kundërshtim me praktikat e mira ndërkombëtare.
+Me Kodin zgjedhor çdo njësie zgjedhore i janë ndarë një numër i caktuar i vendvotimeve.
+Madje, ligji e obligon KSHZ-në t’i ndajë vendvotimet me më shumë se 1.000 votues të regjistruar para mbajtjes së zgjedhjeve, kështu që lista e vendvotimeve të përfshira në Kodin zgjedhor nuk është gjithmonë e saktë.
+Për t’u siguruar barazia e votës, legjislacioni mund të parashohë rishikim periodik të kufinjve të njësive zgjedhore nga një organ i pavarur.
+Kur bëhet ridefinimi i kufinjve të njësive zgjedhore kjo duhet të bëhet me kohë, në mënyrë transparente, të paanshme dhe inkluzive.
+ADMINISTRATIMI I ZGJEDHJEVE
+Administrata zgjedhore në tre nivele përbëhet nga KSHZ-ja, 80 Komisione komunale zgjedhore (KKZ), 3.480 Këshilla zgjedhore (KZ).
+KSHZ-ja mbështetej nga 34 zyra rajonale dhe lokale të saj.
+KSHZ-ja është përgjegjëse për mbarëvajtjen e përgjithshme të zgjedhjeve.
+KKZ-të janë përgjegjëse për mbikëqyrjen e procesit zgjedhor në çdo komunë, për emërimin dhe trajnimin e KZ-ve, paraqitjen në tabela dhe shpalljen e rezultateve komunale, si dhe përgatitjet e tjera teknike sipas udhëzimeve të KSHZ-së.
+KZ-të janë përgjegjëse për mbarëvajtjen e procedurave në ditën e zgjedhjeve nëpër vendvotime.
+Pas Marrëveshjes së Përzhinës, përbërja e KSHZ-së u zgjerua prej shtatë në nëntë anëtarë.
+Përveç gjashtë përfaqësuesve të partive parlamentare të emëruar nga partitë në pushtet (VMRO-DPMNE-ja – 2 dhe BDI-ja – 1) dhe opozitës (LSDM-ja – 2 dhe PDSH-ja – 1), në komision u përfshin edhe tre ekspertë të pavarur që nuk i takonin asnjë partie politike.
+KSHZ-ja e re u emërua me mandat pesëvjeçar nga parlamenti më 16 dhjetor 2015, pesë muaj më vonë se sa që ishte paraparë në Marrëveshjen e Përzhinës.
+Kryetari i KSHZ-së dhe zëvendësi i tij u zgjodhën nga radhët e anëtarëve jopartiakë.
+Në përputhje me rekomandimet e mëparshme të OSBE/ODIHR-it, resurset e KSHZ-së u përforcuan duke punësuar punëtorë të rinj në departamentin juridik dhe në sektorin për TI, si dhe në disa zyra rajonale.
+Mirëpo, të gjitha këto janë vende të përkohshme të punës deri më 31 dhjetor 2016.
+Për t’u siguruar qëndrueshmëria administrative e KSHZ-së, të gjitha pozitat e nevojshme mbështetëse të punës duhet të jenë të përhershme, në bazë të procedurave të hapura dhe konkurrente për punësim.
+Fokusi kryesor i KSHZ-së ishte rishikimi i regjistrit të votuesve.
+Pas shpalljes së zgjedhjeve, KSHZ-ja i filloi përgatitjet administrative duke e miratuar kalendarin zgjedhor me afate kohore ligjore, si dhe buxhetin operativ.
+KSHZ-ja i respektoi afatet administrative ligjore dhe mbajti mbledhje të rregullta publike.
+Mirëpo, transparenca e punës së saj u dobësua kur mbante mbledhje në sesione të mbyllura, ku nuk u lejohej qasje vëzhguesve dhe mediave.
+Megjithatë, në këto mbledhje nuk është marrë asnjë vendim.
+Përveç kësaj, KSHZ-ja, mbajti dy sesione formale të mbyllura, ku u morën vendime për ndryshime në emërimin e KKZ-ve dhe për disa çështje teknike.
+Poashtu, pothuajse të gjitha vendimet e KSHZ-së që janë miratuar që nga muaji mars i vitit 2016 nuk janë publikuar në ueb-faqen e tyre, që është në kundërshtim me Rregulloren e punës së KSHZ-së.
+Kjo mungesë e transparencës është në kundërshtim me standardet ndërkombëtare dhe praktikën e mirë.
+Ashtu siç është paraparë me ligj, e me qëllim të rritjes së transparencës dhe besimit publik në punën e saj, të gjitha mbledhjet e KSHZ-së duhet të jenë të hapura për publikun; të gjitha vendimet e KSHZ-së duhet të publikohen në ueb-faqen e tyre pa vonesë.
+KSHZ-ja punoi në një ambient të tensionuar politik dhe u kritikua nga opozita dhe disa organizata të shoqërisë civile, të cilat ishin kundër mbajtjes së zgjedhjeve më 5 qershor.
+Më 15 prill, kur u shpall dita e zgjedhjeve, komisioni votoi me gjashtë vota në favor të asaj se ata janë “të gatshëm që në mënyrë ligjore, të ndërgjegjshme dhe transparente t’i kryejnë të gjitha aktivitetet zgjedhore”.
+Kryetari i KSHZ-së dhe dy përfaqësuesit e LSDM-së e lëshuan mbledhjen pa votuar dhe përfaqësuesit e LSDM-së nuk u kthyen në mbledhjet e saj deri më 13 maj.
+Përderisa zyrat rajonale të KSHZ-së rezultuan të ishin të ekipuara me punëtorë me përvojë, zyrtarët lokalë të zgjedhjeve dukej se nuk kishin asnjë fuqi vendimmmarrëse dhe shumë prej tyre u ankuan për mungesën e resurseve të nevojshme, si dhe mbështetjen dhe udhëzimet e pamjaftueshme nga ana e zyrës qendrore.
+Pritja e përhapur në masë të gjerë për anulimin ose shtyrjen e zgjedhjeve të 5 qershorit ndikoi në nivelin e angazhimit të zyrtarëve të zgjedhjeve.
+Çdo KKZ përbëhet nga kryetari, katër anëtarë dhe zëvendësit e tyre, që zgjidhen sipas rastit nga radhët e të punësuarve në administratën publike me arsim universitar, me mandat pesëvjeçar.
+KZ-të përbëhen nga kryetari dhe dy anëtarë (dhe zëvendësit e tyre) që zgjidhen sipas rastit nga radhët e të punësuarve në administratën publike dhe dy anëtarët e tjerë emërohen nga partitë politike, një nga partitë politike në pushtet dhe një nga opozita.
+Pasi mandati pesëvjeçar i KKZ-ve skadoi më 28 prill, KSHZ-ja emëroi anëtarë të rinj të KKZ-ve me anë të programit kompjuterik për zgjedhje të rastit.
+Si rezultat i zgjedhjes së tillë, nëpunësitshtetërorë u emëruan si anëtarë të KKZ-ve pa konsultime paraprake dhe në disa raste kundërvullnetit të tyre.
+Më shumë se 50 veta nga 800 anëtarët e KKZ-ve kërkuan nga KSHZ-ja që taanulojë zgjedhjen e tyre duke theksuar arsye shëndetësore, përkatësinë në ndonjë parti politike, osemungesën e arsimit të nevojshëm.
+Emërimi i KKZ-ve nuk ishte i harmonizuar me kalendarin e afateve kohore për zgjedhjet e vitit2016, për shkak se kjo u bë gjatë periudhës zgjedhore.
+Nuk mbeti kohë për t’i trajnuar anëtarët e rinjpara se ata të fillojnë me detyrën e tyre, që është në kundërshtim me praktikën e mirëndërkombëtare.
+Poashtu, për shkak të komunikimit të dobët ndërmjet KSHZ-së dhe KKZ-ve,shumë nga anëtarët e rinj nuk ishin të njoftuar për emërimet e tyre në KKZ disa ditë me radhë.
+Krijimi i shumë KKZ-ve u shty edhe më tepër për shkak të ndarjes së resurseve të pamjaftueshme,duke e përfshirë hapësirën për zyra dhe kompjuterët.
+Si rezultat i vonesave të këtilla, asnjëra ngaKB-të nuk u emërua qoftë deri në afatin e paraparë ligjor më 6 maj, ose deri në anulimin eaktiviteteve zgjedhore më 18 maj.
+VMRO-DPMNE-ja ishte partia e vetme që ia dorëzoi KB-velistat e përfaqësuesve të saj.
+Duhet të konsiderohet vendosja dhe sigurimi i komunikimit dhe mbështetjes më efikase nga KSHZja për organet lokale për menaxhim të zgjedhjeve.
+Duhet të realizohen trajnime gjithëpërfshirësedhe të standardizuara për zyrtarët lokalë të KSHZ-së dhe anëtarët e KKZ-ve para se të shpallenzgjedhjet e reja.
+Zyrave lokale duhet t’u ofrohen resurset e nevojshme për realizimin e punës së tyrenë kohë dhe në mënyrë efektive.
+Kodi zgjedhor parasheh përfaqësim të drejtë të grupeve etnike dhe të çdo gjinie në organet përadministrim të zgjedhjeve.
+Nga nëntë anëtarët e KSHZ-së, dy janë gra dhe tre janë shqiptarëetnikë.
+Është pozitive që rreth 47 për qind e anëtarëve të KKZ-ve janë gra.
+Në 22 KKZ u siguruanumri i paraparë i anëtarëve shqiptarë etnikë.
+Turqit etnikë ishin të përfaqësuar në tre KKZ, ndërsaserbët etnikë dhe romët ishin të përfaqësuar në nga një KKZ.
+REGJISTRIMI I VOTUESVE
+Regjistrimi i votuesve është pasiv, me përjashim të votuesve me qëndrim të përkohshëm jashtëvendit, të cilët duhet të regjistrohen në mënyrë aktive.
+E drejta e votës është e garantuar për të gjithëqytetarët që kanë mbi 18 vjet, me vendbanim të regjistruar në vend dhe që kanë letërnjoftim tëvlefshëm ose pasaportë biometrike.
+Saktësia e regjistrit të votuesve, e për pasojë edhe e listave zgjedhore, ishte njëra ndër çështjet mëkontestuese në krizën politike.
+OSBE/ODIHR-i paraprakisht ka rekomanduar procedura të qarta, tëkoordinuara dhe transparente për të gjitha institucionet që janë të përfshira në azhurnimin e listavetë votuesve.
+Me ndryshimet e vitit 2015 në Kodin zgjedhor, KSHZ-ja u bë organi i vetëm përgjegjëspër mirëmbajtjen e regjistrit të votuesve në bazë të të dhënave që i merr kryesisht nga Ministria përPunë të Brendshme (MPB), ndërsa MPB-ja e mbajti kontrollin mbi bazat e të dhënave të numrave tëvetëm amë, paraqitjen e vendbanimit dhe regjistrat e dokumenteve për identifikim personal që ulëshohen qytetarëve.
+AZHURNIMI I REGJISTRIT TË VOTUESVE
+Në shkurt të vitit 2016, në bazë të metodologjisë së miratuar të saj, KSHZ-ja filloi azhurnimin eregjistrit të votuesve duke bërë kontrollim të kryqëzuar të bazave të të dhënave të 11 institucioneveshtetërore, si dhe duke bërë kontrolle në terren.
+Të gjithë bashkëbiseduesit e MVZ-së sëOSBE/ODIHR-it deklaruan se ky proces u tregua si i ndërlikuar në aspekt operativ dhe sfidues nëaspekt metodologjik, si dhe kërkonte burime të mëdha financiare dhe njerëzore.
+Në fillim të procesit, KSHZ-ja i kërkoi mospërputhjet në bazat e të dhënave dhe i analizoi të dhënatqë mund të ishin indikatorë për parregullsi të mundshme, si për shembull persona të vdekur në lista,numër i madh i votuesve të regjistruar në adresë të njëjtë ose votues me emra dhe datëlindje tëngjashme.
+Nga përafërsisht 1.8 milionë votues, u identifikuan mbi 300,000 votues për të cilët kishtenevojë të qartësohet statusi i tyre.
+Diku rreth 220,000 të dhëna të votuesve iu përcollën disainstitucioneve shtetërore për verifikim.
+Si rezultat i kryqëzimit të të dhënave, KSHZ-ja publikoi një listë me 89,000 qytetarë të dhënat eregjistrimit të të cilëve duheshte të vërtetohen gjatë vizitave në terren në vendbanimet e votuesve.
+Ndërmjet 28 marsit dhe 5 prillit, mbi 550 përfaqësues të KSHZ-së i vizituan shtëpitë e rreth 87,000votuesve dhe plotësuen pyetësorë.
+Kontrollet në terren i vërtetuan 47,560 të dhëna (votuesit nëfjalë u takuan personalisht), ndërsa 39,792 shënime iu përcollën MPB-së dhe Ministrisë për Drejtësipër kontrolle plotësuese administrative.
+Në fund, u konstatua se pothuajse të gjitha këto dhëna ishintë sakta.
+Edhe pse KSHZ-ja bëri përpjekje të konsiderueshme për t’i realizuar kontrollet në terren, të cilatpoashtu kishin për qëllim ta risin besimin e publikut, parregullsitë e pretenduara, si për shembullvotuesit fiktivë dhe praktikat mashtruese, akoma përdoreshin si një nga argumentet kryesore përshtyrjen e zgjedhjeve.
+Mbështetësit e kësaj ideje e kritikuan procesin se është kaotik, i pasigurt nëaspekt metodologjik dhe se në disa raste i ka trajtuar në mënyrë joadekuate pretendimet emëparshme për mashtrim.
+Ndërmjet marsit dhe majit të vitit 2016, KSHZ-ja i dorëzoi MPB-së 45 kërkesa për verifikim të tëdhënave.
+Shumë nga përgjigjet e MPB-së ishin të nënshkruara vetëm nga zëvendës-ministri, pasiqëministri, përfaqësues i LSDM-së, refuzoi ta bëjë këtë duke thënë se duhet më tepër kohë për tërealizuar kontrolle të sakta.
+Përfaqësuesit e LSDM-së në KSHZ e kontestuan ligjshmërinë e këtyredokumenteve, mirëpo KSHZ-ja vendosi që t’i pranojë ato.
+Ministri i brendshëm poashtu kërkoi nga KSHZ-ja që t’i heqë nga lista rreth 130,000 votues që kanëpasaportë të vlefshme mirëpo nuk kanë dokument të vlefshëm identifikimi për ta dëshmuarvendbanimin.
+KSHZ-ja e refuzoi këtë kërkesë me arsyetimin se ligji parasheh se regjistrimi ivotuesve mund të bëhet qoftë me letërnjoftim ose me pasaportë të vlefshme.
+Njëra nga kërkesat më të rëndësishme të KSHZ-së për MPB-në kishte të bëjë me 73,000 votues qëishin identifikuar se duhet të konfirmohet vendbanimi i tyre.
+Edhe pse MPB-ja formalisht ekonfirmoi ligjshmërinë e këtyre të dhënave, shumë bashkëbisedues të MVZ-së së OSBE/ODIHR-itthanë se është pikëpyetje se a është bërë ky verifikim në mënyrë të përpiktë.
+Njëri nga shembujt kryesorë për shqetësimet në lidhje me parregullistë në regjistrim ishte rasti iashtuquajtur “Votuesit e Pustecit” – qytetarë që jetojnë në Repulikën e Shqipërisë, e drejta e tëcilëve për të votuar kontestohej për shkak të statusit të paqartë të vendbanimit.
+Këta persona, gjojajanë shtuar në listat e votuesve në komunën Qendër të Shkupit për të ndikuar në rezultatin ezgjedhjeve lokale.
+Sipas MPB-së, në janar të vitit 2016, gjithsej 349 letërnjoftime të këtyrepersonave u anuluan për shkak se nuk kishin të drejtë ta paraqesin vendbanimin në adresë tëcaktuar.
+Vazhduan pretendimet për të dhëna fiktive në regjistrin e votuesve, pasiqë shumë bashkëbisedues tëMVZ-së së OSBE/ODIHR-it theksuan se numri i lartë i përgjithshëm i votuesve është i dyshimtë,duke u bazuar në numrin e qytetarëve sipas regjistrimit të popullsisë të vitit 2002.
+Pasaktësia elistave zgjedhore poashtu u shfrytëzua si argument nga shumë bashkëbisedues të MVZ-së sëOSBE/ODIHR-it për shtyrjen e zgjedhjeve.
+Duke u përgjigjur në këto pretendime dhe në bazë tëkërkesës së KSHZ-së, MPB-ja njoftoi se deri më 31 mars kishte 2,464,925 qytetarë në regjistrin eshtetasve, duke i përfshirë edhe 1,956,518 të moshës mbi 18 vjet dhe rreth 150,000 pa vendbanimose dokument të vlefshëm të identifikimit.
+Poashtu, raporti i fundit për përparimin në azhurnimin elistave zgjedhore që u publikua nga KSHZ-ja më 26 prill, nuk zbuloi dëshmi për regjistrim tërrejshëm të votuesve.
+Pothuajse të gjitha 300,000 të dhënat, të cilat fillimisht ishin identifikuar si tëdyshimta nga KSHZ-ja, u shpallën të vlefshme.
+U bënë ndryshime shumë të vogla, kryesisht duke ihequr nga lista mbi 1,100 persona të vdekur që u identifikuan gjatë kontrollimeve të kryqëzuara tëtë dhënave elektronike.
+SHIKIMI PUBLIK I LISTAVE ZGJEDHORE
+Shikimi publik i listave preliminare zgjedhore për zgjedhjet e 5 qershorit u realizua ndërmjet 25prillit dhe dhe 9 majit në 34 zyra rajonale dhe lokale të KSHZ-së.
+Votuesit mund t’i kontrollonin tëdhënat e tyre në mënyrë elektronike, mirëpo jo edhe të dhënat e qytetarëve të tjerë, siç ështëparaparë me Kodin zgjedhor.
+Sistemi i verifikimit publik ishte më i pavolitshëm për ata që nuk kanëqasje në internet dhe për ata që jetojnë në zona rurale.
+Procesi i shikimit nuk u implementua në mënyrë të njëjtë në gjithë vendin – përderisa në disa zyravotuesit mund t’i kontrollonin të dhënat e tyre nëpërmjet numrit të tyre amë, në disa zyra të tjera kjomund të bëhej edhe nëpërmjet emrit, adresës dhe numrit të vendvotimit.
+Vetëm 4,716 votues everifikuan saktësinë e të dhënave të tyre.
+Deri më 17 maj, në listat zgjedhore kishte 1,804,348votues të regjistruar.
+Më 30 mars KSHZ-ja duheshte t’i heqë listat zgjedhore nga ueb-faqja për shkak të vendimit tëDrejtorisë për mbrojtjen e të dhënave personale, që e ndalonte publikimin e të dhënave personale tëvotuesve duke e përfshirë emrin, gjininë, adresën, datëlindjen dhe numrin e vendvotimit.
+Pamundësia që votuesit t’i kontrollojnë listat zgjedhore gjatë kësaj kohe ndikoi në transparencëndhe besimin publik në cilësinë e listave zgjedhore.
+Për ta rritur besimin publik dhe për t’u ofruar votuesve qasje më të lehtë për t’i verifikuar listatzgjedhore, duhet të konsiderohet mundësia për vendosjen e pjesëve të shtypura nga listat zgjedhorenë vende të përshtatshme për votuesit, mundësisht në vendvotime.
+MVZ-ja e OSBE/ODIHR-it u informua për një numër shembujsh të ekzistimit të pretenduar tëvotuesve fiktivë (të ashtuquajtur “votues fantomë”) dhe për parregullsi të tjera.
+MVZ-ja e ndoqinjë mostër të zgjedhur në mënyrë të rastit të këtyre parregullsive; megjithëse shumë ngapretendimet që u kontrolluan u dëshmuan si të pavërteta ose kishin të bëjnë me gabime gjatëregjistrimit, të cilat tashmë ishin korrigjuar, MVZ-ja e OSBE/ODIHR-it vërtetoi raste të votuesveqë ishin të regjistruar në adresa që nuk ekzistonin, që mund të jenë ose regjistrim nga pakujdesia osegabime administrative.
+Më 14 maj, KSHZ-ja ua dha listat zgjedhore katër partive më të mëdha politike, të cilat kishin pesëditë për të kërkuar ndryshime.
+MVZ-ja e OSBE/ODIHR-it nuk është e informuar se partitë politikekanë bërë ndonjë kërkesë deri në afatin e fundit, më 22 maj.
+Më 26 maj, KSHZ-ja e publikoi listën e plotë zgjedhore në ueb-faqen e saj, duke siguruar qasje tëgjerë publike në të dhënat e regjistruara, pasi që listat mund të kontrolloheshin sipas numrit tëvetëm amë, emrit dhe adresave.
+Votuesit kishin mundësi të paraqiten personalisht në zyrat lokale tëKSHZ-së për të kërkuar që të bëhet çfarëdo qoftë ndryshimi.
+MVZ-ja e OSBE/ODIHR-it nuk ështëe informuar se ndonjë votues apo ndonjë palë tjetër ka kërkuar të bëhet ndonjë ndryshim.
+MVZ-ja e OSBE/ODIHR-it e vëzhgoi diskutimin e vazhdueshëm për zëvendësimin e sistemit aktualpër regjistrimin pasiv të votuesve me një sistem të regjistrimit aktiv, si mënyrë për t’i parandaluarparregullsitë e pretenduara.
+Mirëpo, disa bashkëbisedues të OSBE/ODIHR-it theksuan se regjistrimiaktiv është i shtrenjtë, merr shumë kohë dhe ka gjasa t’ua marrë të drejtën e votës votuesve që nukkanë mundësi t’i vizitojnë qendrat e regjistrimit për arsye personale, si për shembull për shkak tëhendikepit ose për shkak se jetojnë jashtë vendit.
+Sistemi aktual i regjistrimit të votuesve që bazohet në numrin e vetëm amë mund të sigurojë saktësitë listave zgjedhore dhe të ofrojë masa të mjaftueshme mbrojtëse kundër regjistrimit të rrejshëm dheatij të dyfishtë nëse zbatohet në mënyrë konsekuente dhe të drejtë.
+Megjithëse MPB-ja ështëpërgjegjëse për saktësinë e të dhënave, po aq me rëndësi është që edhe qytetarët me kohë t’iinformojnë autoritetet relevante për ndonjë ndryshim në të dhënat e tyre personale apo tëvendbanimit, siç është e paraparë me ligj.
+KSHZ-ja dhe MPB-ja duhet të vazhdojnë me e procesin e azhurnimit të regjistrit të votuesvenëpërmjet angazhimit të koordinuar në bazë të përgjegjësive dhe procedurave të qarta.
+Duhet tëndahen resurset adekuate dhe koha e nevojshme për ta realizuar këtë detyrë para zgjedhjeve tëardhshme.
+Ky proces duhet të jetë transparent dhe duhet të sigurojë qasje për partitë politike dheshoqërinë civile.
+Kjo duhet të shoqërohet me një fushatë për informim publik me qëllim të rritjes sëbesimit të qytetarëve në saktësinë e regjistrimit të votuesve.
+REGJISTRIMI I KANDIDATËVE
+Çdo votues me të drejtë vote mund të jetë kandidat për deputet, përveç atyre që janë dënuar medënim të plotfuqishëm gjyqësor me dënim me burg më shumë se gjashtë muaj dhe nuk e kanëvuajtur dënimin e tyre.
+Ligji, poashtu përcakton një sërë pozitash qeveritare dhe pozitash që kanëlidhje me qeverinë që nuk janë të përshtatshme për kandidim.
+Përveç kësaj, deputetët nuk mund tëpunojnë në organet e administratës shtetërore e as nuk mund të angazhohen në ndonjë biznes oseaktivitet tjetër fitimprurës.
+Kandidatët mund të emërohen nga partitë politike, koalicionet e partive politike, ose grupe tëvotuesve.
+Për listat e dorëzuara nga grupet e votuesve duhet të dorëzohen së paku 1.000 nënshkrimembështetëse nga votuesit që jetojnë në njësinë përkatëse zgjedhore.
+Në përputhje me rekomandiminparaprak të OSBE/ODIHR-it, një votues mund të japë mbështetje për më shumë se një garues tëmundshëm.
+Megjithatë, në kundërshtim me rekomandimin paraprak të OSBE/ODIHR-it,nënshkrimet patjetër duhet të mblidhen në prani të përfaqësuesit të zyrës rajonale të KSHZ-së.
+Sipasdisa bashkëbiseduesve të MVZ-së së OSBE/ODIHR-it, kërkesa për ta vizituar zyrën e KSHZ-sëmund të ketë efekt zhbindës ose frikësues mbi disa votues, veçanërisht në vendbanimet më të vogla.
+Siç u rekomandua më herët, duhet të konsiderohet mundësia për të ofruar metoda alternative përmbledhjen e nënshkrimeve me qëllim që të zvogëlohet potenciali për frikësim.
+Deri në afatin e fundit më 11 maj, KSHZ-ja pranoi tre lista të kandidatëve.
+Nga katër partitë më tëmëdha parlamentare, lista dorëzoi vetëm koalicioni i VMRO-DPMNE-së.
+Këto lista e respektuandispozitën e re të Kodit zgjedhor, e cila parasheh që së paku 40 për qind e kandidatëve duhet t’itakojnë gjinisë më pak të përfaqësuar.
+Kandidatë emëruan edhe dy parti joparlamentare, Lëvizja Kombëtare për Maqedoninë (LKM) dhePartia Social-Demokratike e Maqedonisë (PSDM).
+Nuk u dorëzua asnjë listë e pavarur.
+KSHZ-ja ipranoi listat e VMRO-DPMNE-së më 12 maj dhe i ktheu listat e dy partive të tjera për korrigjim tëmangësive.
+Më 15 maj, PSDM-ja i tërhoqi listat e saj, ndërsa KSHZ-ja i refuzoi listat e LKM-sëpër shkak të moskorrigjimit të mangësive të identifikuara.
+Për ta shmangur çdo konfuzion dhe refuzimin e listave të kandidatëve për arsye teknike, të gjithadokumentet e veçanta që kërkohen për çdo listë duhet të shënohen në Kodin zgjedhor.
+Procesi i regjistrimit të kandidatëve u përmbyll me vetëm një garues të regjistruar, situatë kjo e cilanuk është rregulluar në mënyrë të veçantë në Kodin zgjedhor.
+Rishikimi i Kodit zgjedhor mund të konsiderojë përfshirjen e dispozitave për rregullimin e situatëskur në zgjedhjet parlamentare merr pjesë vetëm një garues zgjedhor.
+FINANCIMI I FUSHATËS
+Kodi zgjedhor e rregullon financimin e fushatave zgjedhore.
+Të gjitha donacionet dhe shpenzimetqë kanë të bëjnë me fushatën duhet të kalojnë nëpër një llogari të veçantë bankare.
+Personaveprivatë që i plotësojnë kushtet u lejohet të dhurojnë deri në vlerën ekuivalente të 3.000 eurove nëdenarë, ndërsa subjektet juridike mund të dhurojnë deri në vlerën ekuivalente 30.000 eurove.
+Donacionet e huaja ose ato anonime, si dhe ato nga organizatat në pronësi shtetërore, fetare dhehumanitare janë të ndaluara.
+Zbritjet për reklama politike që ofrohen nga shtëpitë mediatike përpjesëmarrësit në fushatë konsiderohen donacion dhe janë të ndaluara.
+Një garues në zgjedhje nukmund të shpenzojë më shumë se sa vlera ekuivalente e 1.8 eurove në denarë për çdo votues tëregjistrar në njësinë e caktuar zgjedhore.
+Garuesit e zgjedhjeve duhet të dorëzojnë dy raporte të përkohshme dhe një raport përfundimtar përfinancimin e fushatës në KSHZ, në Komisionin shtetëror për parandalimin e korrupsionit (KSHPK)dhe në Entin shtetëror për revizion (ESHR).
+Në përputhje me rekomandimet e mëparshme tëOSCE/ODIHR-it, tani kërkohet raportim sipas zërave për shpenzimet financiare të fushatës dheESHR-së i është dhënë kompetenca për të kërkuar sqarime plotësuese nga garuesit gjatë procesit tërevizionit.
+Pasiqë zgjedhjet u anuluan vetëm dy ditë pasi filloi fushata, nuk u dorëzua asnjë raportpër financim të fushatës.
+ESHR-ja e ka për obligim që të bëjë revizion të raporteve përfundimtare për financimin e fushatësnë afat prej 60 ditësh nga dita e dorëzimit.
+Nëse konstatohen parregullsi, ESHR-ja inicon procedurëkundërvajtëse ose ia përcjell këto parregullsi prokurorit përkatës publik në afat prej 30 ditësh ngadita e konstatimit të tyre.
+ESHR-ja ka të drejtë të kërkojë sqarime dhe të dhëna plotësuese ngagaruesit në zgjedhje.
+ESHR-ja i tha MVZ-së së OSBE/ODIHR-it se nuk i ka resurset e nevojshmepër ta bërë mbikëqyrjen e raporteve të financimit të fushatës zgjedhore për shkak se ata janërevizorë e jo hetues.
+Pastaj, ata nuk e posedojnë personelin e nevojshëm për të bërë monitorim tëshpenzimeve të financimit të fushatës për të përcaktuar se a ka parregullsi.
+Monitorimi dhe mbikëqyrja e dispozitave që kanë bëjnë me financimin e fushatës duhet të bëhet nganjë agjenci e pavarur që e ka personelin dhe e ekspertizën e duhur për të bërë monitorim efektiv tëparregullsive.
+Në qoftë se ajo është ESHR-ja, atyre duhet t’u ofrohen kompetencat dhe resurset enevojshme.
+MEDIAT
+MJEDISI MEDIATIK
+Mjedisi mediatik është i ndarë në baza etnike dhe karakterizohet me një numër të madh të shtëpivemediatike që veprojnë në treg të kufizuar të reklamave.
+Një numër i bashkëbiseduesve të MVZ-sësë OSBE/ODIHR-it shprehën brengosje për përkeqësimin e lirisë së mediave për shkak të presionitpolitk dhe ndërhyrjes së pronarëve në punën e gazetarëve.
+Përfaqësuesi i OSBE-së për lirinë emediave u bëri thirrje autoriteteve që të “ta zvogëlojnë presionin ndaj mediave dhe t’i respektojnëzërat e lirë dhe kritikë”.
+Transmetuesi publik, Radiotelevizioni i Maqedonisë (RTM), emeton tre kanale kombëtare dhe ështëi financuar nëpërmjet taksës për radiodifuzion që duhet ta paguajnë amvisëritë dhe subjektetjuridike.
+Poashtu, ai ka të drejtë të kërkojë dhe të pranojë mjete shtesë nga buxheti i shtetit.
+Shumica e transmetuesve privatë të cilët i takoi MVZ-ja e OSBE/ODIHR-it theksuan se kanë profitminimal ose nuk kanë fare profit, dhe se varen nga mbështetja e pronarëve të tyre, si dhe ngareklamat e financuara nga qeveria.
+Një numër i bashkëbiseduesve të MVZ-së së OSBE/ODIHR-ittheksuan se zgjedhja e transmetuesve për reklamim nga ana e qeverisë kuptohet si shpërblim përmbulimin e favorshëm dhe politikën redaktuese.
+Kjo është në kundërshtim me rekomandimin eAsamblesë parlamentare të Këshillit të Evropës (APKE), i cili kërkon që institucionet shtetërore t’itrajtojnë me drejtësi dhe neutralitet të gjitha mediat që pranojnë subvencione të drejtpërdrejta oseindirekte.
+Poashtu, ligji ndalon që partitë politike dhe bartësit e funksioneve publike, si dheanëtarët e familjeve të tyre, të jenë pronarë të transmetuesve.
+Ndarja e reklamave shtetërore duhet të bëhet në mënyrë transparente, objetive dhe jodiskriminuese,duke përfshirë edhe ofrimin e informatave të detajuara për përmbajtjen dhe fondet për reklamat etilla.
+KORNIZA LIGJORE PËR MEDIAT
+Mbulimi i zgjedhjeve nga shtëpitë mediatike është i rregulluar me Kodin zgjedhor dhe Ligjin përshërbime mediatike audio dhe audiovizuale të vitit 2013.
+Korniza ligjore për mbulimin e zgjedhjeveu ndyshua në masë të konsiderueshme në nëntor të vitit 2015.
+Tani parasheh kushte të detajuara përreklamat e paguara politike dhe u ndalon transmetuesve dhe pronarëve të tyre që të dhurojnë mjetepër garuesit; i shkurton afatet kohore për ankesat në lidhje me mediat dhe procedurat kundërvajtësedhe i rrit dënimet për shkeljet; ndalon mbulimin e zyrtarëve shtetërorë që e favorizon ndonjë partipolitike; mundëson që partitë joparlamentare të fitojnë transmetim pa pagesë në kanalin parlamentardhe e obligon RTM-në që organizojë debate të rregullta zgjedhore.
+Ndryshimet, poashtu përfshijnëedhe kushte për mbulimin e fushatës nga portalet në internet.
+Përkundër këtyre ndryshimeve,shumica e bashkëbiseduesve të MVZ-së së OSBE-ODIHR-it e potencuan nevojën për reforma tëvazhdueshme përmbajtësore.
+Si pjesë e Marrëveshjes së Përzhinës, u mbajtën konsultimendërmjet katër partive politike dhe organizatave të shoqërisë civile për ta reformuar edhe më tutjeambientin mediatik, mirëpo partitë nuk arritën konsensus, ndërsa ndryshimet që u propozuan ngaorganizatat e shoqërisë qytetare u hodhën poshtë nga parlamenti më 4 prill.
+Kodi zgjedhor e ndalon mbulimin e aktiviteteve të rregullta të institucioneve shtetërore që ipromovojnë partitë politike dhe koalicionet.
+Poashtu, i përcakton edhe kushtet e mbulimit mediatikgjatë periudhës zyrtare të fushatës, madje në disa raste edhe në mënyrë tepërt.
+Kodi zgjedhor e obligon RTM-në, si dhe transmetuesit e tjerë dhe mediat e tjera në internet qëzgjedhjet t’i mbulojnë në mënyrë të drejtë, të balancuar dhe të paanshme, duke u ofruar garuesveqasje të barabartë.
+Sipas ligjit, balanca vendoset në bazë të numrit të listave me kandidatë, të cilatkonfirmohen zyrtarisht vetëm disa ditë para se të fillojë periudha zyrtare e fushatës.
+Prandaj,mbulimi i balancuar nuk është i detyrueshëm gjatë fushatës parazgjedhore.
+Në janar të vitit 2016, RTM-ja i miratoi Parimet etike dhe profesionale të RTM-së për mbuliminmediatik të procesit zgjedhor, duke caktuar udhëzime të përgjithshme për gazetarët e tyre përmbulimin e zgjedhjeve.
+Poashtu, Kodi zgjedhor parasheh kushte shumë të detajuara dhe të sakta përmbulimin e fushatës, që rezulton me mbulim të tepërt të fushatave të partive kryesore politike.
+Kjomund ta sfidojë edhe pavarësinë redaktuese të RTM-së.
+Kodi zgjedhor poashtu përcakton kushte të detajuara për reklamat e paguara politike, duke lejuar 18minuta në orë në përgjithësi.
+Pasiqë ligji poashtu lejon që 12 minuta në orë të emetohen reklamakomerciale, një numër i bashkëbiseduesve të OSBE/ODIHR-it ishin të mendimit se 30 minuta nëorë për reklamin janë shumë.
+Çmimet për reklamim nuk duhet t’i tejkalojnë çmimet mesatare tëreklamave komerciale gjatë tre muajve para se të shpallen zgjedhjet; megjithatë, Kodi nuk parashehasnjë kontrollim se a e kanë plotësuar mediat këtë kërkesë ose jo.
+Agjencia për shërbime mediatike audio dhe audiovizuale (ASHMAA) është organi kryesorrregullator për mediet elektronike.
+Është obligim ligjor që të monitorohen transmetuesit dhe uebfaqet e tyre nga dita e shpalljes së zgjedhjeve deri në ditën e votimit, të publikohen raporte javorepara fushatës, dhe të publikohen raporte ditore gjatë fushatës.
+Agjencia nuk ka fuqi ligjore që tëshqiptojë dënime të drejtpërdrejta, mirëpo mund ta njoftojë gjykatën për shkeljen e identifikuar.
+ASHMAA-ja i monitoroi vetëm transmetuesit kombëtarë gjatë fushatës parazgjedhore.
+Nuk imonitoroi mediet në internet me arsyetimin se nuk kishte definicion të qartë të portaleve në internetnë ligj, gjë që u pamundësoi atyre të caktojnë një shembull të qartë për monitorim.
+ASHMAA-ja publikoi tre raporte të përkohshme dhe një raport përfundimtar që e mbulonteperiudhën parazgjedhore.
+Raportet konstatuan se transmetuesit privat Alfa, Kanal 5, Kanal 5+, Siteldhe Nova nuk ofruan mbulim objektiv dhe të paanshëm siç është paraparë me ligj.
+Raportet poashtukonstatuan se katër mediet e para të lartëpërmendura e koordinuan politikën e tyre redaktuese.
+Agjencia nuk ndërmori asnjë veprim në lidhje me mbulimin e anshëm, edhe pse Kodi zgjedhor isanksionon shkeljet e tilla, me Ligjin për shërbimet mediatike audio dhe audiovizuale nuk janëparaparë sanksione.
+Kodi zgjedhor mund të ndryshohet për t’i qartësuar kërkesat për raportim të balancuar gjatëfushatës parazgjedhore.
+Mund të konsiderohet dhënia e resurseve më të mëdha për ASHMAA-nëpër ta realizuar rolin e saj mbikëqyrës dhe kompetenca për sanksionim që janë efektive,proporcionale dhe dekurajuese.
+Më 13 maj ASHMAA-ja ia përcolli gjykatës iniciativën për procedurë kundërvajtëse kundërtelevizioneve Alfa, Kanal 5 dhe Sitel për një numër raportimesh që i mbulojnë aktivitetet einstitucioneve shtetërore që e promovonin VMRO-DPMNE-në.
+Përkundër afatit ligjor 48-orësh,gjykata nuk solli vendim deri në momentin kur u përgatit ky raport.
+ASHMAA-ja poashtuidentifikoi shkelje gjatë periudhës së tretë monitoruese, mirëpo nuk inicoi ndonjë sanksion pasizgjedhjet u anuluan.
+Këshilli për etikë në media (KEM) është organ vetë-rregullator që i shqyrton ankesat në lidhje mepërmbajtjet medatike.
+Më 12 shkurt, anëtarët e Këshillit e nënshkruan Kartën për raportim etik gjatëzgjedhjeve, ku u angazhuan për raportim të balancuar, të vërtetë, të paanshëm dhe objektiv.
+KEM-januk bëri asnjë monitorim të mediave e as që zhvilloi ndonjë aktivitet tjetër në lidhje me zgjedhjetgjatë periudhës zgjedhore.
+KONSTATIMET NGA MONITORIMI I MEDIAVE
+MVZ-ja e OSBE/ODIHR-it bëri monitorim mediatik të shtëpive kryesore transmetuese dhe atyre tështypura, gjatë periudhës së parafushatës dhe gjatë dy ditëve të fushatës zgjedhore.
+Edicionetinformative të transmetuesit publik RTM-1 ofruan informata të kufizuara për ngjarjet politike dhe iushmangën raportimit gjithëpërfshirës në mbulimin e lajmeve ditore.
+Mbulimi i aktorëve relevantëpolitikë ishte kryesisht faktik dhe neutral dhe në pjesën më të madhe iu kushtua aktiviteteve tëqeverisë (30 për qind), VMRO-DPMNE-së (18 për qind) dhe LSDM-së (15 për qind).
+Të gjithapartitë e tjera politike kishin mbulim shumë të vogël.
+Në disa raste, gazetarët e RTM-1 i përzienfaktet me mendimet e tyre politike gjatë mbulimit të lajmeve.
+Shërbimi në gjuhën shqipe i RTM-2 i kushtoi më tepër vëmendje, në mënyrë proporcionale, partivetë shqiptarëve etnikë, veçanërisht BDI-së, të cilës iu kushtua 13 për qind e mbulimit kryesishtneutral, ndërsa LSDM-së dhe VMRO-DPMNE-së iu kushtua nga 12 për qind e mbulimit të llojit tënjëjtë.
+Emisionet e shumta debatuese shërbyen si platformë për partitë politike për t’i prezantuarpikëpamjet e tyre, megjithatë, kishte mungesë të debatit të mirëfilltë për politikat ndërmjet dyforcave kryesore politike – VMRO-DPMNE-së dhe LSDM-së.
+Kodi zgjedhor parasheh qëtransmetuesi publik të organizojë debate ndërmjet partive në pushtet dhe atyre opozitare gjatëperiudhës së fushatës.
+RTM-1 tentoi të organizojë dy debate ndërmjet VMRO-DPMNE-së, LSDMsë, BDI-së dhe PDSH-së; mirëpo vetëm VMRO-DPMNE-je vendosi të marrë pjesë edhe atë vetëmnjë herë.
+Megjithëse, Telma, Vesti 24 dhe Alsat-M mbajtën debate të rregullta dhe programe memysafirë, ato i thanë MVZ-së së OSBE/ODIHR-it se VMRO-DPMNE-ja i ka injoruar ftesat etyre.
+Stacionet më të popullarizuara televizive private, Sitel dhe Kanal 5, së bashku me televizionin Alfa,treguan qasje të unifikuar në mbulimin e lajmeve.
+Ata i kushtuan ndërmjet 24 dhe 26 për qind tëmbulimit të lajmeve me relevancë politike aktiviteteve të VMRO-DPMNE-së, ndërmjet 21 dhe 27për qind aktiviteteve të LSDM-së dhe rreth 6 për qind të gjitha partive të tjera së bashku.
+Toni imbulimit ishte pothuajse ekskluzivisht pozitiv dhe neutral ndaj VMRO-DPMNE-së, zyrtarëve tëlartë qeveritarë të saj, si dhe ndaj kundër-protestave të organizuara nga LQMM-ja.
+Në disa raste,mbulimi i aktiviteteve të qeverisë ishte i lidhur me promovimin e politikave të ardhshme të VMRODPMNE-së, që është në kundërshtim me Kodin zgjedhor.
+Mbulimi i aktiviteteve të LSDM-së dhe iministrave që e përfaqësojnë këtë parti, Prokurorisë speciale publike dhe demonstratat e organizuaranga Protestoj ishte kryesisht me ton negativ.
+Mbulimi përfshinte prezantim selektiv të fakteve dhetë mendimeve të shprehura nga gazetarët, shpeshherë duke përdorur fjali identike te të tretransmetuesit.
+Për të garantuar mbulim të drejtë dhe qasje për të gjithë garuesit politikë, mediat transmetueseduhet të sigurojnë balancë në lajmet e tyre dhe në raportimin për çështjet aktuale në periudhën eparafushatës, siç është e paraparë me ligj.
+Telma dhe televizioni që emetohet vetëm në kabëll Vesti 24 ofruan mbulim më të balancuar dhe mëtë detajuar të lajmeve.
+Të dyja stacionet i kushtuan proporcione të barabarta të mbulimit kryesishtneutral VMRO-DPMNE-së (17 dhe 15 për qind) dhe LDSM-së (15 dhe 12 për qind).
+Alsat-M¸ qëkryesisht emiton program në gjuhën shqipe, poashtu i kushtoi proprocione të barabarta (ndërmjet 10dhe 12 për qind) mbulimit për VMRO-DPMNE-në, LSDM-në dhe BDI-në, edhe pse ishte kryesishtkritike ndaj VMRO-DPMNE-së dhe neutrale ndaj partive të tjera.
+Mbulimi politik në mediet e shtypura ishte më i polarizuar se sa te mediet elektronike.
+PërderisaDnevnik ishte qartazi kundër LSDM-së, shumica e mbulimit politik nga Sloboden Pecat eprezantuan VMRO-DPMNE-në dhe qeverinë në mënyrë negative.
+Tabloidi Vest ofroi mbulimshumë të kufizuar politik, mirëpo me anim kah VMRO-DPMNE-ja.
+Gazetat në gjuhën shqipe Kohadhe Lajm më tepër ishin të fokusuara në aktivitetet e partive etnike shqiptare.
+Përderisa Kohakryesisht ishte e fokusuar në aktivitetet dhe projektet e BDI-së, Lajm kryesisht e kritikonte BDI-nëdhe anëtarët e tyre të qeverisë.
+VËZHGUESIT QYTETARË DHE NDËRKOMBËTARË
+Kodi zgjedhor parasheh vëzhgim ndërkombëtar dhe qytetar të zgjedhjeve.
+Organizata qytetare përvëzhgim, MOST, u angazhua në monitorimin gjithëpërfshirës të procesit zgjedhor me 80 vëzhguesafatgjatë.
+Organizata CIVIL kishte 35 vëzhgues afatgjatë.
+Më 4 maj, MOST-i dorëzoi në KSHZkërkesën për akreditimin e 27 vëzhguesve; KSHZ-ja nuk i akreditoi ata para se të anulohenzgjedhjet më 18 maj, edhe pse kjo nuk i dëmtoi aktivitetet vëzhguese.
+Edhe CIVIL-i edhe MOST-i e kritikuan procesin zgjedhor, veçanërisht në aspekt të kontrollitjotransparent në terren të listave zgjedhore, keqpërdorimit të resurseve shtetërore për qëllimepartiake, dhe presionit mbi të punësuarit në administratën publike.
+MOST-i dhe CIVIL-i theksuanse qeveria nuk arriti të sigurojë kushte për të mbajtur zgjedhje të besueshme.
+KUNDËRSHTIMET DHE ANKESAT
+Kundërshtimet që kanë të bëjnë me zgjedhjet mund të parashtrohen nga përfaqësuesit e autorizuar tëkandidatëve, dorëzuesit e listave të kandidatëve, dhe votuesit.
+Kundërshtimet shyqrtohen ngaKSHZ-ja, ndërsa vendimet e saj mund të ankimohen në Gjykatën administrative, e cila e merrvendimin përfundimtar.
+KKZ-të nuk kanë kompetenca për të vendosur për kundërshtimetzgjedhore.
+Në përgjigje të rekomandimeve të mëparshme të OSBE/ODIHR-it, me ndryshimet e Kodit zgjedhortë vitit 2015 u shkurtuan afatet për shqyrtimin dhe vendosjen për kundërshtimet zgjedhore dheparashihet që KSHPK-ja t’i shqyrtojë rastet në sesion publik.
+Vendimet për kundërshtimet duhet tëpublikohen në ueb-faqet e tyre.
+Përkundër dispozitës kushtetuese që të gjitha shqyrtimet dhe vendimet gjyqësore të jenë publike,Gjykata Administrative veproi në mënyrë jotransparente, dhe i shqyrtoi dy raste që kishin të bëjnëme zgjedhjet pa mbajtur seancë publike.
+Gjykatat e informoi MVZ-në e OSBE/ODIHR-it segjykatësit do të vendosin për këto raste në privatësi.
+Mosmbajtja e shqyrtimeve të garantuarapublike nga ana e Gjykatës Administrative është në kundërshtim me angazhimet e OSBE-së dhestandardet e tjera ndërkombëtare, gjë që e zvogëlon besimin publik ndaj procesit.
+Kodi zgjedhor duhet të harmonizohet me Kushtetutën dhe duhet të theksojë në mënyrë të qartë se tëgjitha shqyrtimet për rastet që kanë të bëjnë me zgjedhjet duhet të mbahen publikisht dhe vendimetduhet të publikohen menjëherë.
+Nga dy rastet, i pari kishte të bëjë me publikimin e listave zgjedhore në ueb-faqen e KSHZ-së.
+Drejtoria për mbrojtjen e të dhënave personale më 29 mars mori vendim me të cilin e urdhëroiKSHZ-në t’i heqë listat zgjedhore nga ueb-faqja e saj, për shkak se kjo është në kundërshtim meligjin për mbrojtjen e të dhënave personale.
+Më 9 prill, KSHZ-ja, e apeloi vendimin në GjykatënAdministrative.
+Edhe pse zgjidhja e rastit nuk duhej të vonohet, gjykata nuk solli vendim deri më 5 maj dhe nuk epublikoi vendimin deri më 16 maj, pasi kaloi afati për shikim publik të listave zgjedhore.
+Përshkak të vonesës, votuesit nuk kishin mundësi t’i kontrollojnë listat zgjedhore për parregullsi siçështë paraparë në Kodin zgjedhor.
+Për të siguruar mjet efektiv, për të gjitha rastet që kanë të bëjnë me zgjedhjet duhet të merretvendim brenda afateve kohore të përcaktuara në mënyrë të qartë në ligj.
+Rasti i dytë kishte të bëjë me ankesën ndaj vendimit të KSHZ-së për ta refuzuar listën e kandidatëvetë dorëzuar nga LKM-ja për arsye procedurale.
+Më 17 maj, gjykata konstatoi se për ta kontrolluar sea i plotëson kushtet një kandidat, KSHZ-ja kishte të drejtë legjitime të kërkojë kopje tëdokumenteve të identifikimit dhe të dosjes kriminale.
+Për dallim nga Gjykata Administrative, Gjykata Kushtetuese mbajti sesione publike gjatë shqyrtimittë ankesës për jokushtetutshmërinë e shpërbërjes së parlamentit dhe e publikoi vendimin e saj ditënkur u bë shqyrtimi.
+Në përputhje me rekomandimet e mëparshme të OSBE/ODIHR-it, KSHZ-ja krijoi një departamentjuridik për shqyrtimin e kundërshtimeve.
+Megjithatë, KSHZ-ja nuk e miratoi udhëzimin për tëvendosur në lidhje me kundërshtimet dhe ankesat, siç është paraparë me Kodin zgjedhor.
+Mungesae udhëzimeve të përhershme në lidhje me kundërshtimet dhe ankesat e pengon mundësinë e palëvetë përfshira në zgjedhje që të parashtrojnë kundërshtime, dhe e dëmton efektivitetin e mjeteveligjore të ndreqjes, siç është paraparë me paragrafin 5.10 të Dokumentit të Kopehnagës të OSBE-sëtë vitit 1990.
+Poashtu, Kodi zgjedhor parasheh krijimin e sistemit për menaxhim të rasteve dhe tëkundërshtimeve, i cili nuk ishte në funksion për këto zgjedhje.
+Për të mundësuar mjet efektiv ligjor, KSHZ-ja duhet të përgatisë udhëzime të përhershme në lidhjeme procesin e kundërshtimeve dhe të ankesave.
+Këto rregulla mund të harmonizohen me sistemin eri për menaxhim të kundërshtimeve.
+U vendosën lidhje të drejtpërdrejta telefonike nga disa institucione shtetërore: Ministria për ShoqëriInformatike dhe Administratë për të punësuarit në sektorin publik për ta denoncuar çdo rast tëpresionit që ka të bëjë me zgjedhjet; Zyra e Avokatit të Popullit që qytetarët t’i denoncojnë shkeljete të drejtave të tyre zgjedhore; Prokuroria publike që qytetarët dhe organizatat e shoqërisë civile tadenoncojnë çdo aktivitet të dyshimtë kriminal që ka të bëjë me zgjedhjet.
+Sipas këtyreinstitucioneve, janë pranuar shumë pak thirrje dhe asnjëra nuk ka pasur të bëjë me ndonjë shkeljeserioze.
+Prokurori publik ka pranuar 28 denoncime ose kundërshtime, 14 nga të cilat i janë përcjellëprokurorisë kompetente publike themelore me udhëzime për veprim urgjent dhe raportim kthyes.
+Nuk është gjetur asnjë bazë për aktivitete të dyshimta kriminale në pretendimet tjera.
+Prokuroripublik e informoi MVZ-në e OSBE/ODIHR-it se do ta mbajë të hapur lidhjen e drejtpërdrejtëtelefonike për denoncim të parregullsive zgjedhore dhe do të vazhdojë t’i hetojë rastet që janëdenoncuar më herët.
+PJESËMARRJA E PAKICAVE KOMBËTARE
+Marrëdhëniet ndëretnike mbeten faktor i rëndësishëm në politikën e vendit dhe partitë politikepriren që të tërheqin votues nga komunitetet e tyre.
+64 Megjithatë, marrëdhëniet ndëretnike nukerdhën shumë në shprehje në krizën aktuale politike, dhe marrëdhëniet ndërmjet bashkësive nukishin në fokus të ballafaqimit politik.
+Bashkësitë më të vogla i shprehën shqetësimin e tyre MVZ-së së OSBE/ODIHR-it përmospërfshirjen në përpjekjet ndërkombëtare dhe vendore për të gjetur dalje nga kriza politike.
+Atapoashtu thanë se partitë që i përfaqësojnë bashkësitë më të mëdha i shfrytëzojnë resursetadministrative dhe punësimet publike për ta siguruar mbështetjen e pakicave.
+Partitë që ipërfaqësojnë bashkësitë më të vogla poashtu u ankuan edhe për mungesën e qasjes në media.
+Partitë që e përfaqësojnë bashkësinë etnike shqiptare, e veçanërisht BDI-ja, ishin vendimtare nëinicimin dhe përfundimin e procesit që çoi në anulimin e zgjedhjeve të 5 qershorit.
+Partitë tjera që ipërfaqësojnë bashkësitë më të vogla ishin më të përçara në qëndrimet e tyre.
+Ato që ishinbashkangjitur koalicionit të udhëhequr nga VMRO-DPMNE-ja ishin të gatshme të marrin pjesë nëzgjedhje, ndërsa partitë tjera i thanë MVZ-së së OSBE/ODIHR-it se nuk kishte kushte për zgjedhjetë besueshme dhe se për këtë arsye ato do t’i bojkotonin zgjedhjet.
+Pjesëtarët e bashkësive pakicë dhe partitë që i përfaqësojnë ata, veçanërisht shqiptarët etnikë, morënpjesë në protestat anembanë vendit, individualisht, me bashkësitë e tjera dhe si pjesë e lëvizjesProtestoj.
+Në disa fusha, protesta kishte karakter ndëretnik, me simbolet e flamurit të vendit dheflamujt e shqiptarëve etnikë dhe të komunitetit rom të shfaqura së bashku.
+Protesta e organizuar ngaKëshilli opozitar i shqiptarëve, ku partia Lëvizja Besa luan rol kryesor, tërhoqi një numër të madh tëpërkrahësve, duke paraqitur kërkesa për bashkësinë etnike shqiptare, dhe duke e akuzuar BDI-nëpër përfaqësimin joadekuat të interesave të bashkësisë.
+Pothuajse të gjithë përfaqësuesit e pakicave kombëtare, veçanërisht ata të bashkësive më të vogla,kërkuan nga MVZ-ja e OSBE/ODIHR-it futjen e një njësie të vetme zgjedhore në mbarë vendin, sidhe krijimin e masave të tjera të veçanta për promovimin e pakicave kombëtare, duke përfshirëedhe vendet e rezervuara të deputetëve.
+Sipas mendimit të tyre, këto masa do t’u mundësoninpartive që i përfaqësojnë bashkësitë më të vogla të garojnë veçmas e jo detyrimisht t’ubashkangjiten koalicioneve ekzistuese.
+Disa bashkëbisedues të MVZ-së së OSBE/ODIHR-it i shprehën shqetësimet e tyre se komunitetirom mund t’i nënshtrohet presionit politik dhe shitjes dhe blerjes së votave.
+Në të njëjtën kohë,MVZ-ja e OSBE/ODHIR-it u informua për aktivitete të shumta që kishin për qëllim ngritjen evetëdijes brenda këtij komuniteti, të cilat në disa raste thuhet se kanë rezultuar me zvogëlimin epraktikës së tillë.
+REKOMANDIMET
+Këto rekomandime, siç janë paraqitur në gjithë tekstin, ofrohen me synimin për ta përmirësuarzhvillimin e zgjedhjeve në ish-Republikën Jugosllave të Maqedonisë dhe për t’i mbështeturpërpjekjet për t'i sjellë ato në përputhje të plotë me angazhimet e OSBE-së dhe detyrimet dhestandardet e tjera ndërkombëtare për zgjedhje demokratike.
+Këto rekomandime duhen lexuar sëbashku me rekomandimet e mëparshme të OSBE/ODIHR-it, në veçanti nga raporti përfundimtar i vitit2014, që mbeten për t‘u trajtuar.
+OSBE/ODIHR-i është i gatshëm që t’u ndihmojë autoriteteve për tapërmirësuar më tej procesin zgjedhor dhe për t’i trajtuar rekomandimet që gjenden në këtë raportdhe në raportet e mëparshme.
+REKOMANDIMET PRIORITARE
+Kodi zgjedhor ka nevojë për rishikim të plotë që të harmonizohet brendia e tij, e poashtu tëharmonizohet edhe me ligjet e tjera relevante.
+Rishikimi duhet të bëhet pas konsultimeve të bërame të gjitha palët e interesuara politike dhe organizatat relevante të shoqërisë civile.
+Kjo duhettë përfundohet shumë më herët, para se të mbahen zgjedhjet e ardhshme.
+Duhet të realizohentrajnime për stafin zgjedhor dhe programe për ngritjen e vetëdijes publike për ta përmirësuarimplementimin efektiv të Kodit zgjedhor.
+Siç është e paraparë me ligj, e me qëllim të rrijes së transparencës dhe besimit publik në punën esaj, të gjitha mbledhjet e KSHZ-së duhet të jenë të hapura për publikun; të gjitha vendimet eKSHZ-së duhet të publikohen në ueb-faqen e tyre pa vonesë.
+KSHZ-ja dhe MPB-ja duhet të vazhdojnë me procesin e azhurnimit të regjistrit të votuesvenëpërmjet angazhimit të koordinuar në bazë të përgjegjësive dhe procedurave të qarta.
+Duhet tëndahen resurset adekuate dhe koha e nevojshme për ta realizuar këtë detyrë para zgjedhjeve tëardhshme.
+Ky proces duhet të jetë transparent dhe duhet të sigurojë qasje për partitë politike dheshoqërinë civile.
+Kjo duhet të shoqërohet me një fushatë për informim publik me qëllim tërritjes së besimit të qytetarëve në saktësinë e regjistrimit të votuesve.
+Ndarja e reklamave shtetërore duhet të bëhet në mënyrë transparente, objektive dhejodiskriminuese, duke përfshirë ofrimin e informatave të detajuara për përmbajtjen dhe fondetpër reklamat e tilla.
+Kodi zgjedhor duhet të harmonizohet me Kushtetutën dhe duhet të theksojë në mënyrë të qartëse të gjitha shqyrtimet për rastet që kanë të bëjnë me zgjedhjet duhet të mbahen publikisht dhevendimet duhet të publikohen menjëherë.
+REKOMANDIMET E TJERA
+Korniza ligjore
+Rishikimi i Kodit zgjedhor mund të konsiderojë përfshirjen e dispozitave për rregullimin esituatës kur në zgjedhjet parlamentare merr pjesë vetëm një garues zgjedhor.
+Sistemi zgjedhor
+Në qoftë se nuk ndryshon sistemi aktual i votimit jashtë vendit, duhet të përgatiten dispozitaalternative që do t’u mundësojnë votuesve ta ushtrojnë të drejtën e tyre të votës në qoftë seanulohet votimi jashtë vendit.
+Për t’u siguruar barazia e votës, legjislacioni mund të parashohë rishikim periodik të kufinjve tënjësive zgjedhore nga një organ i pavarur.
+Kur bëhet ridefinimi i kufinjve të njësive zgjedhorekjo duhet të bëhet me kohë, në mënyrë transparente, të paanshme dhe inkluzive.
+Administrimi i zgjedhjeve
+Për t’u siguruar qëndrueshmëria administrative e KSHZ-së, të gjitha pozitat e nevojshmembështetëse të punës duhet të jenë të përhershme, në bazë të procedurave të hapura dhekonkurrente për punësim.
+Duhet të konsiderohet vendosja dhe sigurimi i komunikimit dhe mbështetjes më efikase ngaKSHZ-ja për organet lokale për menaxhim të zgjedhjeve.
+Duhet të realizohen trajnimegjithëpërfshirëse dhe të standardizuara për zyrtarët lokalë të KSHZ-së dhe anëtarët e KKZ-vepara se të shpallen zgjedhjet e reja.
+Zyrave lokale duhet t’u ofrohen resurset e nevojshme përrealizimin e punës së tyre në kohë dhe në mënyrë efektive.
+Regjistrimi i votuesve
+Për ta rritur besimin publik dhe për t’u ofruar votuesve qasje më të lehtë për t’i verifikuar listatzgjedhore, duhet të konsiderohet mundësia për vendosjen e pjesëve të shtypura nga listatzgjedhore në vende të përshtatshme për votuesit, mundësisht në vendvotime.
+Regjistrimi i kandidatëve
+Siç u rekomandua më herët, duhet të konsiderohet mundësia për të ofruar metoda alternative përmbledhjen e nënshkrimeve me qëllim që të zvogëlohet potenciali për frikësim.
+Për ta shmangur çdo konfuzion dhe refuzimin e listave të kandidatëve për arsye teknike, tëgjitha dokumentet e veçanta që kërkohen për çdo listë duhet të shënohen në Kodin zgjedhor.
+Fushata
+Qytetarët, duke i përfshirë edhe të punësuarit në institucionet publike ose shtetërore, nuk duhett’i nënshtrohen presionit ose frikësimit.
+Autoritetet duhet t’i inkurajojnë qytetarët në mënyrëaktive që t’i denoncojnë të gjitha rastet e presioneve, duke i mbështetur ato me dëshmi tëverifikueshme.
+Të gjitha rastet dhe pretendimet për presion dhe frikësim duhet të hetohenplotësisht dhe në mënyrë efektive dhe të ndiqen penalisht nga autoritetet.
+Financimi i Fushatës
+Monitorimi dhe mbikëqyrja e dispozitave që kanë bëjnë me financimin e fushatës duhet të bëhetnga një agjenci e pavarur që e ka personelin dhe e ekspertizën e duhur për të bërë monitorimefektiv të parregullsive.
+Në qoftë se ajo është ESHR-ja, atyre duhet t’u ofrohen kompetencat dheresurset e nevojshme.
+Mediat
+Rekomandohet të zëvendësohet kërkesa ligjore për RTM-në për sasinë e saktë të kohës në çdoedicion informativ kushtuar mbulimit të aktiviteteve të fushatës së partive të veçanta me njëkërkesë më të përgjithshme që parasheh paanshmëri dhe balancë duke e respektuar pavarësinëredaktuese të transmetuesit publik.
+Për të garantuar mbulim të drejtë dhe qasje për të gjithë garuesit politikë, mediat transmetueseduhet të sigurojnë balancë në lajmet e tyre dhe në raportimin për çështjet aktuale në periudhën eparafushatës, siç është e paraparë me ligj.
+Kundërshtimet dhe ankesat
+Për të siguruar mjet efektiv, për të gjitha rastet që kanë të bëjnë me zgjedhjet duhet të merretvendim brenda afateve kohore të përcaktuara në mënyrë të qartë në ligj.
+Për të mundësuar mjet efektiv ligjor, KSHZ-ja duhet të përgatisë udhëzime të përhershme nëlidhje me procesin e kundërshtimeve dhe të ankesave.
+Këto rregulla mund të harmonizohen mesistemin e ri për menaxhim të kundërshtimeve.
+PËR OSBE/ODIHR-in
+Zyra për institucione demokratike dhe të drejtat e njeriut (OSBE/ODIHR) është institucioni kryesori OSBE-së që u ndihmon vendeve anëtare "të sigurojnë respektim të plotë të të drejtave të njeriutdhe lirive fundamentale, t'i përmbahen sundimit të ligjit, t'i promovojnë parimet e demokracisëdhe (…) t'i ndërtojnë, t'i përforcojnë dhe t'i mbrojnë institucionet demokratike, si dhe ta promovojnëtolerancën në gjithë shoqërinë” (Dokumenti i Samitit të Helsinkit të vitit 1992).
+Ky njihet sidimensioni njerëzor i OSBE-së.
+OSBE/ODIHR-i, me seli në Varshavë të Polonisë, u krijua si Zyrë për zgjedhje të lira në Samitin eParisit në vitin 1990 dhe filloi me punë në maj të vitit 1991.
+Një vit më vonë, emri i Zyrës undryshua për ta pasqyruar mandatin e zgjeruar, për t’i përfshirë të drejtat e njeriut dhedemokratizimin.
+Sot ajo ka mbi 130 të punësuar.
+OSBE/ODIHR-i është organizata kryesore në Evropë në fushën e vëzhgimit të zgjedhjeve.
+Për çdovit, ajo e koordinon dhe e organizon shpërndarjen e mijëra vëzhguesve për të vlerësuar se a janëzhvilluar zgjedhjet në rajonin që e përfshin OSBE-ja në përputhje me Angazhimet e OSBE-së,standardet e tjera ndërkombëtare për zgjedhje demokratike dhe legjislacionin nacional.
+Metodologjia e saj unike ofron një qasje të thellë në tërësinë e procesit zgjedhor.
+Me anë tëprojekteve për ndihmë, OSBE/ODIHR-i u ndihmon vendeve anëtare ta përmirësojnë kornizën e tyrezgjedhore.
+Aktivitetet e Zyrës në fushën e demokratizimit përfshijnë: sundimin e të drejtës, mbështetjenligjore, qeverisjen demokratike, emigrimin dhe lirinë e lëvizjes, dhe barazinë gjinore.
+OSBE/ODIHR-i për çdo vit zbaton një numër programesh të dedikuara për mbështetje, me të cilatsynohet zhvillimi i strukturave demokratike.
+OSBE/ODIHR-i poashtu u ndihmon vendeve anëtare t'i përmbushin obligimet e tyre përpromovimin dhe mbrojtjen e të drejtave të njeriut dhe lirive fundamentale që është në përputhje mepërkushtimet e OSBE-së për dimensionet njerëzore.
+Kjo realizohet duke punuar me partnerë tëndryshëm për ta kultivuar bashkëpunimin, për t'i ndërtuar kapacitetet dhe për të ofruar ekspertizë nëfushat tematike, duke i përfshirë të drejtat e njeriut në luftën kundër terrorizmit, avancimin embrojtjes së të drejtave të njeriut të personave të trafikuar, edukimin dhe trajnimin për të drejtat enjeriut, mbikëqyrjen dhe raportimin për të drejtat e njeriut, të drejtat e njeriut të grave dhe sigurinë etyre.
+Në fushën e tolerancës dhe të mosdiskriminimit, OSBE/ODIHR-i u ofron përkrahje vendeveanëtare në përforcimin e kapacitetit për t'iu përgjigjur krimeve të urrejtjes dhe incidenteve tëracizmit, ksenofobisë, antisemitizmit dhe formave të tjera të mostolerancës.
+Aktivitetete OSBE/ODIHR-it që kanë të bëjnë me tolerancën dhe mosdiskriminimin janë të fokusuara në këtofusha: legjislacioni, trajnimet për zbatimin e ligjeve, mbikëqyrja, raportimi dhe ndjekja epërgjigjeve ndaj krimeve dhe incidenteve të motivuara nga urrejtja, si dhe aktivitete edukative përpromovimin e tolerancës, respektit dhe mirëkuptimit të ndërsjellë.
+OSBE/ODIHR-i u ofron këshilla vendeve anëtare për politikat e tyre që kanë të bëjnë me romët dhesintit.
+Ajo e promovon ndërtimin e kapaciteteve dhe rrjetëzimin te komuniteti rom dhe ai sinti, dhe einkurajon pjesëmarrjen e përfaqësuesve romë dhe të sinti në organet e politikë-bërjes.
+Të gjitha aktivitetet e ODIHR-it realizohen në koordinim dhe në bashkëpunim të ngushtë me vendetanëtare të OSBE-së, institucionet dhe operacionet e OSBE-së në terrren, si dhe me organizatat etjera ndërkombëtare.
+Më tepër informacione mund të gjeni në ueb-faqen e ODIHR-it (www.osce.org/odihr).
