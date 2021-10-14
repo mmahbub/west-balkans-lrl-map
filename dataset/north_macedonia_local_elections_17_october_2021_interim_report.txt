@@ -1,4 +1,4 @@
-==================================================> English <==================================================
+==================================================>English<==================================================
 https://www.osce.org/files/f/documents/6/c/499414.pdf
 OSCE Office for Democratic Institutions and Human Rights
 Election Observation Mission
@@ -267,7 +267,7 @@ The English version of this report is the only official document.
 Unofficial translations are available in Macedonian and Albanian.
 Following the amendments, the Administrative Court has filed an official request with the Ministry of Justice for clarification concerning the deadlines for review of election-day complaints.
 While the Electoral Code and the SEC calendar set ten days before election day as the latest date for submission of applications for accreditation, the SEC Code of Conduct indicates five days.
-==================================================> Macedonian <==================================================
+==================================================>Macedonian<==================================================
 https://www.osce.org/files/f/documents/4/e/499423.pdf
 Канцеларија на ОБСЕ за Демократски институции и човекови права
 Мисија за набљудување на избори
@@ -536,7 +536,7 @@ XIII. АКТИВНОСТИ НА ОДИХР МНИ
 Достапни се неофицијални преводи на македонски и на албански јазик.
 По амандманите, Управниот суд поднесе официјално барање до Министерството за правда за разјаснување во врска со роковите за разгледување на приговорите од денот на изборите.
 Иако Изборниот законик и календарот на ДИК го дефинираат рокот од десет дена пред денот на изборите како последен ден за поднесување на барањата за акредитација, Деловникот за работа на ДИК пропишува пет дена.
-==================================================> Shqip <==================================================
+==================================================>Shqip<==================================================
 https://www.osce.org/files/f/documents/9/d/499420.pdf
 Zyra e OSBE-së për Institucione Demokratike dhe të Drejtat e Njeriut
 Misioni për Vëzhgimin e Zgjedhjeve
