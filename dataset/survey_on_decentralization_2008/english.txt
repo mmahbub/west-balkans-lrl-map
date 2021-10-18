@@ -413,19 +413,18 @@ Tax revenues in 2007 were 22.16 per cent higher than in 2006, a more consistent 
 Similar paces of growth in transfers and grants were registered in 2007-2006 (+63.37 per cent) and in 2006-2005 (+65.87 per cent).
 Data related to 2006 can be explained by the first full year of the decentralized competences and new financing schemes (financing from own revenues and transfers and grants).
 In 2007, increases are due to the block grants assigned to the municipalities admitted to the second phase of the fiscal decentralization.
-However, the 2007 share of the local government revenues on GDP (3.38 per cent)43ranks the country still in the last position if compared with the countries recently ad-mitted to the EU, even though this parameter increased from previous years (2.65 per cent in 2006, 2.01 per cent in 2005, 1.87 per cent in 2004).
+However, the 2007 share of the local government revenues on GDP (3.38 per cent) ranks the country still in the last position if compared with the countries recently ad-mitted to the EU, even though this parameter increased from previous years (2.65 per cent in 2006, 2.01 per cent in 2005, 1.87 per cent in 2004).
 In 2007 the local revenues per inhabitant amounted to 5,536 denars45 i.e. +40 per cent on 2006 (3,973 denars).
 Out of 51 municipalities which provided data on their total revenues in 2007, no significant difference was reported between the rural (2,173.63 denars per capita on average) and urban municipalities (2,479.62 denars per capita).
 Nonetheless, significant imbalance could be detected when comparing single munici-palities across the country.
 For instance, the municipality with the highest revenues per capita (Centar) indicated an amount of 9,582 denars, followed by the Municipal-ity of Demir Hisar and the Municipality of Resen.
-As for the transfers from the central budget and the budgets of the funds46, the Municipality of Bitola guides the list of the assessed municipalities, followed by the Municipality of Karpos and the Municipality of Gjorce Petrov.
+As for the transfers from the central budget and the budgets of the funds, the Municipality of Bitola guides the list of the assessed municipalities, followed by the Municipality of Karpos and the Municipality of Gjorce Petrov.
 The total revenues in 2007 per statistical regions, are presented in the following table.
 Unsurprisingly, the region of Skopje ranks first both in terms of total revenues and average revenues per region.
 1.3.2 Structure of Municipal Expenditures
 The local self-government units are in charge of financing all the competences listed in the Law on Local Self-Government.
 Adequate revenue sources are a crucial require-ment for performing these competences successfully.
 The local expenditures 2004-2007 structured per categories are outlined in the table below.
-Table 2. Trend and Structure of the Local Government Expenditures 2004 – 2007 (current, as presented in the annual accounts)
 In 2007 the structure of expenditures remained similar to the one registered in 2006.
 The largest increase refers to the wages and salaries in education, culture and social welfare, now in municipal payrolls and, financed through block grants.
 In absolute terms, subsidies and transfers observed a 61.49 per cent increase as compared to 2006, while goods and services went up by 14.72 per cent.
@@ -497,8 +496,7 @@ One of the primary tasks for the local self-government units in the last three y
 In 2008, 53 local self-government units out of the 72 respondents stated to have established their own tax administra-tion unit.
 Answers under the category “other” include cases in which one municipal employee is in charge of administering taxes and fees, without an established unit.
 The ten mu-nicipalities in the City of Skopje do not have the authority to administer their taxes and fees, which are managed at the city level.
-Almost 78 per cent of the respondents have already updated their database of taxpayers.
-(They were 69 per cent in 2007.)
+Almost 78 per cent of the respondents have already updated their database of taxpayers. (They were 69 per cent in 2007.)
 In 2008, 58.3 per cent of the polled municipalities managed to carry out an update of the real estate values, in comparison with the 47 per cent registered in 2007.
 Updates of the taxpayers’ database and of the real estate estimate should have positive long-term effects on the revenue generation in the local self-government units.
 5.1.4. System of Internal Control and Auditing
@@ -538,7 +536,7 @@ The answers on the property tax do not differ significantly from the perceptions
 Most of the citizens are not willing to pay higher duties even if the purpose of that would be the provision of better quality services.
 Sixty-one per cent of the citizens would not agree to pay more to the municipality and 35 per cent would be willing to pay for better quality in municipal services.
 Citizens in rural municipalities (38.7 per cent) are willing to pay higher duties more than the dwellers in urban municipalities (32.4 per cent).
-The citizens offered differ-ent reasons for not agreeing to pay more for the provision of better services, financial constraints being the most common.
+The citizens offered different reasons for not agreeing to pay more for the provision of better services, financial constraints being the most common.
 Reasons why citizens are not in favor of paying higher duties to the municipality in order to get better quality services
 The citizens were asked if throughout the year they had meetings with the Mayor or the municipal administration.
 Nearly 86 per cent of the respondents said they did not have any meetings with the local authorities, for which they gave different reasons (didn’t know about the open hours of the mayor, the mayor didn’t have time to meet with them, there was no need to meet the mayor, etc.).
@@ -627,7 +625,8 @@ Thirty nine per cent think that raising awareness among citizens and 33.9 per ce
 Regarding the kind of support expected by municipalities from the central govern-ment/donor community to improve the situation with informal settlements, financial support has been identified as the most helpful (91.2 per cent).
 Less than half of the municipalities or 42.1 per cent argued that technical expertise is a requirement in ad-dition to financial means.
 To a lesser extent, other forms of support were mentioned: consultations with neighborhood self-government units, new DUPs, social housing, etc.
-Findings – Opinion PollThe opinion poll section on urban planning included a number of questions addressed to a total of 60 citizens.
+6.3. Findings – Opinion Poll
+The opinion poll section on urban planning included a number of questions addressed to a total of 60 citizens.
 The representative sample was taken from the City of Skopje.
 Respondents were from the following 5 municipalities: Suto Orizari; Kisela Voda; Aero-drom; Gjorce Petrov and Butel.
 Responses from citizens suggest that costly communal fees are seen as a possible rea-son for the existence of informal settlements by 39.5 per cent of the interviewed, while poor quality of the DUP is the second most mentioned reason (27.9 per cent).
@@ -730,6 +729,5 @@ References
 31. Law on Building Land, Official Gazette of R.M. No. 53/2001, 97/200176 Survey on Decentralization 2008
 32. Law on General Administrative Procedure, Official Gazette of R.M. No. 38/05, 110/08
 33. The Vienna Declaration on Informal Settlements in South Eastern Europe, Ministe-rial Conference on Informal Settlements in South Eastern Europe, OSCE Hofburg in Vienna, 28 September – 01 October 2004
-34. Robin Richards, Brian O’Leary and Kingstone Mutsonziwa; Social Indicators Re-search (2006) - Measuring Quality if Life in Informal Settlements in South Africa.
-DOI 10.1007/s11205-006-9014-1
-35. European Commission, The Former Yugoslav Republic of Macedonia 2008 Prog-ress Report77 Survey on Decentralization 2008 Survey on Decentralization 2008 Survey on Decentralization 2008
+34. Robin Richards, Brian O’Leary and Kingstone Mutsonziwa; Social Indicators Re-search (2006) - Measuring Quality if Life in Informal Settlements in South Africa. DOI 10.1007/s11205-006-9014-1
+35. European Commission, The Former Yugoslav Republic of Macedonia 2008 Progress Report
