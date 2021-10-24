@@ -8,9 +8,12 @@ While the PDF files are the original files found on the website, the text files 
 
 For convenience, we have a concatenated all the sentences file into one bearing the document name. This contains the language identifier, URL to the document from which the sentences were extracted, and the sentences themselves.
 
-# Introduction
+# Using Dataset
 
-# Background
+# Getting Dataset Statistics
 
-# Resources
+# Contributing
+
+## Testing 
+
 
