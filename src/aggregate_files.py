@@ -5,21 +5,7 @@ from argparse import ArgumentParser, HelpFormatter, Namespace
 from pathlib import Path
 
 script_description = """
-This script does the following:
-
-  1. Aggregates language files across different documents into a single file
-  2. Sets up the data to be using via HuggingFace's datasets library and hub with training and testing splits
-
-This script needs to be run on a specific directory containing folders corresponding to each
-document. These folders should contain text files associated with each language that is being processed.
-There can be multiple languages per folder.
-
-Multiple language files result in multiple datasets. For example, processing files inside english-macedonian-shqip
-will result in:
-
-  1. english.txt, macedonian.txt, shqip.txt in that folder
-  2. en-ma and en-sh folders in datasets/huggingface_hub
-  3. within each we will have train and test files for machine translation
+Script to prepare manually extracted data to be loaded into HuggingFace hub. Please see README for details.
 """
 
 class RawFormatter(HelpFormatter):
@@ -34,19 +20,32 @@ def parse_args() -> Namespace:
   parser.add_argument('-d', '--dir', type=str, help='Directory containing sub-directories corresponding to different documents', required=True)
   return parser.parse_args()
 
+
+def aggregate_files():
+  pass
+
 if __name__=='__main__':
   args = parse_args()
   path = Path(args.dir)
-  print(path)
+  hf_hub_path = path.parents[0]/'huggingface_hub'
+  hf_hub_path.mkdir(exist_ok=True)
   data = {lang: [] for lang in str(path.stem).split('-')}
+  hf_dirs = {}
+  for lang, _ in data.items():
+    if lang != 'english':
+      dir_name = f'en-{lang[:2]}'
+      hf_dirs[dir_name] = hf_hub_path/dir_name
 
-  for doc_dir in path.iterdir():
-    for lang_file in doc_dir.glob('*.txt'):
-      with open(lang_file, 'r') as f:
-        content = f.readlines()
-      data[lang_file.stem] += [line.strip() for line in content]
+  for _, dirname in hf_dirs.items():
+    dirname.mkdir(exist_ok=True)
+
+  # for doc_dir in path.iterdir():
+  #   for lang_file in doc_dir.glob('*.txt'):
+  #     with open(lang_file, 'r') as f:
+  #       content = f.readlines()
+  #     data[lang_file.stem] += [line.strip() for line in content]
   
-  for lang, content in data.items():
-    with open(path/f'{lang}.txt', 'w') as f:
-      content = '\n'.join(content)
-      f.write(''.join(content))  
+  # for lang, content in data.items():
+  #   with open(path/f'{lang}.txt', 'w') as f:
+  #     content = '\n'.join(content)
+  #     f.write(''.join(content))  
