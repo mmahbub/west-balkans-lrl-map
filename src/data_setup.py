@@ -19,7 +19,9 @@ def write_content(path: Path, content: str)  -> None:
 
 def aggregate_files(path: Path) -> Dict[str, List[str]]:
   data = {lang: [] for lang in str(path.stem).split('-')}
-  for doc_dir in path.iterdir():
+
+  # NOTE: Using sorted guarantees order but loads everything into memory
+  for doc_dir in sorted(path.iterdir()):
       for lang_file in doc_dir.glob('*.txt'):
         with open(lang_file, 'r') as f:
           content = f.readlines()
