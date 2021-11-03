@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import random, textwrap
+import math, sys
 from typing import Dict, List
 from argparse import ArgumentParser, Namespace, ArgumentDefaultsHelpFormatter
 from pathlib import Path
@@ -8,7 +8,7 @@ from pathlib import Path
 def parse_args() -> Namespace:
   parser = ArgumentParser(description="Script to prepare manually extracted data to be loaded into HuggingFace hub. Please see README for details.", formatter_class=ArgumentDefaultsHelpFormatter)
   parser.add_argument('dir', type=str, help='Directory containing sub-directories corresponding to different documents')
-  parser.add_argument('-s', '--seed', type=int, help='Random seed to split the data into training and testing', default=42)
+  parser.add_argument('-p', '--test_pct', type=float, help='Percentage of test data', default=0.15)
   return parser.parse_args()
 
 def write_content(path: Path, content: str)  -> None:
@@ -30,13 +30,13 @@ def aggregate_files(path: Path) -> Dict[str, List[str]]:
 
   return data
 
-def huggingface_setup(path: Path, data: Dict[str, List[str]]) -> None:
-  split_idx = random.randint(0, len(data['english']))
+def huggingface_setup(path: Path, data: Dict[str, List[str]], test_pct: float) -> None:
+  split_idx = math.ceil(test_pct * len(data['english']))
 
   for lang, content in data.items():
     data[lang] = {
-      'train': content[:split_idx],
-      'test': content[split_idx:],
+      'train': content[split_idx:],
+      'test': content[:split_idx],
     }
 
   hf_hub_path = path.parents[0]/'huggingface_hub'
@@ -67,8 +67,11 @@ def huggingface_setup(path: Path, data: Dict[str, List[str]]) -> None:
 if __name__=='__main__':
   args = parse_args()
   path = Path(args.dir)
-  random.seed(args.seed)
+  test_pct = args.test_pct
+
+  if test_pct < 0 or test_pct > 1:
+    print(f"Test percentage must be between 0 and 1. Got {test_pct}", file=sys.stderr)
+    sys.exit(1)
+
   data = aggregate_files(path)
-  huggingface_setup(path, data)
-
-
+  huggingface_setup(path, data, test_pct)
