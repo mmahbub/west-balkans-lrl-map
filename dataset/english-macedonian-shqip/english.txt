@@ -964,6 +964,216 @@ The OSCE/ODIHR EOM has so far met the Prime Minister, the Minister of Justice, t
 A first briefing for the diplomatic community will be held on 16 May.
 The OSCE Parliamentary Assembly (OSCE PA) and the Parliamentary Assembly of the Council of Europe will deploy observer delegations for election-day observation.
 The OSCE Chairperson-in-Office has appointed Mr. Roberto Battelli, OSCE PA Treasurer and Special Representative on South East Europe, as Special Co-ordinator to lead the OSCE short-term observer mission for these elections.
+The Council of Europe’s Venice Commission and the OSCE Office for Democratic Institutions and Human Rights (OSCE/ODIHR) have reviewed the Electoral Code of “the former Yugoslav Republic of Macedonia”, as amended in October 2008.
+The present opinion was elaborated following resolution 1320 (2003) of the Parliamentary Assembly of the Council of Europe, which invites the Venice Commission to formulate opinions concerning possible improvements to legislation and practices in particular member States or applicant countries.
+The recent amendments include changes in the voter turnout requirement for presidential elections, out-of-country voting, voter registration, campaign finance and the complaints and appeals process.
+Some of the amendments are based on a draft working text amending the electoral code, which was reviewed by the Venice Commission and the OSCE/ODIHR in 2007 (CDL-AD(2007)012).
+This current review should be read together with this document and other relevant Joint Opinions (see par. 4).
+Many comments in previous texts have been taken into account, although others remain to be addressed.
+Not all are included in this document.
+The present document has been adopted by the Council for Democratic Elections at its 29th meeting (Venice, 11 June 2009) and by the Venice Commission at its 79th plenary session (Venice, 12 - 13 June 2009)
+Article 7(2) provides a restriction of the right to be elected for citizens who have been sentenced with a final court decision for unconditional imprisonment of at least 6 months.
+It is an extensive restriction; it should be made clear that a penalty for a crime, once served, should not limit such fundamental rights as the right to elect and to be elected, as it would not be in compliance with the principle of proportionality and could thus violate the right stated in Article 3 of the 1st Protocol to the ECHR and Article 7(5) of the OSCE Copenhagen Document.
+Articles 6 and 7 do not allow foreigners to vote or stand for election to municipal council and mayoral posts.
+It is recommended that the right to vote and stand for elections be provided to long-standing foreign residents to be inter alia in accordance with the Council of Europe Convention on the Participation of Foreigners in Public Life at Local Level (Article 6).
+It is accordingly recommended that the right to vote in local elections be granted after a certain period of residence, typically 5 years.
+Under recent amendments to the Constitution, a candidate is elected to the Presidency in the first round if s/he obtains an absolute majority of the votes of all registered voters.
+If not, a second round is held between the two leading candidates, and the one who wins more votes is elected President, provided that more than 40% of the registered voters cast a ballot.
+Should the turnout be less than 40% in the second round, a repeat election must be held.
+The unusually high threshold to win the election in the first round (50% of registered voters) is a departure from the more common rule of more than 50% of the valid votes cast in the election.
+The current provision seems to be an unnecessarily strong requirement and it would mean that a second round may be necessary even when one candidate defeats all other candidates by a large margin.
+The legal framework could be amended, for example, to stipulate that a candidate wins in the first round if the majority of all registered voters turn out (or even 40%) and the candidate receives more than 50% of valid votes cast.
+This would, however, imply a constitutional change.
+As noted, the voter turnout requirement for a valid second round of presidential elections has been lowered from 50% to 40% by a Constitutional amendment.
+Previous recommendations have suggested that this threshold requirement be removed outright, as it can lead to cycles of failed elections.
+If a voter turnout threshold is considered beneficial to the credibility of the electoral process, it is recommended only for the first round.
+The Code should provide for the circumstance of a candidate’s withdrawal from an election between the two rounds of voting, both for mayorships and the presidency.
+Presumably, at least for presidential elections, in line with Article 81 of the Constitution, the second round election would continue and the remaining candidate would still be required to receive the requisite majority.
+The Code could be clarified on this point, including for mayoral elections.
+Also, Article 121 of the Code does not (re)state the constitutional provision concerning the turnout requirement for a second round.
+The Constitution reads, “A candidate is elected President if s/he wins a majority of votes of those voted, provided that more than 40% of registered voters voted.”
+Legally speaking it is not necessary to repeat what is already in the Constitution, but for clarity it would be better to have the comprehensive rule stated also in the Code.
+One may, in the Code, also be more precise and state that “those voted” means those having cast a ballot, therefore including invalid ballots.
+As of 1 September 2009, when the new provisions in the Code will enter into force, voters who are temporarily abroad will be able to register to vote in Diplomatic Consular Offices.
+Article 2 of the Code defines citizens that are “temporarily abroad” as those:
+who have registered their last residence in the Republic but on election day are staying temporarily abroad, as long as that period of temporary residence has lasted from three months to one year, or who have been more than one year abroad and who have registered to stay temporarily abroad with the competent authority.
+On this point, the concern from a previous Joint Opinion4 remains relevant in that it would seem clear that only those citizens who have been staying abroad between three months and one year, or who are registered as temporarily abroad would be eligible to vote abroad.
+This could be seen as an arbitrary obstacle to enfranchisement for other citizens and should be reviewed.
+Similarly, there remains a concern regarding the composition of the Electoral Board (EB) in the Diplomatic Consular Offices.
+Under the Electoral Code, out-of-country voters form three single member constituencies for parliamentary elections:
+one covering Europe and Africa, one the Americas, and one covering Australia and Asia.
+While there is no legal standard for measures to vote abroad, and the procedures vary widely in scope and approach, the election should generally meet the same standards for democratic elections as in-country procedures.
+It appears that the method outlined in the current legislation does not achieve such a standard and it is recommended that a new formula be considered.
+First, the Code provides a proportionally-based system for the parliamentary elections (with six districts of high magnitude, 20 seats each), but the three single member constituencies break with this principle, as a single mandate district cannot be proportionally distributed.
+Second, it should be noted that while the domestic districts are designed to produce approximately the same number of votes per seat, the three districts abroad are predefined to one seat each regardless of the number of registered voters.
+Therefore, the number of voters electing each of these mandates will likely differ considerably amongst themselves, as well as from the in-country constituencies.
+This risks compromising the principle of equal suffrage, and more precisely the principle of equal voting power.
+While the creation of a virtual district is a viable option for voting abroad, assuming that a large enough number of voters would participate to allow for equal suffrage, mandates should be allocated in such a way as to allow for a proportional system to be effective (in this case by having more than a single mandate).
+In the absence of such, it is recommended that votes cast from abroad are counted in the domestic districts of the voters’ last residence.
+The requirement in Article 61 for 200 signatures to be gathered in support of a candidate for Parliament in an overseas district does not appear to be connected to population figures or to the number of registered voters, as is the case with domestic signature requirements.
+When the number of voters who have registered to vote in the newly created overseas voting district is known, connecting the number of required signatures as a percentage of the known (registered voters) population could be considered.
+The presence of observers and accredited representatives of political parties or candidates are key elements for the transparency of the vote, and should also be present during voting abroad.
+Although no text in the Code suggests they are not allowed, it could be made explicit that they are welcome, and indications of the procedure for their accreditation from abroad should be made.
+Article 23(1) sets out the quorum for election bodies as well as the number required to render a decision.
+It should be understood that, for a valid decision to be taken, a majority of “members” may be achieved by counting also deputies, in cases when a member is absent.
+Article 23(2) it could be further clarified with the addition of, “with the same rights to work and vote as the member s/he is replacing.”
+According to Article 27(5) the President and the members of the State Election Commission (SEC) are elected by the Parliament with a two-third majority of the total number of Members of Parliament.
+Although this provision requires broad consensus on the membership of the SEC, it undoubtedly makes it more difficult to appoint the membership, and the procedure might easily be drawn out.
+It is understood that the vote in Parliament will be on every member separately. The provision would however benefit from clarification.
+Article 31(2): In a previous Joint Opinion on the draft Electoral Code7 it was noted that the number of duties of the SEC appeared excessive.
+It was suggested that some duties could be vested in the Municipal Election Commissions (MEC); for example, during the election period duties of supervision should be left to lower level bodies (duties on election day being particularly time-consuming).
+The Electoral Code now contains an apparent overlap of duties in controlling EBs8 and it should be made clear whether the MEC or the SEC is the responsible body to control their work.
+In its Final Report on the 2008 early parliamentary elections, OSCE/ODIHR recommended that inconsistencies between the Election Code and Law on Misdemeanors be resolved so that the SEC can initiate proceedings against persons who commit the electoral misdemeanors listed in the Code.
+This issue appears to have been addressed in Article 31(3).
+The same provision also imposes a duty on the SEC to dismiss members of an election management body in case of unlawful activities.
+However, it does not specify the procedure to do so and the Code would benefit from having the procedure clearly outlined.
+Article 35(2) states that the SEC “determines with an act the procedures for appointing the MEC President, deputy, members and their deputies,” and in Article 39(3) the same applies for EBs.
+Both articles leave undefined whether the appointments are a standard or ad hoc act.
+The procedures for these appointments would benefit from further elaboration, particularly as previous recommendations from OSCE/ODIHR suggested that the presidents and deputies of such bodies be selected – from among the randomly selected members – by either the body itself (by internal vote) or by the immediately higher election body (the MEC or the SEC, respectively).
+Article 37(2) dealing with the competencies of the MECs and the Election Commission of the City of Skopje remains unclear in spite of the recent amendments and would need further clarification.
+More precisely, Article 37(2) paragraph 2 vests the MECs with the authority “to dismiss members of the Electoral Board on the day of elections.”
+The Article leaves unaddressed both the procedure with which the MEC can dismiss EB members and if the dismissal power applies also before election day.
+Additionally, Article 37(2) paragraph 10 states that the MEC “Register(s) the authorized representatives for monitoring the work of the Municipal Election.”
+However, the Code should clarify whether parties and candidates must provide a list of their authorized representatives to MECs and, if so, what the deadline is, and what sanctions, if any, apply for failure to provide such a list.
+Finally, Article 37(2), paragraph 16 of the Code, tasking the MEC to “decide upon complaints” appears to conflict with Article 148(1) which vests the competency for deciding upon complaints on the SEC.
+Article 38 refers to the EB’s composition.
+The manner in which the article reads is potentially misleading, for example: “Electoral Boards shall be composed of a president, four members and their deputies".
+The text appears to suggest that the EB is composed of nine members, while in fact there are five.
+The precise number must be clear for decision-making purposes.
+It may be advisable to specify first the total number of members that comprise the EB, and then elaborate the functions of each including the relationship, and any distinction, between members and deputies.
+As of 1 September 2009 the SEC will be given responsibility for the voter list, a change from the previous Code which vested this responsibility to the Ministry of Justice.
+Transferring this responsibility to a body which is composed of both members of the government and the opposition should increase confidence in the process.
+Article 43 sets out the obligation of the Ministry of Internal Affairs to submit data for the voter list.
+The present text does not clearly indicate that data should be submitted also for persons who have not yet turned 18 at the time of data submission, but who will do so before election day.
+Article 46 provides that special excerpts of the voter list be prepared for carrying out elections in military posts, and Article 47 clarifies that military personnel vote in the district/municipality where the military unit or post is located.
+The same can be concluded from Article 113.
+The Code of Good Practice in Electoral Matters counsels that personnel should vote at their place of registered permanent residence whenever possible.
+Although it is difficult or even impossible to allow all military personnel to vote at their place of domicile, voting at their home polling stations should be allowed for the portion of military personnel who might be posted in their home municipality.
+Article 55(1) provides for the protection of personal data contained in the voter list, in line with the law on data protection.
+It further states that the data “shall not be used for any purpose other than exercising the citizens’ right to vote.”
+However, the subsequent paragraph (Article 55(2)) requires the SEC to supply the data – all of it – from the voter list to any registered political party or independent candidate upon their request.
+Council of Europe and OSCE standards11 suggest that the legal framework clearly state the permitted uses of information obtained from the voter registers and whether the information can be used for purposes other than making challenges to the registration of a particular voter.
+In particular, the law should state whether the information might be used for the campaign activities of political parties and candidates.
+The legal framework should also state the sanctions for misuse of information obtained from voter registers.
+According to the Code, the six districts for parliamentary elections should not vary more than 5% from the average number of voters, and each district elects 20 Members of Parliament.
+While there are no standards on the method of defining districts, such a clause creates the need for regular re-districting as population shifts occur.
+As the process of redistricting has considerable political ramifications, other possible approaches might also be considered.
+It is common to fix electoral districts and distribute mandates proportionally to the number of voters (i.e. – one mandate for every 20,000 voters).
+If such a method of using fixed electoral districts with varying numbers of mandates were adopted, the general rule for distribution of mandates to districts would then need to be included in the Electoral Code.
+The transfer of duties for monitoring the collection of support signatures from the Ministry of Justice local offices to the SEC is a welcome development that should operate to decrease any pressure on signatories to support the governing parties.
+Article 63(2) of the Code should clarify the procedure for the collection of support signatures during the candidate registration process at local offices, presumably the MECs (as the SEC is not represented itself at the local level).
+Article 64(3) states that each candidate for parliament must include “a statement for the belonging to an ethnic community.”
+This requirement is in place to allow for ballots to be printed both in the Macedonian language and Cyrillic as well as the language of the ethnic community involved.
+According to the Code of Good Practice in Electoral Matters13 and the Framework Convention for the Protection of National Minorities,14 no one should be obliged to declare that they belong to a national minority.
+Such declaration should be a right, not a duty.
+Removing the obligatory ethnic declaration from article 64(3) and replacing it with the possibility to have names on a list printed in an original language should therefore be considered.
+The provisions on gender representation in candidate lists remain among the avant garde in Europe.
+Article 64(5) states that on lists for the Parliament and for local councils need to have “in every three places at least one will be reserved for the less represented gender.”
+According to Article 63 the list of candidates must contain, inter alia, information on candidates’ professions.
+In line with repeated recommendations from previous joint opinions, it should be considered whether such information is necessary and whether the absence of, or incorrect provision of, the profession is considered an “irregularity”.
+That would deny a candidate the right to stand for office.
+In its Final Report on the 2008 early parliamentary elections, the ODIHR suggested that Article 73 of the Election Code – providing for campaign period violations to be litigated in the Primary Courts – be elaborated to specify the subject of the complaint,16 potential defendants, form(s) of action (civil, misdemeanor and/or criminal), and possible remedies.
+The campaign procedure is not expressly regulated for second round elections – those for President of the Republic or for mayors.
+Article 74(1), states that campaigning must end “24 hours prior to election day”.
+It has to be understood that these provisions apply to the second round, but it would be preferable to make it clearer.
+In the 2007 Joint Opinion, in paragraph 27,17 the Venice Commission and the OSCE/ODIHR noted that in Article 181(2) a new paragraph has been introduced imposing a substantial fine for those not “respecting the timeframe for commencement and completion of the election campaign”.
+The definition of “election campaign” is very broad: “public presentation of candidates, confirmed by the authorized election management bodies, and their programs in the pre-election period of the respective election process”.
+Regular political activities seem to fall under the term and it seems unreasonable to be subject to a fine if a party makes “public presentations” of their candidates prior to the start of the 20-day campaign.
+The Electoral Code should make clear exactly what political activity is and is not permissible before the start of the official campaign period.
+It is recommended that early campaigning rules should only apply to special media regulations, such as free airtime, the allocation of clearly designated free space for posting of campaign material and the provision of state funding.
+Article 187 provides for a political party to be fined from 3,000 to 5,000 EUR for failing to report an election rally at least 48 hours prior to its holding and organising a rally contrary to Articles 81 and 82 of this Code.
+Article 81 requires the campaign organiser to inform the appropriate Ministry of Internal Affairs branch in writing, 48 hours in advance, whenever the organiser will hold “a pre-election rally on public places and on public transport places.”
+Article 82 delimits the places where such rallies may and may not be held.
+It is unclear whether a party and/or organiser would be fined if they fail to inform the Ministry of Internal Affairs of a rally that will not be held in a “public place” or on a “public transport” place (presumably roads, etc.).
+Article 187 suggests that, to avoid a fine, every rally regardless of location must be reported to the Ministry of Internal Affairs; while Articles 81 and 82 suggest that only those rallies that are held in “public” places require such an advisory.
+Article 187 appears overly restrictive as there are few valid reasons to punish a person or entity for failing to inform the Ministry of Internal Affairs of rallies that do not impact public locations or modes of transport.
+Many improvements have been made to the Code with respect to media coverage and monitoring.
+Particularly welcome is the adoption of a Rulebook governing timing, tariffs and equal access in broadcast media.
+Nevertheless, there are still no explicit requirements for fair and equitable coverage of the contestants in the news and current affairs programmes of electronic media.
+There should be more precise requirements on the coverage of the incumbents.
+Article 74(2) of the Electoral Code gives the Broadcasting Council a mandate to monitor media coverage of the elections not only during the official campaign period, but from the day of the announcement of the elections until the end of voting on election day.
+However, the Broadcasting Council competencies to regulate the media during the pre-campaign period are not clear in the Law on Broadcasting Activity.
+The laws would benefit from harmonisation on this point.
+The laws could also be harmonised on the issue of the amount of paid advertising by private broadcasters.
+The Electoral Code limits the amount of paid political advertising which media are allowed to broadcast to 15 minutes per hour; the Law on Broadcasting Activity permits a maximum of 12 minutes.
+The campaign finance provisions in Articles 83-87 have been clarified and strengthened in line with previous recommendations; however concerns remain.
+The provisions on campaign financing should be fortified to ensure genuine oversight of financing rules and to establish effective limits on donations and expenditures, as well as to clarify reporting and auditing procedures.
+Articles 83 and 84 of the Electoral Code should be reconsidered, with a view to abolishing exceptions for limits on campaign donations, which appear to undermine the intention of the law.
+For example, Article 83(2) allows campaigns to be funded “by the membership fee of the political party,” but no limit is provided.
+In order not to circumvent donation limits, the Code should prohibit such membership fees from exceeding the amounts allowed to individual or corporate contributors in that same paragraph, i.e. 5,000 and 20,000 Euro respectively.
+The auditing procedure should be enhanced to ensure oversight of the finances of all candidates who participate in an election.
+Additionally, there is no requirement in the Code for an interim financial report by a campaign organiser, despite previous recommendations to that effect.
+Article 83 does not allow expenditure from the general fund of political parties for the campaign.
+Thus, donations for the campaign appear to be allowed only after the current account has been opened.
+Donations to political parties that occur before the campaign starts may not be used for the campaign.
+Such provisions are overly restrictive.
+With the proper control mechanisms for financing political parties, it would be possible to allow expenditures from donations to parties that take place before the start of the campaign, or to allow the party to deposit earlier-received donations and unspent funds from previous campaigns into the current account.
+Article 83(1) prohibits election campaign financing by funds from joint ventures where foreign capital is dominant.
+It could be clarified whether the notion of foreign capital entails also capital invested into those joint ventures from legal entities registered in the country but which are owned by foreign natural persons or legal entities.
+The regulation of financing does not allow expenditure before the submission of a candidate list.
+It could be difficult to organise the formation of a candidate list, collect the signatures or plan the style or strategy for the campaign without expenditure.
+Consideration should be given to allow for expenditure a reasonable period prior to the date of submission of the list (for example one or two weeks), or perhaps to exclude certain “preparatory” expenditures from the control provided by the code.
+Article 86 of the Code, which provides for reimbursement of campaign expenses for elected candidates (only), should be reconsidered and possibly replaced by a system under which all candidates who win a certain percentage of votes or obtain at last one seat are entitled to reimbursement.
+Such a percentage should be high enough to discourage frivolous candidates, but low enough to provide more incentives for women and members of smaller ethnic communities, who sometimes face difficulties in raising the funds required to mount a strong campaign.
+Article 86(3) provides that the reimbursement of the election expenses “be determined by a decision” of the Parliament and of the municipal council and the City of Skopje.
+At the same time, Article 86(1) provides the right to reimbursement in concrete cases and amounts.
+It seems to be contradictory – or at least unnecessary – to require a decision for something already prescribed by law.
+Also, amendments could be made to clarify whether the reimbursement shall be calculated based on first or second round elections for mayors.
+The procedure and conditions for payment and denial of reimbursement to candidates, based on the Article 87 of the Code, should be set out in more detail.
+The Electoral Code (or regulations) should specify the content and format of the financial reports to be submitted by contestants; in particular, the current form prescribed by the Ministry of Finance should be modified since it does not require contestants to submit information on expenditures, which undermines the transparency and usefulness of such reporting.
+Article 89 indicates that EBs receive the same number of ballot papers as there are voters on the excerpt.
+Should there be 100% voter turnout there would not be enough ballots to allow for voters to have a replacement ballot.
+The system, therefore, does not contemplate that voters could make a mistake and seek to rectify it, as no additional ballots are available.
+A certain flexibility could be envisaged to provide a small percentage of additional ballots to each EB.
+Article 101(3) states: “The electoral board may close the polling station before the end of the period set forth in paragraph 1 of this Article, in case all the voters registered on the excerpt of the Voters’ List have cast their votes.”
+The wording of the article may lead some EBs to understand that they can close and count the votes before the (7pm) official closure.
+If done, such early counting could undermine the possibility for observers to be present at the count, as they could not know in advance when it will take place.
+It is recommended that the article specify that only closure, but not counting, is allowed in the above instance.
+Article 106 refers to the obligation of polling officers and observers not to have marks or symbols of any political party or candidates while at the polling stations.
+However, the article does not mention the wearing of a badge or other identification to facilitate the recognition of authorised personnel at polling stations.
+Given the high number of unauthorised people recorded at the voting places during previous elections, it is advisable that authorised people be compelled to wear a badge while on duty at polling stations.
+Article 114 sets out the procedure for the count.
+Earlier Joint Opinions have recommended that the process be changed so that the total number of ballots, the number of unused ballots and the number of voters having voted according to signatures or fingerprints on the voters’ lists are entered into the protocols before opening the ballot box.
+This would reduce the possibility for manipulation at later stages of the counting process.
+Article 116 specifies the numbers that need to be entered in the polling station protocol.
+There is, however, no requirement for the EB to make any reconciliation of the numbers and, for example, make a recount if the number of ballots in the box does not match the number of voters having voted according to the voter lists.
+In many countries there are particular rules in cases where the number of ballots in the box exceeds the number who voted, according to the voter lists (ballot stuffing), or if the number is lower than the number who have voted according to the lists (ballot stealing).
+Article 119 requires the MEC to sum up the results of the voting in the presidential election, but it does not specify exactly which numbers are to be recorded in the protocol.
+For local elections the format is given in Article 131 and for national elections the format for the SEC protocols is given in Article 128, but it would be useful if the format is also given for the MEC reports (even though these numbers, in national elections, would not be final)
+Article 126(5) provides that, “[A]uthorized domestic observers shall receive a copy of the tabular section of the minutes,” but it does not mention whether international observers are also entitled to this information.
+They should be given the same right.
+Neither Articles 127 and 128 nor Article 31(2) on the duties of the SEC place a clear obligation upon it to actively review the results from the subordinate commissions and boards in order to investigate anomalies in protocols and rectify mistakes.
+Only reported mistakes are to be investigated.
+It is of course not possible to verify all aspects of the work of lower bodies, particularly in light of the substantial list of duties the SEC must undertake (see comments above), but often there are clear mistakes or suspicious results which should provoke a review before results are finalised which are obvious even if not reported.
+The law should be clear that the SEC is authorised to also investigate such cases.
+The same goes for the MECs and their obligations in local elections.
+Article 135 obliges the SEC to announce the MEC results as they receive them.
+This strengthens the transparency of the vote.
+Paragraph (2) states, however, that the results are to be published within 24 hours from the time they become final.
+It is difficult to conceive a reason why the final results should not be published immediately.
+Consideration should be given to changing Article 135(2) to that effect.
+It is recommended that the law includes an obligation for the SEC (and the MEC for local elections) to publish the full tabulation of results from polling station level to district or national level.
+Only by doing this, can observers and the general public check that their polling station results have been correctly added into the overall results.
+Article 151(1) provides in detail situations in which the results of elections should be annulled.
+The clear provisions in this matter remove any uncertainty and provide better predictability.
+However, situations might arise which are unforeseeable in the Electoral Code.
+The SEC should have at least some discretion to annul results in other situations as well if violations and irregularities have happened in the electoral process (e.g. electoral campaign or errors in voters’ lists).
+Decision-making on complaints to the Administrative Court is regulated only very generally and in places contradicts the general Law on Administrative Procedure.
+As the results must be rendered quickly, the process requires more detailed regulation so that disputes are avoided.
+The decision-making in the Administrative Court on the complaints is limited to 48 hours by Articles 67(7), 141(3), 150(2) and 151(5).
+It is one of the shortest deadlines provided by procedures in the Council of Europe member States.
+It is also demanding for the judges to examine the evidence and provide a legal basis for the decision in this timeframe, especially as the court has to decide on complaints collectively.
+It is suggested that the time-limit for the courts to decide on complaints be extended, but must remain short enough to provide for effective remedy in the election.
+The same recommendation applies also to the procedure for complaints and appeals of other legal bodies, provided in Articles 73(2) and (4).
+Further, if deadlines are extended, and in order to guarantee the effectiveness of the complaint procedure, the court should be equipped with the right to collect evidence itself.
+According to Articles 67(8), 141(4) and 147(4) submitting a complaint or appeal for the protection of the right to vote via the post is not permitted.
+It is recommended that where a complaint is submitted via post, it is disallowed for the current election, but accepted as “nonurgent” and resolved later, for subsequent elections.
+Otherwise a person who posts a complaint has to resolve the problem again prior to the next elections.
+For out of country voting at the Diplomatic Consular Offices, the complaint and appeal procedures, for example those in place to “protect the right to vote” (Articles 50-51), for list submitters (Article 67) and for campaign organisers (Article 73) do not appear to have been addressed.
+With the current short complaint deadlines, and with the fact that submitting complaints by post is not permitted, an overseas voter, list submitter or campaign organiser will have considerable difficulty availing themselves of court protection.
+According to Article 158(2) early elections for mayor shall not be announced if there are less than six months until the regular elections.
+It could be suggested, in order to avoid having the post vacant for so long, to elect the mayor without delay and extend the tenure of the post so that the next election is held at the same time as the next regular municipal elections.
+Although the October 2008 amendments strengthened some aspects of the Electoral Code of “the former Yugoslav Republic of Macedonia”, the Code would benefit from further improvements on the basis of the present Opinion and of mentioned previous Joint Opinions of the Venice Commission and the OSCE/ODIHR.
 OSCE Office for Democratic Institutions and Human Rights
 Election Observation Mission
 The former Yugoslav Republic of Macedonia
