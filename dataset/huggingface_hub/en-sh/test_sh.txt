@@ -1156,3 +1156,18 @@ Kodi i praktikave të mira në çështjet zgjedhore këshillon që ai staf duhet
 Edhe pse kjo është e vështirë dhe mbase e pamundur për t’i mundësuar gjithë stafit ushtarak të votojë në vendbanimin e tyre, votimi në vendvotimet e tyre vendore duhet t’i mundësohet asaj pjese të stafit ushtarak ose njësisë e cila mund të jetë vendosur në komunën e tyre amë.
 Neni 55(1) parasheh mbrojtjen e të dhënave personale që gjenden në listën e votuesve, në përputhje me ligjin për mbrojtjen e të dhënave.
 Më tej thotë që të dhënat “nuk duhet të përdoren për ndonjë qëllim tjetër veç atij të ushtrimit të së drejtës për të votuar nga ana e qytatarëve.”
+Megjithatë, paragrafi vijues (Neni 55(2)) kërkon nga KSHZ-ja t’i furnizojë me të dhëna – të gjitha të dhënat –nga lista e votuesve cilëndo parti të regjistruar politike ose kandidat të pavarur me kërkesë të tyre.
+Standardet e Këshillit të Evropës dhe OSBE-së11 parashohin që korniza ligjore të theksojë qartë përdorimin e lejueshëm të informacionit të marrë nga lista e votuesve dhe nëse ky informacion mund të përdoret për qëllime të ndryshme nga kontestimi i regjistrimit të një votuesi të posaçëm.
+Në veçanti, ligji duhet të theksojë nëse informacioni mund të përdoret për aktivitete të fushatës së partive politike dhe të kandidatëve.
+Korniza ligjore duhet gjithashtu të theksojë sanksionet për keqpërdorimin e informacionit të marrë nga regjistrat e votuesve.
+Në bazë të Kodit, gjashtë njësitë për zgjedhje parlamentare nuk duhet të kenë dallim mbi 5% të numrit mesatar të votuesve dhe secila njësi zgjedh 20 deputetë në Parlament.
+Përderisa nuk ka standarde për metodën e definimit të njësive, një klauzolë e tillë krijon nevojën për redefinim të rregullt të njësive me ndryshimin e numrit të popullsisë.
+Për shkak se procesi i redefinimit të njësive ka pasoja të konsiderueshme politike, mund të merren parasysh edhe qasje të tjera të mundshme.
+Është e zakonshme të rregullohen njësitë zgjedhore dhe t’i shpërndajnë mandatet në mënyrë proporcionale me numrin e votuesve (dmth. një mandat për çdo 20 000 votues).
+Nëse një mënyrë e tillë e përdorimit të njësive zgjedhore fikse me numra ndryshues të mandateve do të ishte miratuar, rregulli i përgjithshëm për shpërndarjen e mandateve sipas njësive do të nevojitej të përfshihet në Kodin zgjedhor.
+Kalimi i detyrave për mbikqyrjen dhe mbledhjen e nënshkrimeve për mbështetje nga ana e zyrave lokale të Ministrisë së drejtësisë tek KSHZ-ja është një zhvillim i mirëseardhur i cili duhet të veprojë për të zvogëluar çfarëdo presioni mbi nënshkruesit për të mbështetur partitë qeverisëse.
+Neni 63(2) i Kodit duhet të qartësojë procedurën për mbledhjen e nënshkrimeve gjatë procesit të regjistrimit të kandidatit në zyrat lokale, para së gjithash KKZ-të (meqenëse vetë KSHZ-ja nuk është e përfaqësuar në nivel lokal).
+Neni 64(3) thekson se secili kandidat për parlament duhet të përfshijë “deklaratën për përkatësinë etnike të tij/saj”.
+Ky kriter është vendosur për të mundësuar shtypjen e fletëvotimeve ne gjuhën maqedonase dhe shkrimin e saj qirilik, si dhe në gjuhën e bashkësisë përkatëse etnike.
+Në bazë të Kodit te praktikave të mira në çështjet e zgjedhjeve 13 dhe të Konventës kornizë për mbrojtjen e pakicave kombëtare14, askush nuk duhet të detyrohet të deklarohet se i përket një pakice kombëtare.
+Një deklarim i tillë duhet të jetë një e drejtë dhe jo detyrim.

@@ -1156,3 +1156,18 @@ The Code of Good Practice in Electoral Matters counsels that personnel should vo
 Although it is difficult or even impossible to allow all military personnel to vote at their place of domicile, voting at their home polling stations should be allowed for the portion of military personnel who might be posted in their home municipality.
 Article 55(1) provides for the protection of personal data contained in the voter list, in line with the law on data protection.
 It further states that the data “shall not be used for any purpose other than exercising the citizens’ right to vote.”
+However, the subsequent paragraph (Article 55(2)) requires the SEC to supply the data – all of it – from the voter list to any registered political party or independent candidate upon their request.
+Council of Europe and OSCE standards11 suggest that the legal framework clearly state the permitted uses of information obtained from the voter registers and whether the information can be used for purposes other than making challenges to the registration of a particular voter.
+In particular, the law should state whether the information might be used for the campaign activities of political parties and candidates.
+The legal framework should also state the sanctions for misuse of information obtained from voter registers.
+According to the Code, the six districts for parliamentary elections should not vary more than 5% from the average number of voters, and each district elects 20 Members of Parliament.
+While there are no standards on the method of defining districts, such a clause creates the need for regular re-districting as population shifts occur.
+As the process of redistricting has considerable political ramifications, other possible approaches might also be considered.
+It is common to fix electoral districts and distribute mandates proportionally to the number of voters (i.e. – one mandate for every 20,000 voters).
+If such a method of using fixed electoral districts with varying numbers of mandates were adopted, the general rule for distribution of mandates to districts would then need to be included in the Electoral Code.
+The transfer of duties for monitoring the collection of support signatures from the Ministry of Justice local offices to the SEC is a welcome development that should operate to decrease any pressure on signatories to support the governing parties.
+Article 63(2) of the Code should clarify the procedure for the collection of support signatures during the candidate registration process at local offices, presumably the MECs (as the SEC is not represented itself at the local level).
+Article 64(3) states that each candidate for parliament must include “a statement for the belonging to an ethnic community.”
+This requirement is in place to allow for ballots to be printed both in the Macedonian language and Cyrillic as well as the language of the ethnic community involved.
+According to the Code of Good Practice in Electoral Matters13 and the Framework Convention for the Protection of National Minorities,14 no one should be obliged to declare that they belong to a national minority.
+Such declaration should be a right, not a duty.
