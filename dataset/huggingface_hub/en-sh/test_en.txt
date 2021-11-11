@@ -1182,3 +1182,36 @@ The campaign procedure is not expressly regulated for second round elections –
 Article 74(1), states that campaigning must end “24 hours prior to election day”.
 It has to be understood that these provisions apply to the second round, but it would be preferable to make it clearer.
 In the 2007 Joint Opinion, in paragraph 27,17 the Venice Commission and the OSCE/ODIHR noted that in Article 181(2) a new paragraph has been introduced imposing a substantial fine for those not “respecting the timeframe for commencement and completion of the election campaign”.
+The definition of “election campaign” is very broad: “public presentation of candidates, confirmed by the authorized election management bodies, and their programs in the pre-election period of the respective election process”.
+Regular political activities seem to fall under the term and it seems unreasonable to be subject to a fine if a party makes “public presentations” of their candidates prior to the start of the 20-day campaign.
+The Electoral Code should make clear exactly what political activity is and is not permissible before the start of the official campaign period.
+It is recommended that early campaigning rules should only apply to special media regulations, such as free airtime, the allocation of clearly designated free space for posting of campaign material and the provision of state funding.
+Article 187 provides for a political party to be fined from 3,000 to 5,000 EUR for failing to report an election rally at least 48 hours prior to its holding and organising a rally contrary to Articles 81 and 82 of this Code.
+Article 81 requires the campaign organiser to inform the appropriate Ministry of Internal Affairs branch in writing, 48 hours in advance, whenever the organiser will hold “a pre-election rally on public places and on public transport places.”
+Article 82 delimits the places where such rallies may and may not be held.
+It is unclear whether a party and/or organiser would be fined if they fail to inform the Ministry of Internal Affairs of a rally that will not be held in a “public place” or on a “public transport” place (presumably roads, etc.).
+Article 187 suggests that, to avoid a fine, every rally regardless of location must be reported to the Ministry of Internal Affairs; while Articles 81 and 82 suggest that only those rallies that are held in “public” places require such an advisory.
+Article 187 appears overly restrictive as there are few valid reasons to punish a person or entity for failing to inform the Ministry of Internal Affairs of rallies that do not impact public locations or modes of transport.
+Many improvements have been made to the Code with respect to media coverage and monitoring.
+Particularly welcome is the adoption of a Rulebook governing timing, tariffs and equal access in broadcast media.
+Nevertheless, there are still no explicit requirements for fair and equitable coverage of the contestants in the news and current affairs programmes of electronic media.
+There should be more precise requirements on the coverage of the incumbents.
+Article 74(2) of the Electoral Code gives the Broadcasting Council a mandate to monitor media coverage of the elections not only during the official campaign period, but from the day of the announcement of the elections until the end of voting on election day.
+However, the Broadcasting Council competencies to regulate the media during the pre-campaign period are not clear in the Law on Broadcasting Activity.
+The laws would benefit from harmonisation on this point.
+The laws could also be harmonised on the issue of the amount of paid advertising by private broadcasters.
+The Electoral Code limits the amount of paid political advertising which media are allowed to broadcast to 15 minutes per hour; the Law on Broadcasting Activity permits a maximum of 12 minutes.
+The campaign finance provisions in Articles 83-87 have been clarified and strengthened in line with previous recommendations; however concerns remain.
+The provisions on campaign financing should be fortified to ensure genuine oversight of financing rules and to establish effective limits on donations and expenditures, as well as to clarify reporting and auditing procedures.
+Articles 83 and 84 of the Electoral Code should be reconsidered, with a view to abolishing exceptions for limits on campaign donations, which appear to undermine the intention of the law.
+For example, Article 83(2) allows campaigns to be funded “by the membership fee of the political party,” but no limit is provided.
+In order not to circumvent donation limits, the Code should prohibit such membership fees from exceeding the amounts allowed to individual or corporate contributors in that same paragraph, i.e. 5,000 and 20,000 Euro respectively.
+The auditing procedure should be enhanced to ensure oversight of the finances of all candidates who participate in an election.
+Additionally, there is no requirement in the Code for an interim financial report by a campaign organiser, despite previous recommendations to that effect.
+Article 83 does not allow expenditure from the general fund of political parties for the campaign.
+Thus, donations for the campaign appear to be allowed only after the current account has been opened.
+Donations to political parties that occur before the campaign starts may not be used for the campaign.
+Such provisions are overly restrictive.
+With the proper control mechanisms for financing political parties, it would be possible to allow expenditures from donations to parties that take place before the start of the campaign, or to allow the party to deposit earlier-received donations and unspent funds from previous campaigns into the current account.
+Article 83(1) prohibits election campaign financing by funds from joint ventures where foreign capital is dominant.
+It could be clarified whether the notion of foreign capital entails also capital invested into those joint ventures from legal entities registered in the country but which are owned by foreign natural persons or legal entities.
