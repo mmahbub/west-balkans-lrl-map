@@ -1215,3 +1215,18 @@ Këto dispozita janë tejet restriktive.
 Me mekanizma adekuat të kontrollit për financimin e partive politike do të ishte e mundur për të lejuar harxhime nga donacionet për partitë të cilat bëhen para fillimit të fushatës, ose që partive t’u lejohet depozitimi i donacioneve të pranuara më parë dhe fondeve të paharxhuara nga fushatat e mëparshme në llogarinë rrjedhëse.
 Neni 83(1) ndalon financimin e fushatës zgjedhore nga fonde të ndërmarrjeve të përbashkëta ku kapitali i huaj është dominant.
 Mund të qartësohej nëse nocioni i kapitalit të huaj nënkupton edhe kapitalin e investuar në këto ndërmarrje të përbashkëta nga ana e subjekteve ligjore të regjistruara në vend, por të cilat janë pronë e personave ose subjekteve ligjore të huaja.
+Rregullorja e financimit nuk lejon harxhimin para dorëzimit të listës së kandidatëve.
+Do të ishte e vështirë të organizohet përpilimi i një liste kandidatësh, mbledhja e nënshkrimeve ose planifikimi i stilit ose strategjisë për fushatën pa harxhime.
+Duhet të merret parasyshë lejimi i harxhimeve gjatë një periudhe të arsyeshme para datës së dorëzimit të listës (për shembull një deri në dy javë), ose mbase edhe përjashtimin e disa harxhimeve “përgatitore” nga kontrolli i mundësuar nga Kodi.
+Neni 86 i Kodit i cili mundëson kompensimin e harxhimeve të fushatës (vetëm) për kandiatët e zgjedhur, duhet të merret sërish parasysh dhe mundësisht të zëvendësohet me një sistem sipas të cilit të gjithë kandidatët që fitojnë një përqindje të caktuar të votave, ose marrin së paku një mandat të kenë të drejtë për kompensim.
+Një përqindje e tillë duhet të jetë mjaftë e lartë për të dekurajuar kandidatët joserioz, por mjaft i ulët për të siguruar më shumë motiv për gratë dhe anëtarët e komuniteteve më të vogla etnike, të cilët nganjëherë përballen me vështirësi në grumbullimin e fondeve të nevojshme për të bërë një fushatë të fortë.
+Neni 86(3) parasheh që kompensimi i harxhimeve zgjedhore “të përcaktohet me vendim” të Parlamentit, të keshillit komunal dhe të Qytetit të Shkupit.
+Njekohësisht, Neni 86(1) parasheh të drejtën e kompensimit në raste dhe shuma konkrete.
+Duket të jetë kontradiktore – ose të paktën e panevojshme – të kërkohet një vendim për diçka që është tashmë e paraparë me ligj.
+Poashtu, ndryshimet mund të bëhen për të qartësuar nëse kompensimi duhet të llogaritet në bazë të rrethit të parë ose të dytë të zgjedhjeve për kryetar komune.
+Procedura dhe kushtet e pagesës dhe mohimi i kompensimit për kandidatët, në bazë të Nenit 87 të Kodit duhet të bëhet në mënyrë më të hollësishme.
+Kodi Zgjedhor (ose rregulloret) duhet të përcaktojë përmbajtjen dhe formatin e raporteve financiare që duhet të dorëzohen nga garuesit; në vecanti, forma aktuale e përshkruar nga Ministria e Financave duhet të ndryshohet meqenëse nuk i obigon garuesit të dorëzojnë të dhëna për harxhimet, gjë që e dëmton transparencën dhe dobinë e një raportimi të tillë.
+Neni 89 parasheh që KZ-të të marrin numrin e njejtë të fletvotimeve sa që ka votues në regjistër.
+Në rast se ka dalje të votuesve prej 100%, nuk do të kishtë fletëvotime të mjaftueshme që do t’u mundësonte votuesve zëvendësim të fletëvotimit.
+Prandaj, ky sistem nuk e merr parasysh që votuesit mund të bëjnë gabim dhe të kërkojnë korrigjim, meqë nuk ka asnjë fletëvotim shtesë në dispozicion.
+Mund të parashihet një fleksibilitet që do të mundësonte një përqindje të fletëvotimeve shtesë për çdo KZ.

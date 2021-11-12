@@ -1,18 +1,3 @@
-Rregullorja e financimit nuk lejon harxhimin para dorëzimit të listës së kandidatëve.
-Do të ishte e vështirë të organizohet përpilimi i një liste kandidatësh, mbledhja e nënshkrimeve ose planifikimi i stilit ose strategjisë për fushatën pa harxhime.
-Duhet të merret parasyshë lejimi i harxhimeve gjatë një periudhe të arsyeshme para datës së dorëzimit të listës (për shembull një deri në dy javë), ose mbase edhe përjashtimin e disa harxhimeve “përgatitore” nga kontrolli i mundësuar nga Kodi.
-Neni 86 i Kodit i cili mundëson kompensimin e harxhimeve të fushatës (vetëm) për kandiatët e zgjedhur, duhet të merret sërish parasysh dhe mundësisht të zëvendësohet me një sistem sipas të cilit të gjithë kandidatët që fitojnë një përqindje të caktuar të votave, ose marrin së paku një mandat të kenë të drejtë për kompensim.
-Një përqindje e tillë duhet të jetë mjaftë e lartë për të dekurajuar kandidatët joserioz, por mjaft i ulët për të siguruar më shumë motiv për gratë dhe anëtarët e komuniteteve më të vogla etnike, të cilët nganjëherë përballen me vështirësi në grumbullimin e fondeve të nevojshme për të bërë një fushatë të fortë.
-Neni 86(3) parasheh që kompensimi i harxhimeve zgjedhore “të përcaktohet me vendim” të Parlamentit, të keshillit komunal dhe të Qytetit të Shkupit.
-Njekohësisht, Neni 86(1) parasheh të drejtën e kompensimit në raste dhe shuma konkrete.
-Duket të jetë kontradiktore – ose të paktën e panevojshme – të kërkohet një vendim për diçka që është tashmë e paraparë me ligj.
-Poashtu, ndryshimet mund të bëhen për të qartësuar nëse kompensimi duhet të llogaritet në bazë të rrethit të parë ose të dytë të zgjedhjeve për kryetar komune.
-Procedura dhe kushtet e pagesës dhe mohimi i kompensimit për kandidatët, në bazë të Nenit 87 të Kodit duhet të bëhet në mënyrë më të hollësishme.
-Kodi Zgjedhor (ose rregulloret) duhet të përcaktojë përmbajtjen dhe formatin e raporteve financiare që duhet të dorëzohen nga garuesit; në vecanti, forma aktuale e përshkruar nga Ministria e Financave duhet të ndryshohet meqenëse nuk i obigon garuesit të dorëzojnë të dhëna për harxhimet, gjë që e dëmton transparencën dhe dobinë e një raportimi të tillë.
-Neni 89 parasheh që KZ-të të marrin numrin e njejtë të fletvotimeve sa që ka votues në regjistër.
-Në rast se ka dalje të votuesve prej 100%, nuk do të kishtë fletëvotime të mjaftueshme që do t’u mundësonte votuesve zëvendësim të fletëvotimit.
-Prandaj, ky sistem nuk e merr parasysh që votuesit mund të bëjnë gabim dhe të kërkojnë korrigjim, meqë nuk ka asnjë fletëvotim shtesë në dispozicion.
-Mund të parashihet një fleksibilitet që do të mundësonte një përqindje të fletëvotimeve shtesë për çdo KZ.
 Neni 101(3) thotë: “Këshilli zgjedhor mund ta mbyllë vendvotimin para kohës që është paraparë në paragrafin 1 të këtij Neni, në rast se gjithë votuesit e regjistruar në regjistrin e listës së votuesve kanë hedhur votën e tyre.”
 Formulimi i këtij neni mund të bëjë ndonjë këshill zgjedhor të nënkuptojë se ata mund të mbyllin votimin dhe t’i numërojnë votat para kohës zyrtare për mbyllje (7 pas dite).
 Nëse ndodh kështu, numërimi i hershëm mund të humbë mundësinë e vëzhguesve që të jenë prezent gjatë numërimit, meqë ata nuk do të dinin paraprakisht se kur do të behej ai.
@@ -1183,6 +1168,104 @@ Kriteret në lidhje me cilësinë e propozimit do të merr notë prej 1 deri 10 
 8 = mirë
 9 = shumë mirë
 10 = shkëlqyeshëm
+Intervistë me Shefin e Misionit të OSBE-së në Shkup, ambasadorin Clemens Koja
+Jeni emëruar si Shef i Misionit të OSBE-së në Shkup në një kohë jashtëzakonisht të rëndësishme për Maqedoninë, kur hapet një mundësi për pranimin e vendit në BE dhe NATO, me kusht zbatimin e Marrëveshjes së emrit me Greqinë.
+Cilat janë prioritetet e mandatit tuaj në Maqedoni si Shef i Misionit të OSBE-së, cili do të jetë fokusi juaj?
+Ju faleminderit për mundësinë që ofron kjo intervistë për t'u prezantuar me audiencën tuaj.
+Jam shumë i kënaqur që më është besuar të udhëheqë Misionin e OSBE-së në Shkup.
+Kam kaluar disa vite në rajon, në Serbi dhe Slloveni, dhe gjithashtu kam shërbyer si Përfaqësues i Përhershëm i Austrisë në OSBE në Vjenë.
+E vlerësoj mirëseardhjen e ngrohtë që kam pranuar nga bashkëbiseduesit e shumtë me të cilët tashmë kam pasur rastin të takohem.
+Pres që të vazhdoj një dialog i hapur dhe të mbështes përpjekjet e vendit tuaj për të përmbushur më mirë angazhimet e OSBE-së.
+Lidhur me punën e Misionit, ne përqendrohemi në katër prioritete: përkrahjen për zbatimin e Marrëveshjes kornizë të Ohrit dhe avancimin e marrëdhënieve ndëretnike konstruktive; mbështetjen për përparimin në zbatimin e agjendës ambicioze të reformave të qeverisë në fushat që mbulohen nga mandati i Misionit; ndihmën në adresimin e kërcënimeve transnacionale (përfshi krimin e organizuar, krimet kibernetike, trafikimin e qenieve njerëzore, si dhe ekstremizmin dhe radikalizmin e dhunshëm që çojnë në terrorizëm); si dhe paralajmërimin e hershëm për zhvillimet lidhur me sigurinë.
+Ju ndërmorët postin më 17 shtator, menjëherë para referendumit mbi marrëveshjen me Greqinë.
+Vlerësimi juaj i referendumit, i cili u mbajt më 30 shtator; a ka fituar marrëveshja përkundër pjesëmarrjes së ulët?
+Isha shumë i lumtur të arrij këtu në kohën e referendumit, duke qenë i vetëdijshëm se sa është e rëndësishme kjo për vendin.
+Misioni që unë drejtoj nuk e vëzhgoi referendumin, sepse këtë ua lëmë kolegëve tanë në ODIHR.
+Megjithatë, jam i kënaqur që vlerësimi i ODIHR-it është se referendumi është "administruar në mënyrë të paanshme dhe se liritë themelore janë respektuar gjatë gjithë fushatës".
+Misioni ynë ka ndihmuar Komisionin Shtetëror të Zgjedhjeve të trajnojë stafin e angazhuar në votime, si dhe MPB-në të trajnojë zyrtarët policorë lidhur me detyrat e tyre në ditën e referendumit, siç kemi bërë në të kaluarën.
+Vlerësimi juaj lidhur me rrjedhën e referendumit, procesin e votimit.
+Kemi dëgjuar qëndrimin zyrtar të OSBE / ODIHR-it, por partia opozitare VMRO-DPMNE ka ngritur padi penale kundër më shumë se 200 personave nga këshillat zgjedhore, kryesisht nga komunat me popullsi shumicë shqiptare për shkak të abuzimeve gjatë referendumit?
+Në kuadër të organizimit institucional të OSBE-së, Zyra për Institucione Demokratike dhe të Drejtat e Njeriut (ODIHR) janë ekspertë për vëzhgimin e zgjedhjeve dhe referendumeve.
+Misioni i tyre vëzhgues funksionon në mënyrë të pavarur nga Misioni i OSBE-së në Shkup.
+Prandaj, duhet të mbështetem në ekspertizën dhe vlerësimin e tyre, përfshi deklaratën preliminare të tyre të publikuar më 1 tetor.
+ODIHR gjithashtu ka vëzhguar procesin e ankesave dhe kritikave, dhe mezi pres të lexoj konkluzionet dhe rekomandimet e tyre për tërë procesin në raportin e detajuar përfundimtar. Le të presim vlerësimin e ekspertëve të tyre.
+Maqedonia është në një udhëkryq të ri- mbështetja për ndryshimet kushtetuese që rrjedhin nga Marrëveshja e Prespës ose matja e forcave për zgjedhjet e parakohshme parlamentare.
+Z. Koja çfarë mendoni se është më e mira për vendin në këtë moment?
+Tani vendimi varet nga parlamenti dhe liderët politikë.
+Askush nuk mund ta ndërmarrë këtë vendim për ta, dhe unë nuk mund t'i këshilloj ata se cilin drejtim duhet zgjedhur.
+Unë vetëm do të thoja se kur çështjet e tilla të rëndësishme arrijnë në kuvend, deputetët kanë përgjegjësinë për të vënë interesin e vendit mbi të gjitha konsideratat e tjera.
+Nëse ndryshimet kushtetuese shkojnë përpara, atëherë unë do të ndjek me vëmendje debatin dhe do të pres që procesi të zhvillohet në përputhje me procedurat e përcaktuara dhe mundësinë për të dëgjuar të gjitha pikëpamjet.
+Nga ana tjetër, nëse Parlamenti voton për t’u shpërndarë dhe për të thirrur zgjedhje të parakohshme, pres që ODIHR të vijë dhe të monitorojë fushatën dhe votimin.
+Kreu i opozitës ka kërkesa të reja për qeverinë- zgjedhje të parakohshme me formimin e qeverisë së Përzhinës dhe prokurorit publik të propozuar nga opozita, ose anulimin e Marrëveshjes dhe mbajtjen e zgjedhjeve, që do të ndiqej me zgjedhjen e një prokurori publik të zgjedhur me konsensus të të gjitha partive, diçka e ngjashme me një Prokurori Speciale Publike (PSP) të re; janë kërkesat e tij realiste?
+LSDM akuzon [atë] se kërkon amnisti për ish-liderin e partisë Nikola Gruevski.
+A mendoni se vendi duhet të përballet me zgjedhje të reja?
+OSBE ka mbështetur vazhdimisht llogaridhënien, përfshi edhe për të gjitha abuzimet e supozuara të dëgjuara nga përgjimet.
+Misioni ynë ka monitoruar rastet e PSP-së në gjykatë që nga fillimi i tyre dhe ne vazhdojmë të monitorojmë gjykimet në vazhdim.
+Kohët e fundit kemi publikuar një raport të përkohshëm të gjetjeve tona, duke vënë në dukje sfidat e hasura dhe sukseset e arritura nga PSP dhe duke përfshirë një numër rekomandimesh që mund të kontribuojnë në përmirësimin e sistemit ligjor.
+Unë besoj se çështja e llogaridhënies ka të bëjë me sundimin e ligjit.
+Janë ngritur akuza serioze, aktakuza të konfirmuara nga gjykatat dhe gjykimet janë në rrjedhë.
+Të pandehurit kanë të drejtë për gjykim të drejtë, dhe natyrisht ata duhet të konsiderohen të pafajshëm derisa të dëshmohet fajësia.
+Unë besoj se epilogu i çështjes së përgjimit duhet të shkruhet përmes procesit ligjor.
+Z. Koja, a ka Maqedonia më në fund një sistem gjyqësor funksional, a ekziston sundimi i së drejtës?
+Sistemi gjyqësor në vend është përballur me shumë sfida në vitet e fundit.
+Ne besojmë fuqimisht se një sistem gjyqësor i pavarur, i paanshëm, efikas dhe transparent është themeli për një shtet me sundim të së drejtës.
+Jam i vetëdijshëm se po bëhen përpjekje të vazhdueshme për të përforcuar kapacitetin e gjyqësorit.
+Miratimi dhe zbatimi i legjislacionit të reformave është imperativ, por gjyqësori duhet gjithashtu të investojë në procesin e reformimit.
+Vetëm atëherë do të jetë e sigurt se administrimi i drejtësisë do të mbizotërojë.
+Ne ofrojmë mbështetjen tonë të palëkundur gjatë kësaj kohe të rëndësishme për vendin dhe pres që të punojmë me qeverinë dhe gjyqësorin për të përkrahur hartimin dhe zbatimin e ligjeve reformuese dhe për të ofruar trajnime për ngritjen e kapaciteteve.
+Vini nga Austria, ku kryeministri juaj Sebastian Kurz i dha mbështetje të plotë Marrëveshjes dhe hapjes së dyerve të NATO-s dhe BE-së për Maqedoninë.
+Keni qenë ambasador në Beograd dhe Lubjanë dhe jeni i njoftuar me rrethanat në rajon.
+Austria është anëtare e BE-së, por jo e NATO-s.
+Çfarë do të përfitojë Maqedonia me integrimin në këto dy aleanca?
+Jam krenar që kam shërbyer si ambasador austriak në Beograd dhe Lubjanë, por këtu në Shkup keni ambasadën austriake që mund t'i përgjigjet më mirë pjesës së parë të pyetjes suaj.
+Në rolin tim këtu me OSBE-në, natyrisht që jam i vetëdijshëm për prioritetet strategjike të vendit tuaj.
+Misioni ynë dëshiron të përkrahë sa më shumë që mundet planin e reformave të qeverisë suaj në fushat që janë nën mandatin tonë, përfshi sundimin e ligjit, kohezionin social dhe respektimin e të drejtave të njeriut.
+Lexuesit tuaj ndoshta e mbajnë në mend se kryesuesi i OSBE-së dhe Sekretari i Përgjithshëm publikisht mbështetën arritjen e Marrëveshjes së Prespës, ndërsa Sekretari i Përgjithshëm Greminger deklaroi se kjo mund të çojë në një zgjidhje afatgjatë për të mirën e të gjithë qytetarëve dhe të gjithë rajonit.
+Një nga qëllimet e OSBE-së në Maqedoni është menaxhimi i kufijve.
+Misioni ka prani të përhershme në terren në zonat kufitare të zonës së mëparshme të krizës, shkruhet ne webfaqen e Misionit të OSBE-së në Shkup.
+Çështja është në kontekstin e ideve gjithnjë e më të pranishme për një shkëmbim të mundshëm të kufijve mes Serbisë dhe Kosovës si një nga zgjidhjet për mosmarrëveshjen e tyre.
+A është Maqedonia e rrezikuar nga një mundësi e tillë?
+Natyrisht jemi të vetëdijshëm për deklaratat e liderëve në Beograd dhe Prishtinë, por nuk më përket mua të spekuloj për këtë çështje.
+Mendoj se suksesi i vendit tuaj në negocimin e një marrëveshjeje me Greqinë për kontestin e stërzgjatur është një shembull shumë pozitiv për të gjithë rajonin.
+Analisti amerikan Janush Bugajski kohët e fundit ka vlerësuar se Shkupi është një kështjellë e re ruse në Ballkan dhe se Kremlini llogarit Maqedoninë që përfundimisht të bëhet Republika Srpska e re.
+Komenti juaj mbi deklaratën e tij dhe a mendoni se vendi është aktualisht në mes të luftës për ndikim në rajon midis Perëndimit dhe Rusisë?
+Në vitin 2017, gjatë Kryesisë austriake të OSBE-së, shërbeja në Vjenë si kryetar i Këshillit të Përhershëm të OSBE-së.
+Në atë pozicion , isha dëshmitar i tensioneve në rritje ndërmjet disa prej shteteve pjesëmarrëse të OSBE-së.
+Por unë besoj që ju kontrolloni të ardhmen tuaj dhe nuk jeni peng në rivalitetet e të tjerëve.
+Pres që vendi juaj të përparojë drejt qëllimeve për të ndërtuar një demokraci të begatë, tolerante dhe multietnike.
+Si e vlerësoni lirinë e mediave? Disa vite më parë jemi vlerësuar si një shtet i kapur, me institucione të kapura dhe natyrisht, me media të kapura.
+A shihni një rreze drite dhe hapjen e hapësirës mediale për gazetari kritike, objektive dhe të pavarur?
+Për një dekadë, vendi ka pasur një rënie të konsiderueshme të lirisë së medias dhe është përballur me sfida në pluralizmin e medias dhe luftën kundër mosndëshkimit për krime kundër gazetarëve.
+Ne kemi parë përparim gjatë dy viteve të fundit, përfshi një përpjekje serioze nga ana e organeve të zbatimit të ligjit për të hetuar sulme të reja kundër gazetarëve.
+Megjithatë, ekzistojnë ende sfida të vazhdueshme, përfshi problemet themelore siç janë tregu i vogël mediatik dhe kushtet e këqija të punës për gazetarët.
+Jam krenar që Misioni ynë është duke punuar në një sërë aktivitetesh të dizajnuara për të rritur sigurinë e gazetarëve, si dhe ka organizuar një seminar mbi praktikat më të mira ndërkombëtare për mbështetjen e mundshme të qeverisë për mediat e shkruara në mënyrë që të ruajë pluralizmin në tregun mediatik.
+Përveç kësaj, do të organizojmë një tryezë të rrumbullakët për të shënuar Ditën ndërkombëtare për t'i dhënë fund mosndëshkimit për krimet kundër gazetarëve, më 2 nëntor, me qëllim ngritjen e vetëdijes në mesin e qytetarëve, komunitetit të medias, dhe institucioneve përkatëse për këtë çështje, si dhe ofrimin e zgjidhjeve të mundshme si t'i kundërvihemi më mirë kulturës aktuale të mosndëshkimit.
+Ministria e punëve të brendshme ka njoftuar së shpejti zbatimin e një verifikimi të plotë të të gjithë punonjësve të saj.
+Një nga misionet e OSBE-së është të ndihmojë Maqedoninë në krijimin e policisë së orientuar nga komuniteti, në përputhje me parimet demokratike dhe standardet ndërkombëtare të të drejtave të njeriut.
+Si e vlerësoni punën e policisë maqedonase e cila aktualisht është duke kaluar nëpër një proces reformash.
+A është verifikimi një mjet i suksesshëm për zyrtarët profesional të policisë?
+Misioni ynë është duke punuar me Byronë për Siguri Publike dhe me Ministrinë e punëve të brendshme (MPB) për të rritur profesionalizmin e shërbimit policor dhe për të siguruar pajtueshmërinë me standardet ndërkombëtare të të drejtave të njeriut dhe parimet e policimit demokratik.
+Reforma policore, sipas natyrës së saj, është një proces kompleks dhe homologët tanë të policisë e kanë pranuar atë në një mënyrë konstruktive.
+Ne jemi aktualisht në procesin e krijimit të grupeve punuese të përbashkëta me MPB-në për planifikimin e përmirësimit të burimeve njerëzore, trajnimin dhe sistemin disiplinues të policisë, të cilat janë elementë kryesorë të çdo organizate policore për të angazhuar dhe promovuar policët në bazë të meritave të tyre profesionale.
+Angazhimi i komunitetit është një tjetër gurthemel i policimit demokratik dhe ne përkrahim përpjekjet për të rritur hapjen dhe transparencën e shërbimit policor, si dhe për të rritur angazhimin e policisë me komunitetin.
+Sa i përket verifikimit, është një proces i pranuar ndërkombëtarisht që ndihmon në sigurimin e integritetit dhe llogaridhënies së punonjësve në administratën publike.
+Kjo është veçanërisht e rëndësishme për policinë, duke pasur parasysh ushtrimin e kompetencave të gjëra që kanë nëpunësit policor.
+Duke ndihmuar në sigurimin e integritetit të policisë, një proces i drejtë dhe transparent i verifikimit mund të ketë përfitim të shtuar të rritjes së besimit të publikut në policinë si një institucion.
+Një nga qëllimet e Misionit tuaj është avancimi i të drejtave të njeriut. Bashkëpunoni me Komisionin shtetëror për mbrojtjen nga diskriminimi dhe Avokatin e Popullit në miratimin e ligjeve për të drejtat e njeriut duke u bazuar në parimin e trajtimit të barabartë për të gjithë.
+Sa i respekton Maqedonia të drejtat e njeriut dhe ku do ta vendosni vendin sipas këtij parametri, në mesin e cilave vende?
+Anti-diskriminimi dhe trajtimi i barabartë janë fushat në të cilat Misioni ynë ka punuar për një kohë të gjatë.
+Ne shpresojmë që parlamenti të kalojë projektligjin e ri mbi parandalimin dhe mbrojtjen nga diskriminimi, i cili është plotësisht i harmonizuar me standardet ndërkombëtare.
+Pas miratimit dhe zbatimit, ky ligj së bashku me ndryshimet në Ligjin e Avokatit të Popullit, të miratuara në shkurt, do të sjellin vendin më afër demokracive të përparuara me institucione të fuqishme të pavarura në fushën e anti-diskriminimit.
+Megjithatë, sfidat mbeten: edhe legjislacioni më i mirë ka pak vlerë nëse nuk zbatohet në mënyrë efikase, përfshi sigurimin e burimeve të mjaftueshme buxhetore.
+Kapacitetet e institucioneve vendase të të drejtave të njeriut dhe të organeve të barazisë duhet të zhvillohen më tej, si dhe duhet të adresohet raportimi jo i mjaftueshëm i rasteve të diskriminimit, veçanërisht lidhur me grupet më të pambrojtura.
+Edhe këtu, Misioni ynë mbetet i përkushtuar për të përkrahur vendin në arritjen e këtyre qëllimeve.
+Misioni gjithashtu punon në parandalimin e gjuhës së urrejtjes dhe natyrisht, krimeve të urrejtjes.
+Vlerësimi juaj nëse Maqedonia është një vend ku ka shumë gjuhë urrejtjeje, veçanërisht në një konotacion politik, përpara referendumit, pas referendumit?
+Krimet e urrejtjes dhe gjuha e urrejtjes janë të papranueshme dhe paraqesin kërcënim potencial për marrëdhëniet ndëretnike dhe pajtimin politik.
+Shteti akoma nuk mbledh të dhëna sistematike për incidentet e urrejtjes, por të dhënat nga organizatat qytetare tregojnë se mos-toleranca në baza etnike, politike dhe fetare është një problem shqetësues.
+Duhet bërë më shumë për të çrrënjosur stereotipat e rrënjosura thellë brenda shoqërisë.
+Një trend shqetësues është edhe rritja e numrit të incidenteve të urrejtjes të kryera për shkak të përkatësisë politike para, gjatë dhe ndonjëherë edhe pas zgjedhjeve.
+Misioni do të vazhdojë të mbështesë organet e drejtësisë, gjyqësorin dhe shoqërinë civile në përforcimin e kapaciteteve të tyre për të adresuar incidentet e urrejtjes, për t’iu ofruar ndihmë viktimave të paragjykimeve ose urrejtjes, si dhe për të luftuar efektet e dëmshme të mostolerancës në mesin e shoqërisë.
 Misioni i Posaçëm i ODIHR-it për Vlerësimin e Zgjedhjeve Raporti përfundimtar
 Në përgjigje të ftesës nga autoritetet e Republikës së Maqedonisë së Veriut dhe në përputhje me mandatin e saj, Zyra për Institucione Demokratike dhe të Drejtat e Njeriut e OSBE-së (ODIHR) krijoi një Mision të Posaçëm për Vlerësimin e Zgjedhjeve (MPVZ) për zgjedhjet e parakohshme parlamentare që u mbajtën më 15 korrik.
 MPVZ-ja rifilloi procesin e vëzhgimit të zgjedhjeve filluar nga Misioni për Vëzhgimin e Zgjedhjeve i ODIHR-it (MVZ), i cili u pezullua në 17 mars pas futjes së kufizimeve për udhëtimet ndërkufitare në gjithë rajonin e OSBE-së për shkak të përhapjes së sëmundjes së koronavirusit (KOVID-19) në vitin 2019.
