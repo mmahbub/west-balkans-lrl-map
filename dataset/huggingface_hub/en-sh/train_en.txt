@@ -1,47 +1,3 @@
-Removing the obligatory ethnic declaration from article 64(3) and replacing it with the possibility to have names on a list printed in an original language should therefore be considered.
-The provisions on gender representation in candidate lists remain among the avant garde in Europe.
-Article 64(5) states that on lists for the Parliament and for local councils need to have “in every three places at least one will be reserved for the less represented gender.”
-According to Article 63 the list of candidates must contain, inter alia, information on candidates’ professions.
-In line with repeated recommendations from previous joint opinions, it should be considered whether such information is necessary and whether the absence of, or incorrect provision of, the profession is considered an “irregularity”.
-That would deny a candidate the right to stand for office.
-In its Final Report on the 2008 early parliamentary elections, the ODIHR suggested that Article 73 of the Election Code – providing for campaign period violations to be litigated in the Primary Courts – be elaborated to specify the subject of the complaint,16 potential defendants, form(s) of action (civil, misdemeanor and/or criminal), and possible remedies.
-The campaign procedure is not expressly regulated for second round elections – those for President of the Republic or for mayors.
-Article 74(1), states that campaigning must end “24 hours prior to election day”.
-It has to be understood that these provisions apply to the second round, but it would be preferable to make it clearer.
-In the 2007 Joint Opinion, in paragraph 27,17 the Venice Commission and the OSCE/ODIHR noted that in Article 181(2) a new paragraph has been introduced imposing a substantial fine for those not “respecting the timeframe for commencement and completion of the election campaign”.
-The definition of “election campaign” is very broad: “public presentation of candidates, confirmed by the authorized election management bodies, and their programs in the pre-election period of the respective election process”.
-Regular political activities seem to fall under the term and it seems unreasonable to be subject to a fine if a party makes “public presentations” of their candidates prior to the start of the 20-day campaign.
-The Electoral Code should make clear exactly what political activity is and is not permissible before the start of the official campaign period.
-It is recommended that early campaigning rules should only apply to special media regulations, such as free airtime, the allocation of clearly designated free space for posting of campaign material and the provision of state funding.
-Article 187 provides for a political party to be fined from 3,000 to 5,000 EUR for failing to report an election rally at least 48 hours prior to its holding and organising a rally contrary to Articles 81 and 82 of this Code.
-Article 81 requires the campaign organiser to inform the appropriate Ministry of Internal Affairs branch in writing, 48 hours in advance, whenever the organiser will hold “a pre-election rally on public places and on public transport places.”
-Article 82 delimits the places where such rallies may and may not be held.
-It is unclear whether a party and/or organiser would be fined if they fail to inform the Ministry of Internal Affairs of a rally that will not be held in a “public place” or on a “public transport” place (presumably roads, etc.).
-Article 187 suggests that, to avoid a fine, every rally regardless of location must be reported to the Ministry of Internal Affairs; while Articles 81 and 82 suggest that only those rallies that are held in “public” places require such an advisory.
-Article 187 appears overly restrictive as there are few valid reasons to punish a person or entity for failing to inform the Ministry of Internal Affairs of rallies that do not impact public locations or modes of transport.
-Many improvements have been made to the Code with respect to media coverage and monitoring.
-Particularly welcome is the adoption of a Rulebook governing timing, tariffs and equal access in broadcast media.
-Nevertheless, there are still no explicit requirements for fair and equitable coverage of the contestants in the news and current affairs programmes of electronic media.
-There should be more precise requirements on the coverage of the incumbents.
-Article 74(2) of the Electoral Code gives the Broadcasting Council a mandate to monitor media coverage of the elections not only during the official campaign period, but from the day of the announcement of the elections until the end of voting on election day.
-However, the Broadcasting Council competencies to regulate the media during the pre-campaign period are not clear in the Law on Broadcasting Activity.
-The laws would benefit from harmonisation on this point.
-The laws could also be harmonised on the issue of the amount of paid advertising by private broadcasters.
-The Electoral Code limits the amount of paid political advertising which media are allowed to broadcast to 15 minutes per hour; the Law on Broadcasting Activity permits a maximum of 12 minutes.
-The campaign finance provisions in Articles 83-87 have been clarified and strengthened in line with previous recommendations; however concerns remain.
-The provisions on campaign financing should be fortified to ensure genuine oversight of financing rules and to establish effective limits on donations and expenditures, as well as to clarify reporting and auditing procedures.
-Articles 83 and 84 of the Electoral Code should be reconsidered, with a view to abolishing exceptions for limits on campaign donations, which appear to undermine the intention of the law.
-For example, Article 83(2) allows campaigns to be funded “by the membership fee of the political party,” but no limit is provided.
-In order not to circumvent donation limits, the Code should prohibit such membership fees from exceeding the amounts allowed to individual or corporate contributors in that same paragraph, i.e. 5,000 and 20,000 Euro respectively.
-The auditing procedure should be enhanced to ensure oversight of the finances of all candidates who participate in an election.
-Additionally, there is no requirement in the Code for an interim financial report by a campaign organiser, despite previous recommendations to that effect.
-Article 83 does not allow expenditure from the general fund of political parties for the campaign.
-Thus, donations for the campaign appear to be allowed only after the current account has been opened.
-Donations to political parties that occur before the campaign starts may not be used for the campaign.
-Such provisions are overly restrictive.
-With the proper control mechanisms for financing political parties, it would be possible to allow expenditures from donations to parties that take place before the start of the campaign, or to allow the party to deposit earlier-received donations and unspent funds from previous campaigns into the current account.
-Article 83(1) prohibits election campaign financing by funds from joint ventures where foreign capital is dominant.
-It could be clarified whether the notion of foreign capital entails also capital invested into those joint ventures from legal entities registered in the country but which are owned by foreign natural persons or legal entities.
 The regulation of financing does not allow expenditure before the submission of a candidate list.
 It could be difficult to organise the formation of a candidate list, collect the signatures or plan the style or strategy for the campaign without expenditure.
 Consideration should be given to allow for expenditure a reasonable period prior to the date of submission of the list (for example one or two weeks), or perhaps to exclude certain “preparatory” expenditures from the control provided by the code.
@@ -1227,104 +1183,6 @@ The criteria related to the quality of the proposal will receive a score from 1 
 8 = good
 9 = very good
 10 = excellent
-Questions for the Head of the OSCE Mission to Skopje, Ambassador Clemens Koja
-You have become the head of the OSCE Mission at an exceptionally important moment for Macedonia, a possibility is opened for the country’s accession to the EU and NATO, the condition is the implementation of the Name Agreement with Greece.
-What are the priorities of your mandate in Macedonia as the Head of the OSCE Mission, what will be your focus?
-Thank you for the opportunity this interview provides to introduce myself to your audience.
-I am very pleased to have been entrusted to lead the OSCE Mission to Skopje.
-I have spent several years in the region in Serbia and Slovenia, and I have also served as Austria’s Permanent Representative to the OSCE in Vienna.
-I appreciate the warm welcome I have received from the many interlocutors of the Mission that I have already had the chance to meet.
-I look forward to continuing an open dialogue, and to supporting your country’s efforts to better fulfill its OSCE commitments.
-Regarding the Mission’s work, we will focus on four priorities: support for implementation of the Ohrid Framework Agreement and advancing constructive inter-ethnic relations; support for progress in implementing the government's ambitious reform agenda in areas covered by the Mission mandate; help to address Trans-National Threats (including organized crime, cybercrime, trafficking in human beings and violent extremism and radicalization that lead to terrorism); and early warning on security-related developments.
-You assumed the function on 17 September, immediately before the referendum on the Agreement with Greece.
-Your assessment of the referendum, which was held on 30 September; has the Agreement won the support despite the low turnout?
-I was very glad to arrive here in time for the referendum, knowing what an important time it is for the country.
-The Mission that I lead did not observe the referendum itself, as we leave that to our ODIHR colleagues.
-I was nevertheless pleased to see ODIHR’s assessment that the referendum was “administered impartially, and that fundamental freedoms were respected throughout the campaign.”
-At the Mission to Skopje, we helped the State Election Commission train polling staff and the MoIA to train police officers of their duties on referendum day, as we have done in the past.
-Your assessment on the course of the referendum, the voting process; we’ve heard the official stance of the OSCE/ODIHR, but the opposition VMRO-DPMNE filed criminal charges against more than 200 persons from election boards, mainly from municipalities with majority Albanian population due to abuses during the referendum?
-Within the OSCE institutional setting, the Office for Democratic Institutions and Human Rights are the experts for observing elections and referenda.
-Their observation mission functioned independently from the OSCE Mission to Skopje.
-Accordingly, I must rely on their expertise and assessment, including their Preliminary Statement on 1 October, which I referred to earlier.
-ODIHR has also observed the process of complaints and appeals, and I look forward to reading their conclusions and recommendations about the whole process in their detailed final report.
-Let’s wait for their expert assessment.
-Macedonia is at a new crossroad, support for the constitutional changes which derive from the Prespa Agreement or measuring up of forces at early parliamentary elections?
-Mr. Koja what do you think is the best for the country at the moment?
-It is now up to the parliament and the country’s political leaders to decide.
-No one can take this decision for them, and I cannot advise them on which direction to take.
-I would only say that when such important issues come before Parliament, the Deputies have the responsibility to put the country’s interest above all other considerations.
-If the constitutional amendments move forward, then I will follow the debate closely, and I would expect the process to unfold in line with established procedures and with an opportunity for all views to be heard.
-On the other hand, if Parliament votes to dissolve and to call for early elections, I expect that ODIHR would come and monitor the campaign and the voting.
-The Opposition leader has new demands for the Government, early elections with the formation of the Przino government and public prosecutor proposed by the Opposition or dismissal of the Agreement and elections, to be followed by the election of a public prosecutor with an all-party consensus, something akin to a new SPO; are his demands realistic?
-SDSM accuses [him] of demanding an amnesty for the former party leader Nikola Gruevski?
-Do you think that the country should face yet another election?
-The OSCE has consistently supported accountability, including for all of the alleged abuses heard in the wiretaps.
-Our Mission has monitored the SPO’s cases in court since their beginning, and we continue to monitor ongoing trials.
-We recently published an interim report of our findings, noting the challenges encountered and the successes achieved by the SPO, and including a number of recommendations that could contribute to the improvement of the legal system.
-I believe that the issue of accountability is about the rule of law.
-Serious allegations have been raised, indictments confirmed by the Courts, and trials are ongoing.
-The defendants are entitled to fair trials, and of course they must be presumed innocent until proven guilty.
-I believe that the epilogue of the wiretapping affair should be written through the legal process.
-Mr. Koja, does Macedonia finally have a functional judicial system, is there a rule of the law?
-The national judicial system has faced a lot of challenges in the past few years.
-We strongly believe that an independent, impartial, efficient and transparent judicial system is the foundation for a rule of law-based country.
-I know that efforts are underway to strengthen the capacity of the judiciary.
-Passage and implementation of reform legislation is imperative, but the judiciary must also invest itself in the reform process.
-Only then will it be certain that the administration of justice will prevail.
-We offer our unwavering support during this important time for the country and look forward to working with the government and the judiciary to support the drafting and implementation of reform laws and to provide capacitybuilding training.
-You come from Austria; your Prime Minister Sebastian Kurz gave full support to the Agreement and the opening of the NATO and EU doors for Macedonia.
-You have been an ambassador to Belgrade and Ljubljana; you know the circumstances in the region.
-Austria is a member of the EU member but not of NATO.
-What benefits will Macedonia have with the integration into these two alliances?
-I am proud to have served as Austrian Ambassador in Belgrade and Ljubljana, but here in Skopje you have an Austrian Embassy that can answer better the first part of your question.
-In my role here with the OSCE, I am of course aware of your country’s strategic priorities.
-Our Mission wishes to be as supportive as possible of your government’s reform plans in areas under our mandate, including rule of law, social cohesion and respect for human rights.
-As your readers may recall, the OSCE Chairperson and the Secretary General were publicly supportive when the Prespa Agreement was announced, with Secretary General Greminger saying that it could lead to a long-term solution for the benefit of all citizens and the entire region.
-One of the missions of the OSCE in Macedonia is the border management.
-The Mission maintains a permanent field presence in the border zones of the former crisis area, reads the website of the OSCE Mission to Skopje.
-The question is in the context of the ever more present ideas for a possible exchange of borders between Serbia and Kosovo as one of the solutions for their dispute.
-Is Macedonia endangered by such possibility?
-We are of course aware of the statements by leaders in Belgrade and Pristina, but it is not my place to speculate on the issue.
-I do think that this country’s success in negotiating an agreement with Greece on your long-standing dispute is a very positive example for the entire region.
-The American analyst Janusz Bugajski has recently assessed that Skopje is a new Russian stronghold in the Balkans and that Kremlin is counting on Macedonia eventually becoming the new Republika Srpska.
-Your comment on his statement and do you think that the country is currently in the midst of the struggle for influence in the region between the West and Russia?
-In 2017, during Austria’s Chairmanship of the OSCE, I served in Vienna as the Chair of the OSCE Permanent Council.
-In that position I witnessed the rising tensions between some of the participating States.
-But I believe that you control your own future and are not pawns in the rivalries of others.
-I look forward to your country making progress toward your own goals of building a prosperous, tolerant and multi-ethnic democracy.
-How do you assess the freedom of the media; few years ago we have been assessed as a captured state, with captured institutions and of course, captured media?
-Do you see a ray of light and opening up of the media space for critical, objective, independent journalism?
-For a decade the country did see a substantial decline in media freedom, and faced challenges in media pluralism and combating impunity for crimes against journalists.
-We have seen progress over the last two years, including a serious effort by law enforcement to investigate new attacks against journalists.
-Persistent challenges still exist, however, including basic problems such as the small size of the media market and poor working conditions for journalists.
-I am proud that our Mission is working on a broad series of activities designed to increase the safety of journalists, and has hosted a workshop on international best practices for possible government support of print media in order to maintain pluralism on the media market.
-In addition, we are organizing a roundtable discussion to mark the International Day to End Impunity for Crimes against Journalists, on 2 November, with an aim to raise awareness among citizens, media community and relevant institutions about this issue, but also to offer possible solutions how to better counter the present culture of impunity.
-The Macedonian Interior Ministry has announced soon implementation of a full vetting of all of its employees.
-One of the missions of the OSCE is to help Macedonia create community oriented police, in line with the democratic principles and international human rights standards.
-How do you asses the work of the Macedonian Police which is currently undergoing a reform process; is the vetting a successful tool for professional police officers?
-Our Mission is working with both the Bureau for Public Security and the Ministry of Internal Affairs to enhance the professionalism of the police service and to ensure compliance with international human rights standards and democratic policing principles.
-Police reform, by its very nature, is a complex process and our police counterparts have embraced it in a constructive manner.
-We are currently in the process of putting together joint working groups with the MoIA to plan the way forward to improve the police human resources, training, and discipline systems, key elements of any police organization committed to hire, promote, and assign officers on the basis of professional merit.
-Community engagement is another cornerstone of democratic policing, and we are supporting efforts to increase the openness and transparency of the police service, as well as to increase police engagement with the community.
-As to vetting, it is an internationally recognized process to help ensure the integrity and accountability of employees in public administration.
-This is especially relevant to policing given the extensive powers police officers exercise.
-By helping to ensure the integrity of the police, a fair and transparent vetting process can have the added benefit of increasing public trust in the police as an institution.
-One of the goals of your Mission is the advancement of the human rights.
-You cooperate with the State Commission for Protection against Discrimination and the Ombudsman in the enactment of laws on human rights based on the principle of equal treatment for all.
-How much does Macedonia respect the human rights and where would you place the country according to this parameter, among which countries?
-Anti-discrimination and equal treatment are areas in which our Mission has worked for a long time.
-We hope parliament will pass the new draft Law on the Prevention and Protection from Discrimination, which is fully aligned with international standards.
-Once passed and implemented, this law, together with the amendments to the Ombudsman Law passed in February, will bring the country closer to advanced democracies with strong independent institutions in the field of anti-discrimination.
-Nevertheless, challenges remain: even the best legislation is of little value if it is not effectively enforced, including through the provision of sufficient budgetary resources.
-The capacities of the national human rights institutions and equality bodies should be further developed and the underreporting of cases of discrimination, especially in respect to the most vulnerable groups, should be addressed.
-Here too, our Mission remains committed to supporting the country in achieving these goals.
-The Mission also works on prevention of hate speech and naturally, hate crime.
-Your assessment on whether Macedonia is a country where there is too much hate speech, particularly in a political connotation, ahead of the referendum, post referendum?
-Hate crime and hate speech are unacceptable and represent a potential threat to interethnic relations and political reconciliation.
-The state does not yet collect systematic data on hate incidents, but data from civic organizations indicates that intolerance on ethnic, political, and religious grounds is a significant problem.
-More needs to be done to deconstruct deeplyrooted stereotypes within the society.
-One worrying trend is the increase of hate incidents committed due to political affiliation before, during, and sometimes after elections.
-The Mission will continue to support national criminal justice agencies, the judiciary and civil society in strengthening their capacity to address hate incidents, provide assistance to the victims of bias or hate, and combat the detrimental effects of intolerance upon society.
 ODIHR Special Election Assessment Mission Final Report
 Following an invitation from the authorities of the Republic of North Macedonia and in accordance with its mandate, the OSCE Office for Democratic Institutions and Human Rights (ODIHR) deployed a Special Election Assessment Mission (SEAM) for the 15 July early parliamentary elections.
 The SEAM resumed the election observation process commenced by the ODIHR Election Observation Mission (EOM) which was suspended on 17 March following the introduction of restrictions on cross-border travel throughout the OSCE region related to the outbreak of the 2019 coronavirus disease (COVID-19).
@@ -6408,6 +6266,400 @@ Media should provide more equitable space for political parties representing sma
 Voter education and awareness campaigns, including on the right to vote without fear of retribution, should target minority communities and possibly be conducted in their languages.
 VOTING, COUNTING AND TABULATION
 To  encourage  equal  participation  of  persons  with  disabilities  in  elections,  the  election administration should take further measures to improve the accessibility of polling stations.
+OSCE Office for Democratic Institutions and Human Rights
+Election Observation Mission
+The former Yugoslav Republic of Macedonia
+Presidential and Early Parliamentary Elections, 13 and 27 April 2014
+INTERIM REPORT
+10 – 26 March  31 March
+I. EXECUTIVE SUMMARY
+The presidential election will be held on 13 April, with a possible second round on 27 April.
+After a disagreement between the two parties in the governing coalition over the nomination of a consensual presidential candidate, the parliament was dissolved on 5 March and early parliamentary elections were called for 27 April.
+The January amendments to the Electoral Code represent an effort to address the majority of prior OSCE/ODIHR recommendations.
+However, a number of issues of concern remain unaddressed, including the inequality of the in-country and out-of-country votes in parliamentary elections and the 40 per cent turnout requirement in the second round of presidential elections.
+The three-level election administration, headed by the State Election Commission (SEC), has generally met all legal deadlines to date.
+SEC sessions attended by the OSCE/ODIHR EOM were conducted professionally and minutes of each session were published on the SEC website.
+On several occasions, members voted along party lines, resulting in tension.
+Four candidates will contest the presidential election.
+The deadline for submission of candidate lists for the early parliamentary elections is 29 March.
+The presidential election campaign officially started on 24 March, while the campaign for early parliamentary elections starts on 5 April.
+Presidential candidates started promoting their candidacies during visits across the country before this date.
+The SEC heard two complaints filed by the Social Democratic Union of Macedonia (SDSM) alleging early campaigning.
+The SEC upheld the first complaint and dismissed the second.
+The start of the campaign has been marked by ethnically divisive rhetoric.
+The Prime Minister called on ethnic Macedonians to give VMRO-DPMNE a clear majority of 62 seats to avoid pressure from the Democratic Union for Integration (DUI), and the DUI leader called on ethnic Albanians to give his party 25 seats so that they have more leverage in government.
+The Electoral Code obliges broadcast media to cover the campaign in a fair, balanced and unbiased manner.
+All presidential candidates are entitled to equal coverage, while contestants in the parliamentary race are covered proportionally based on the number of candidate lists they register.
+New provisions of the Code outline detailed requirements for election coverage by the public broadcaster, Macedonian Radio and Television, during the election campaign.
+The legal framework regulating party and campaign finance was amended in January 2014 to address major issues raised following the last elections, including the limits for donations.
+II. INTRODUCTION
+Following an invitation from the Ministry of Foreign Affairs, the OSCE Office for Democratic Institutions and Human Rights (OSCE/ODIHR) established an Election Observation Mission (EOM) on 10 March.
+The OSCE/ODIHR EOM is led by Ambassador Geert-Hinrich Ahrens and consists of 11 experts based in Skopje and 20 long-term observers deployed throughout the country.
+Mission members are drawn from 17 OSCE participating States.
+Participating States have been requested to second 300 short-term observers to observe early voting, opening, voting, counting and tabulation for the 27 April early parliamentary elections and the possible second round of the presidential election.
+Due to the lack of secondments of short-term observers, the OSCE/ODIHR is not in a position to conduct the envisaged systematic and comprehensive observation of election day proceedings for the 13 April presidential election.
+III. BACKGROUND AND POLITICAL CONTEXT
+In line with constitutional and legal provisions, the presidential election will be held on 13 April with a possible second round scheduled for 27 April.
+Parliament was dissolved on 5 March at the initiative of the Democratic Union for Integration (DUI) and early parliamentary elections were set for 27 April.
+Even though the opposition supported the initiative for early elections, they characterized this decision as an excuse for the governing parties to call elections while opinion polls are in their favour to win another four-year term.
+The incumbent President Gjorge Ivanov, who is affiliated with the governing Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity (VMRO-DPMNE), will run for a second term.
+In this election he will be challenged by Stevo Pendarovski, affiliated with the opposition Social Democratic Union of Macedonia (SDSM); Iljaz Halimi, the only ethnic Albanian candidate, affiliated with the Democratic Party of Albanians (DPA); and Zoran Popovski, affiliated with the recently-formed Citizens Option for Macedonia (GROM).
+All major political parties have announced to run in the early parliamentary elections.
+DUI originally announced that it would boycott the presidential election and call for early parliamentary elections citing that its coalition partner VMRO-DPMNE ignored its calls to nominate a consensual candidate who could represent both the ethnic Macedonian and ethnic Albanian communities.
+The party’s leader, Ali Ahmeti, subsequently stated that they would encourage the ethnic Albanian community to abstain from voting in order to prevent reaching the 40 per cent voter turnout requirement in the second round and thus make the presidential election fail.
+IV. LEGAL FRAMEWORK AND ELECTORAL SYSTEM
+Elections are regulated mainly by the Constitution and the Electoral Code.
+The Electoral Code was last amended on 24 January 2014.
+It represents an effort to address the majority of prior OSCE/ODIHR recommendations.
+These amendments include safeguards for the separation of party and state; clarified party and campaign finance regulations and strengthened reporting requirements; a right for political parties to inspect and request changes in the voter list; new deadlines for courts to decide on media offences and for the State Election Commission (SEC) and the State Commission for the Prevention of Corruption (SCPC) to forward cases to the courts.
+However, a number of issues remain unaddressed, most notably: restrictive regulations related to the definition and length of the campaign; the inequality of the in-country and out-of-country votes; the 50 per cent threshold to win the presidential election in the first round and the 40 per cent turnout requirement in the second round; and lack of auditing and sanctions for non-submission of pre-election campaign finance reports.
+The President is elected in a single constituency by general and direct suffrage by secret ballot for a term of five years under a majoritarian system.
+The same person may not be elected as president more than twice.
+To be elected in the first round, a candidate must receive votes from more than 50 per cent of the total number of registered voters.
+Otherwise, a second round is held in two weeks between the two candidates who received the highest numbers of votes in the first round.
+In the second round, the candidate with the most votes wins, provided that there is a higher than 40 per cent turnout.
+Otherwise, the entire election process is repeated.
+Parliament is elected for a four-year term.
+Out of 123 elected members, 120 are elected under a proportional representation system, in the 6 electoral districts.
+The remaining three are elected in a majoritarian system in three out-of-country districts of Europe and Africa, North and South America, and Australia and Asia.
+There is no threshold requirement for the proportional contest.
+However, the out-of-country candidates have to win at least two per cent of the total registered voters in the respective district in order to be elected.
+In past elections, the small number of voters who registered and voted abroad raised questions about the equality of the in-country and out-of-country votes.
+V. ELECTION ADMINISTRATION
+Elections are administered by a three-level election administration: the SEC, 80 Municipal Election Commissions (MECs), 3,480 Election Boards (EBs) in-country and 34 EBs in the Diplomatic-Consular Offices (DCOs).
+The SEC is a permanent body responsible for the overall conduct of elections.
+It is composed of seven members appointed by the parliament for a four-year term.
+The SEC president and two members are nominated by opposition parties, and the vice-president and three members by the governing parties.
+The SEC sessions are open to accredited observers and the media.
+In general, the SEC has met legal deadlines to date and its sessions attended by the OSCE/ODIHR EOM were conducted in a professional manner.
+With minutes of each session published on the SEC website within 48 hours as required by law.
+However, the SEC sessions when deciding on requests from DUI and SDSM for changes in the voter list were tense and voting was along party lines (See section on Voter Registration).
+The MECs are responsible for administering elections in their respective municipality.
+They appoint EBs and monitor their work.
+EBs are responsible for the conduct of the elections on election day.
+MECs and EBs each have a president, four members and their deputies.
+MEC members are randomly selected from among the employees working in the local administration.
+EBs are composed using a mixed professional-political model with one member nominated by the governing political parties, one by the opposition parties, and three members randomly selected from public service employees.
+Similarly, EBs are formed for the polling stations opened in the DCOs abroad, with the president nominated from among the diplomats employed in that DCO.
+In line with international good practice and following a previous OSCE/ODIHR recommendation, the Electoral Code was amended with a provision that requires EB presidents to hold a university degree and members to have secondary education.
+The OSCE/ODIHR EOM was informed by some MECs that this was creating some difficulties in identifying the required number of qualified people.
+Two trainings were conducted by the SEC for MECs on 5 March and 26 March throughout the country.
+The Electoral Code provisions for equitable ethnic and gender representation of the election administration have been observed.
+VI. VOTER REGISTRATION
+Citizens who are over 18 on election day, have residency in the respective electoral district, have a valid biometric identification card (ID) or passport, and have not been deprived of their legal capacity by a court decision, are included in the voter lists for in-country voting.
+In order to vote abroad, an eligible voter must be registered with a respective DCO as temporarily living or working abroad.
+Although the Constitution does not require a person to have residency in-country in order to be an eligible voter, the Electoral Code stipulates that only people with in-country residency shall be included in the voter list.
+According to the Electoral Code, the SEC is responsible for the voter lists based on information they receive from the Ministry of Internal Affairs (MoI), which keeps the records of citizenship and residency, and issues biometrical IDs and passports.
+In addition, the Ministry of Justice (MoJ) provides information about deceased people to the SEC.
+Amendments to the Electoral Code allow political parties to challenge the voter lists based on copies provided to them by the SEC.
+Two complaints were filed with the SEC under this provision, one by DUI and the other by SDSM, requesting changes to be made to 453 and 14,492 names respectively.
+The SEC initially requested the MoI to address these requests; however, the MoI responded that they had provided the information required by the law and the responsibility now rested with the SEC.
+Subsequently the SEC rejected these requests by voting along party lines.
+SDSM and DUI appealed to the Administrative Court which rejected the complaints based on documents provided by the MoI.
+No independent investigation was conducted into the matter by the MoI.
+The deadlines for closing the voter lists are different for the presidential and parliamentary elections.
+This will result in the creation of two different voter lists.
+According to the SEC, 1,779, 572 citizens are registered to vote for the presidential election, of which 8,332 are voters temporarily working or residing abroad who registered to vote out-of-country.
+During the public inspection period, approximately 74,400 people checked their registration in the voter list for the presidential election at the SEC regional offices, and approximately 115,400 people checked their data through the Internet.
+The voter lists for the early parliamentary elections will be finalized on 9 April.
+VII. CANDIDATE REGISTRATION
+The right to stand as a presidential candidate is granted to citizens who have the right to vote, are at least 40 years old and have lived in the country for at least 10 years within the last 15 years.
+A nomination for president must be supported by 10,000 voters or 30 members of parliament.
+The signatures of support must be provided in front of SEC representatives in one of the 34 SEC regional offices.
+The SEC decided to open a SEC regional office in each of the 80 municipalities, in order to expedite the process.
+Two nominees, who failed to collect the required number of signatures alleged that having to provide signatures in front of a state official was intimidating and that the number of required signatures was too high.
+Neither filed an official complaint.
+Parliamentary elections may be contested by candidates nominated by political parties, coalitions of political parties, or by independent candidates nominated by groups of voters.
+Nominations can be submitted to the SEC until 29 March.
+Every citizen with voting rights is eligible to stand as a candidate in parliamentary elections.
+Those who are serving a prison sentence of at least six months for a criminal offence are not eligible to run.
+In an effort to encourage the participation of women, the Electoral Code provides that at least one name out of three consecutive places on a candidate list should be reserved for the less-represented gender.
+VIII. CAMPAIGN ENVIRONMENT
+The presidential election campaign officially began on 24 March, while the campaign for the early parliamentary elections starts on 5 April.
+Candidates started meeting with citizens during visits across the country before this date.
+In mid-March, President Ivanov visited 70 towns and villages.
+On 23 March, he presented his election program.
+On 16 March, Mr. Pendarovski held a 50-person gathering in Prilep.
+On 21 March, the DPA held a rally with 350 people in Gostivar to promote and call on ethnic Albanians to vote for Mr. Halimi.
+Moreover, both the President and the Prime Minister, whose own parliamentary campaign does not officially commence until 5 April, have publicly promoted reports on the VMRO-DPMNE’s record in office.
+The DUI also presented a report on its achievements since the 2011 elections on 22 March.
+All four presidential candidates and their affiliated political parties held rallies on 24 March to officially open the campaign.
+VMRO-DPMNE held a rally in Ohrid; SDSM, GROM and DPA held rallies in Skopje.
+DUI held a rally in Kičevo calling on supporters not to vote because the country needed a consensual candidate for president who is acceptable to all citizens.
+The campaign is expected to focus on the economy, employment, education and social reforms.
+Another key issue is the country’s Euro-Atlantic integration prospects, a key goal of all presidential candidates and main party leaders.
+The start of the campaign has already been marked by ethnically divisive rhetoric.
+Prime Minister Gruevski called on ethnic Macedonians to give the VMRO-DPMNE a clear majority of 62 seats to avoid pressure from the DUI and Mr. Ahmeti called on ethnic Albanians to give his party 25 seats so that they have more leverage in government.
+Some party leaders informed the OSCE/ODIHR EOM that intimidation and pressure by state authorities is expected to be an issue in the campaign.
+Even before the official start of the campaign for early parliamentary elections, allegations of corruption and personal attacks are being exchanged between the two main ethnic Macedonian parties (VMRO-DPMNE and SDSM) and between the two main ethnic Albanian parties (DUI and DPA).
+IX. CAMPAIGN FINANCE
+The legal framework regulating party and campaign finance was amended in January 2014 to address a number of issues raised following the last elections.
+Contestants are obliged to register a unique tax number and to open a separate bank account.
+All campaign-related financial transactions must go through this bank account.
+Each electoral contestant may not spend more than MKD 180 (approx. 3 EUR) per registered voter, a total sum of approximately EUR 5 million.
+Contestants are reimbursed for election expenses by the state budget with MKD 15 (approx. 0.25 EUR) for each vote won, provided that they have obtained at least 1.5 per cent of the total number of votes cast.
+In response to OSCE/ODIHR recommendations, recent amendments to the Law on Political Party Financing introduced new limits on donations.
+Eligible private persons are allowed to donate up to the equivalent of EUR 5,000 in national currency, while legal entities may donate up to EUR 50,000.
+Anonymous donations are prohibited, as well as those from state, public, municipal or foreign sources, citizens' associations, and religious communities.
+Electoral contestants have to submit four detailed financial reports on a template provided by the Ministry of Finance (MoF), including one before both election days.
+The reports have to be submitted to the SEC, the State Audit Office (SAO) and the SCPC and must be published on the website of these institutions.
+The SAO reviews the final financial reports within 60 days from submission.
+There is no auditing of the pre-election financial reports or sanctions for non-submission.
+X. THE MEDIA
+The Electoral Code obliges broadcast media to cover the campaigns in a fair, balanced and unbiased manner.
+All presidential candidates are entitled to equal coverage, while electoral contestants in the parliamentary race are covered proportionally, based on the number of candidate lists they register.
+New provisions in the Electoral Code outline detailed requirements for newscasts aired on the public broadcaster, Macedonian Radio and Television (MRT) in the course of the election campaign: one third of the newscasts are to be devoted to local and international events, one third to the activities of ruling political parties, and one third to the activities of the political parties in opposition.
+Those political parties who did not participate in the previous parliamentary elections and do not have seats in parliament are not entitled to any coverage during these newscasts.
+The MRT is obliged to allocate free time to all electoral contestants and air them between 16:00 and 23:00.
+On 21 March, MRT decided to provide each presidential candidate with 15 minutes of free airtime for presentations in the week that precedes election day.
+During the campaign, private broadcasters are entitled to sell up to 12 minutes per hour for paid political advertisements, with a maximum of 8 minutes per hour per each electoral contestant.
+The Agency for Audio and Audiovisual Media Services (AVMS) is the key media regulatory body responsible for conducting media monitoring and initiating misdemeanor procedures in cases of identified violations.
+On 21 March, the AVMS adopted ‘Specifics of the monitoring methodology for the 2014 Electoral Process’.
+While not legally binding, this document clarifies the legal requirements for media coverage of the campaigns, including the period when the presidential and parliamentary campaigns overlap.
+The AVMS has initiated two misdemeanor procedures against MRT-2 and TV Sitel for not publishing all legally required information when publishing public opinion polls, and two against TV Boem for airing paid political advertisements before the official start of the campaign.
+On 11 March, the OSCE/ODIHR EOM Media Monitoring Unit commenced qualitative and quantitative media monitoring of eight television channels and four daily newspapers.
+The monitoring will cover both the presidential and parliamentary campaigns as well as the period before the official start of the campaign.
+XI. COMPLAINTS AND APPEALS
+The complaints and appeals framework for both elections provides for the protection of electoral rights at each stage of the electoral process.
+Complaints may be filed by candidates, or submitters of candidate lists, as well as by voters in a limited number of cases.
+Complaints are heard by the SEC, the Basic Courts, the Courts of Appeal and the Administrative Court.
+There are different timeframes for filing and deciding different types of complaints varying from 24 hours to 7 days.
+The SEC cannot impose sanctions but has to forward the cases to the competent court for the initiation of proceedings.
+There is no deadline prescribed for the court to decide on these cases.
+On 25 March the SEC heard two complaints filed by SDSM alleging early campaigning.
+The SEC upheld the first complaint where the SDSM alleged that President Ivanov had engaged in early campaigning on 14 March.
+The second complaint that alleged early campaigning by VMRO-DPMNE by holding a public event on 16 March promoting the government’s achievements was rejected on the ground that candidate lists for the early parliamentary elections had not yet been confirmed.
+XII. CITIZEN AND INTERNATIONAL OBSERVERS
+The Electoral Code provides for citizen and international election observation.
+Citizen observer groups must be registered at least one year prior to election day and include the protection of human rights in their statute.
+The citizen observer organizations MOST and CIVIL plan to deploy observers.
+In addition, each submitter of a candidate list has the right to appoint an authorized representative and a deputy to follow the work of the election administration, including on election day.
+XIII. MISSION ACTIVITIES
+The OSCE/ODIHR EOM commenced its work on 10 March.
+The Head of the Mission has met with the President, the Prime Minister, SEC, and other high-level officials, the four presidential candidates, political parties and diplomatic representatives.
+The EOM has also established contacts with representatives of media, civil society and other electoral stakeholders.
+The Parliamentary Assembly of the Council of Europe (PACE) is planning to deploy observer delegations for both elections, while the OSCE Parliamentary Assembly will deploy a delegation to observe the early parliamentary elections on 27 April.
+INTERNATIONAL ELECTION OBSERVATION MISSION (IEOM)
+The former Yugoslav Republic of Macedonia
+Presidential Election, 13 April 2014
+STATEMENT OF PRELIMINARY FINDINGS AND CONCLUSIONS
+Skopje, 14 April 2014 – This Statement of Preliminary Findings and Conclusions is the result of a common endeavour involving the OSCE Office for Democratic Institutions and Human Rights (OSCE/ODIHR) and the Parliamentary Assembly of the Council of Europe (PACE).
+Ambassador Geert-Hinrich Ahrens (Germany) is the Head of the OSCE/ODIHR Election Observation Mission, deployed from 10 March 2014.
+Stefan Schennach (Austria) headed the delegation of the PACE.
+The assessment was made to determine whether the election complied with OSCE commitments and Council of Europe standards for democratic elections, as well as international obligations and domestic legislation.
+This Statement of Preliminary Findings and Conclusions is delivered prior to the completion of the election process.
+The final assessment of the elections will depend, in part, on the conduct of the remaining stages of the election process, including the count, the tabulation and announcement of results, and the handling of possible post-election day complaints or appeals.
+The OSCE/ODIHR will issue a comprehensive final report, including recommendations for potential improvements, some eight weeks after the completion of the election process.
+PRELIMINARY CONCLUSIONS
+The 13 April 2014 presidential election was efficiently administered and the campaign was active.
+The candidate registration process was inclusive and candidates were able to campaign freely.
+Although fundamental freedoms were respected, bias media coverage and a blurring of state and party activities did not provide a level playing field for candidates to contest the election, contrary to paragraphs 5.4 of the 1990 OSCE Copenhagen Document and Council of Europe standards.
+Recent amendments to the Electoral Code addressed some of the prior OSCE/ODIHR recommendations.
+While it is not a good practice to amend fundamental elements of the legal framework less than one year before an election, the recent amendments enjoyed cross-party consensus and were passed after public consultations.
+However, a number of inconsistencies and issues of concern remain unaddressed, including the 40 per cent turnout requirement in the second round of the presidential contest that could lead to cycles of failed elections.
+In addition, the lengthy residence requirement to be eligible to stand as a candidate is at odds with OSCE commitments, Council of Europe standards, and other international obligations.
+In general, the State Electoral Commission (SEC) functioned efficiently and most sessions were open to accredited observers and to the media.
+However, at times, tension among the members was evident when members made long political interventions and they voted along party lines on all politically contentious issues.
+In addition, the SEC failed to communicate effectively with the Municipal Election Commissions (MECs) on several issues causing some confusion regarding the procedures.
+The total number of voters registered for this election was 1,779,572.
+Many interlocutors raised the issue of large numbers of voters residing at the same address where they do not appear to live as a concern.
+The many agencies involved in the creation of voter lists, their overlapping responsibilities, and the lack of a centralized electronic database makes voter lists compilation problematic and complicated.
+The presidential election was held against the background of early parliamentary elections.
+Parliament was dissolved following the disagreement between the two parties in the governing coalition over the nomination of a consensual presidential candidate.
+In the presidential election, incumbent President Gjorge Ivanov, who was running for a second term, was challenged by Stevo Pendarovski, Iljaz Halimi, the only ethnic Albanian candidate, and Zoran Popovski.
+The campaign was active and candidates engaged in a vigorous schedule of rallies.
+The language used by the presidential candidates was mostly moderate, however, as election day approached, increasingly negative rhetoric was observed between the leaders of the governing Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity and the opposition Social Democratic Union of Macedonia.
+In addition, there was a steady stream of strong accusations of past and present corruption within the ethnic Albanian bloc.
+The Democratic Union for Integration (DUI) ran a concurrent campaign entitled “No to a One-Sided President,” appealing to ethnic Albanians to refrain from voting in the presidential election.
+Gender representation criteria were respected in the election administration bodies.
+However, women were underrepresented in the rallies observed by the OSCE/ODIHR EOM, and gender issues were not addressed in candidates’ programmes.
+All presidential candidates were male.
+The incumbent’s significant advantage in resources resulted in his predominance in paid billboards and posters.
+In addition, the incumbent’s rallies heavily featured the prime minister and other cabinet ministers.
+The clear support of government for Mr. Ivanov during the campaign contributed to an uneven playing field and did not fully respect the separation of party and state, as required in paragraph 5.4 of the 1990 OSCE Copenhagen Document, as well as Council of Europe standards.
+In compliance with previous OSCE/ODIHR recommendations, the January 2014 amendments to the campaign finance regulations established a clear ceiling for donations by legal entities and included a requirement for contestants to submit financial reports one day prior to the second round of election.
+While the new campaign finance legislation clarified some regulations, it does not provide for full transparency.
+Despite a large number of media outlets, many IEOM interlocutors alleged the indirect control of the ruling party over the media because of their dominance in the advertising market.
+In addition, a lack of political analyses and independent reporting was widespread.
+The phenomenon of self-censorship was noted by media stakeholders.
+Failure by the public broadcaster to provide balanced and equal coverage challenges paragraph 7.8 of the 1990 OSCE Copenhagen Document.
+The electoral dispute resolution mechanism is ineffective.
+In addition, the lack of deadlines to resolve election-related cases impacts timely legal redress.
+Also, voters can only challenge decisions on voter registration and the violation of their voting rights on election day.
+These deficiencies did not fully guarantee effective redress as required by paragraph 5.10 of the 1990 OSCE Copenhagen Document and Council of Europe standards.
+On election day, the administration in the limited number of polling stations visited by the IEOM was procedurally well-prepared and the voting process was administered efficiently.
+However in one municipality the voting process was problematic and a greater number of irregularities were noted.
+The vote count was carried out in a professional and transparent manner.
+The tabulation process was generally well organized, although there were many small discrepancies in the results protocols, which were corrected by the MECs.
+PRELIMINARY FINDINGS
+Background
+In line with constitutional and legal provisions, the presidential election was held on 13 April with a possible second round scheduled for 27 April.
+Parliament was dissolved on 5 March at the initiative of the Democratic Union for Integration (DUI), and the third successive early parliamentary elections were set for 27 April, concurrently with the possible second round of the presidential election.
+Even though the opposition supported the initiative for early elections, they characterized this decision as an excuse for the governing parties to call elections while opinion polls were in their favour to win another four-year term.
+The incumbent President, Gjorge Ivanov, who is affiliated with the Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity (VMRO-DPMNE), is running for a second term.
+In this election, he was challenged by Stevo Pendarovski, affiliated with the opposition Social Democratic Union of Macedonia (SDSM); Iljaz Halimi, the only ethnic Albanian candidate, affiliated with the Democratic Party of Albanians (DPA); and Zoran Popovski, affiliated with the recently-formed Citizens Option for Macedonia (GROM).
+The DUI announced that it would boycott the presidential election because its coalition partner VMRO-DPMNE ignored its calls to nominate a consensual presidential candidate who would represent both the ethnic Macedonian and ethnic Albanian communities.
+Legal Framework and Electoral System
+Elections are regulated by the Constitution and the Electoral Code; the Electoral Code was last amended on 24 January 2014 and addressed some of prior OSCE/ODIHR recommendations.
+While it is not a good practice to amend the fundamental elements of the legal framework less than one year before an election, the latter amendment enjoyed cross-party consensus.
+These amendments include further safeguards for the separation of party and state; clarification of party and campaign finance regulations; the right for political parties to inspect and request changes in the voter list; deadlines for courts to decide on media offences and for the State Election Commission (SEC) and the State Commission for the Prevention of Corruption (SCPC) to forward cases to the courts.
+However, implementation of the legislation revealed that a number of issues and inconsistencies remain unaddressed.
+This includes: the 40 per cent turnout requirement in the second round of presidential elections that could lead to cycles of failed elections; the ineffectiveness of the complaints procedure; a lack of clarity regarding campaigning before its official start; the lack of legal deadlines and avenues for appeal for some types of election complaints; and the restrictive provisions on who can file election related complaints.
+The president is elected in a single constituency by general and direct suffrage by secret ballot for a term of five years under a majoritarian system.
+The same person may not be elected as president more than twice.
+To be elected in the first round, a candidate must receive more than 50 per cent of the total number of registered voters.
+Otherwise, a second round is held in two weeks between the two candidates who received the highest number of votes in the first round.
+In the second round, the candidate with the most votes wins, provided that there is more than 40 per cent turnout.
+Otherwise, the entire election process is repeated.
+Election Administration
+The presidential election was administered by a three-level election administration: the SEC, 80 Municipal Election Commissions (MECs), 3,480 Election Boards (EBs) established in-country and 34 EBs in Diplomatic-Consular Offices (DCOs).
+The SEC is composed of seven members appointed by the parliament for a four-year term.
+The president and two members are nominated by the parliamentary opposition parties while the vice-president and three members are nominated by the governing parties.
+In general, the SEC sessions were open to accredited observers and to the media, however there were several occasions when the SEC did not invite the media and observers to attend.
+The SEC met most of the legal deadlines, and minutes of the sessions were published on the SEC website within 48 hours, following a previous OSCE/ODIHR recommendation.
+Tension among the members was evident at several sessions attended by the OSCE/ODIHR EOM when members often made long political interventions and voted along party lines on all politically contentious issues.
+The MECs are responsible for administering elections in their respective municipality.
+MECs have a president, four members and their deputies randomly selected from public service employees, for a five-year term.
+EBs are formed by MECs using a mixed professional-political model with one member nominated by the governing political parties, one by the opposition parties, and three members randomly selected from public service employees.
+The Electoral Code was amended with a provision that requires EB presidents to hold a university degree and members to have secondary education.
+However, the OSCE/ODIHR EOM was informed by some MECs that this new legal provision created difficulties in identifying a sufficient number of qualified people.
+Many MECs complained about the lack of communication with the SEC on several issues causing some confusion regarding the procedures.
+The training sessions conducted by the SEC on 5 March and 26 March for the MECs were well received.
+A videotape produced with the assistance of the OSCE Mission to Skopje was used for training of the EBs.
+The Electoral Code provisions for equitable ethnic and gender representation in the election administration were respected.
+As required by law, the SEC conducted a voter education campaign in print and broadcast media.
+Voter Registration
+Citizens who are over 18 years old on election day, have residency in the respective electoral district, have a valid biometric identification card (ID) or passport, and have not been deprived of their legal capacity by a court decision are included in the voter lists for in-country voting.
+In order to vote abroad, an eligible voter has to be registered with the Ministry of Internal Affairs (MoI) as temporarily living or working abroad and must register to vote at their respective DCO.
+Although the Constitution does not require a citizen to have residency in-country in order to be an eligible voter, the Electoral Code stipulates that only citizens with in-country residency are to be included in the voter lists.
+The SEC maintains the voter lists based on information it receives from the MoI, which issues biometrical IDs and passports based on records of citizenship and residency.
+In addition, the Ministry of Justice (MoJ) provides information about deceased people to the SEC.
+The subsequent division of the voter list into polling station excerpts is done by the State Statistical Office (SSO).
+The many agencies involved in the creation of voter lists, their overlapping responsibilities, and the lack of a centralized electronic database makes voter lists compilation problematic and complicated.
+Some 1,779,572 citizens registered to vote in the presidential election.
+During the public inspection period, approximately 73,400 people checked their registration in the voter lists at the SEC regional offices, and approximately 115,400 people checked their data through the Internet.
+A total number of 8,332 out of approximately 70,000 citizens with addresses in-country and temporarily working or residing abroad registered as out-of-country voters for the presidential election.
+The issue of large numbers of voters residing at the same address where they do not appear to live was also raised by several IEOM interlocutors.
+When this issue was raised with the Interior Minister, she confirmed to the OSCE/ODIHR EOM that the law is silent of how many people may legally register under the same address.
+Candidate Registration
+The right to stand as a presidential candidate is granted to citizens who have the right to vote, are at least 40 years old and have lived in the country for at least 10 years within the last 15 years.
+Although a reasonable residency requirement to be eligible to stand is acceptable, the duration of 10 years is excessive and disproportionate with the principle of equality, challenging OSCE commitments, Council of Europe standards and international obligations.
+Nominations for the presidential election had to be supported by either 10,000 voters or 30 members of parliament.
+The signatures of support had to be collected in front of a SEC representative in one of the regional SEC offices.
+Candidate registration was inclusive.
+Out of the six nominees, two nominees failed to collect the required number of signatures, alleging that collecting signatures in front of a state official was intimidating and that the number of required signatures was too high.
+The Campaign Environment
+The campaign officially commenced on 24 March and ended at midnight on 11 April.
+The campaign was active.
+Billboards and posters were prevalent in the majority of cities along the main roads, while the incumbent predominated.
+Mr. Pendarovski also enjoyed high visibility in this campaign.
+The other two electoral contestants attributed their less visible campaigns to a lack of financial resources.
+The presidential candidates also held small gatherings and conducted door-to-door campaigning as the main way to communicate with voters.
+All of the candidates used social media and websites as key tools to reach out to the voters.
+Candidates engaged in vigorous schedules of rallies.
+The OSCE/ODIHR EOM observed 79 rallies, at which presidential candidates, party leaders and parliamentary candidates frequently appeared together.
+Notably, Mr. Ivanov’s rallies heavily featured the prime minister and other ministers, all of whom subsequently became candidates for parliament.
+The clear support of the government for the incumbent during the campaign did not fully respect the separation of party and state, as required in paragraph 5.4 of the 1990 OSCE Copenhagen.
+All candidates except Mr. Pendarovski campaigned with their affiliated party leaders.
+Rallies proceeded without disruptions and were generally well-attended, although predominantly by men.
+However, several incidents of campaign offices being vandalized and campaign materials being damaged were reported to the police.
+The issues of common concern reflected in all of the candidates’ programs included economic development, poverty and unemployment, youth emigration, the resolution of the name issue, and integration in the European Union (EU) and North Atlantic Treaty Organization (NATO).
+Both Mr. Pendarovski and Mr. Popovski campaigned heavily on their desire to end the politics of division that they see plaguing the country.
+The DUI ran a concurrent campaign entitled “No to a One-Sided President” to promote its aim of a consensual president elected in the parliament.
+The party appealed to ethnic Albanians to refrain from voting in the presidential election.
+While all four presidential candidates proclaimed that they would represent all of the country’s citizens if elected, candidates generally targeted voters from their respective ethnic communities.
+Mr. Pendarovski, however, did engage in outreach to the ethnic Albanian community by speaking some Albanian and displaying promotional campaign materials in Albanian at events in ethnic Albanian areas.
+The Roma community was active and visible during the campaign, particularly at rallies for the VMRO-DPMNE.
+The language of the presidential candidates in campaign was mostly civil and moderate, however, as election day approached, increasingly negative rhetoric was observed between the VMRO-DPMNE and the SDSM-affiliated candidates.
+In addition, there was a steady stream of strong accusations of past and present corruption being made by political adversaries within the ethnic blocs.
+The DPA and the DUI attacked each other for their decisions to run a candidate and boycott the presidential election respectively.
+Speeches at DPA rallies increasingly featured inflammatory language about the DUI, particularly its leader Ali Ahmeti.
+The DPA also accused the DUI of jeopardizing the secrecy of the ethnic Albanian vote with its boycott call, especially in small villages.
+In addition, allegations of voter intimidation and misuse of state resources persisted throughout the campaign.
+The OSCE/ODIHR EOM long-term observers received a number of credible allegations of pressure, especially of public sector employees, including: pressure to attend campaign events, sometimes during working hours; pressure not to attend opponents’ events; promises of or threats to state employment; incentives to vote such as social welfare benefits; and party activists requesting civil servants to provide a list of identified voters who would vote for the ruling party.
+Campaign Finance
+The legal framework regulating campaign finance was amended in January 2014 to address some of previous OSCE/ODIHR recommendations, including a clear ceiling for donations by legal entities and a requirement for electoral contestants to submit a financial report one day prior to the second round.
+The first financial reports for the presidential election were submitted on 3 April and published in a timely manner.
+Mr. Ivanov declared a total income of MKD 14,306,396 from 595 private donors and expenses of MKD 31,149,203.
+Mr. Pendarovski declared a total income of 6,129,211 MKD from private donors and other sources and expenses of MKD 5,663,790.
+Mr. Popovski declared a total income of MKD 500,000 from nine donors and an equal amount of expenses.
+Mr. Halimi declared zero income and zero expenditure.
+The law does not provide for auditing of the pre-election financial reports or sanctions for non-submission, which reduces the integrity and transparency of the process.
+In accordance with good practice, the final campaign finance reports are to be submitted within 30 days of voting and the SAO reviews them within 60 days from submission.
+Should the SAO detect irregularities, it may ask the SEC to suspend reimbursement, partially or totally.
+It may also initiate a misdemeanour procedure or report to the prosecutor within 30 days of the day of the detection, but there are no deadlines for the court to decide.
+The Media
+Although there are a large number of media outlets operating in the country, many IEOM interlocutors alleged that the prominent media outlets were under indirect control of the ruling party because of the government’s position as the largest single advertiser.
+In addition, a lack of political analyses and independent reporting was widespread.
+The phenomenon of self-censorship was noted by media stakeholders.
+The media monitoring conducted by the OSCE/ODIHR EOM indicated that a clear bias in favour of the ruling VMRO-DPMNE coalition and candidate Ivanov and against the SDSM and its candidate as was evident in the majority of the monitored broadcasters.
+The Electoral Code obliges broadcast media to cover the candidates in a fair, balanced and unbiased manner.
+It also outlines detailed requirements for the composition of the newscasts during every election campaign on public broadcaster, “Macedonian Radio and Television” (MRT).
+One third of the newscasts should be devoted to local and international events, one third to the activities of the ruling political parties and one third to the activities of the political parties in opposition.
+According to this requirement the candidates who do not have the backing of a parliamentary party are not entitled to any coverage during these newscasts.
+Failure by the public broadcaster to provide balanced and equal coverage to all contestants challenges paragraph 7.8 of the 1990 OSCE Copenhagen Document.
+The Agency for Audio and Audiovisual Media Services (AVMS) adopted ‘Specifics of the Monitoring Methodology for the 2014 Electoral Process’ which among other things recommended MRT to allocate additional time in newscasts to candidates who did not have the backing of a parliamentary political party.
+While not legally binding, this document clarified the legal requirements for media coverage of the campaign.
+In the course of the campaign, the AVMS received and dismissed 60 media-related complaints from the SDSM, most of which alleged that coverage of state officials was campaigning and that public opinion polls were published without providing all legally required data.
+In addition, the AMVS initiated 12 misdemeanour procedures against 8 broadcasters mainly for violating rules on paid political advertisements.
+OSCE/ODIHR EOM media monitoring results show that while the quantitative coverage of the contestants in the newscasts was in line with the legal requirements, the tone of the coverage varied: the campaign of the incumbent was covered in a positive tone on MRT-1 and MRT-2, and the coverage of the three other candidates was mainly neutral.
+In addition, MRT-2 devoted extensive coverage to the activities of the DUI and their campaign calling on ethnic Albanians to refrain from voting in the presidential election.
+Private TV Sitel devoted 47 per cent and Kanal 5 40 per cent of their coverage to the incumbent in their newscasts.
+TV Alfa provided Mr. Ivanov with 36 per cent and Mr. Pendarovski with 38 per cent of coverage respectively.
+However, while the tone of the coverage of Mr. Ivanov was mainly positive or neutral, the coverage of Mr. Pendarovski was more negative.
+The media monitoring also identified a number of items broadcast by these three stations that were very similar in content, referring to unidentified or anonymous sources, and were biased against SDSM.
+TV Telma, Vesti 24 and Alsat-M provided more balanced coverage of the campaign in the newscasts and devoted similar proportions of predominantly neutral coverage to Mr. Ivanov and Mr. Pendarovski.
+Private broadcasters are entitled to sell up to 12 minutes per hour for paid political advertisements, with a limit of 8 minutes per hour for each contestant.
+The OSCE/ODIHR EOM monitoring of paid political advertisements indicated that over 23 hours of these advertisements promoted Mr. Ivanov, over 7 hours promoted Mr. Popovski and only 3 hours were in favour of Mr. Pendarovski.
+In the course of the campaign there were very limited opportunities to confront Mr. Ivanov.
+Only one debate that featured all four candidates was organized by MRT-1.
+After the debate, the public broadcaster organized a discussion programme which mainly focused on perceived failures of Mr. Pendarovski.
+Complaints and Appeals
+Election-related complaints are heard by the SEC, the Basic Courts, the Courts of Appeal, and the Administrative Court.
+The Electoral Code extends the right to all electoral contestants to file complaints at various stages of the process, including on voter registration, candidate registration, campaign and media irregularities, and voting and tabulation.
+Whereas voters have the right to file complaints only on voter registration and when their voting rights are violated on election day.
+In addition, some decisions of administrative bodies may not be appealed.
+This collectively does not fully guarantee effective redress as required by paragraph 5.10 of the 1990 OSCE Copenhagen Document.
+Eight complaints were filed with the SEC concerning campaign activities taking place before the official start of the campaign.
+In one case the SEC upheld the SDSM complaint alleging that Mr. Ivanov had engaged in early campaigning on 14 March, the day he was confirmed as a presidential candidate, and initiated misdemeanour proceedings.
+Others were rejected on the grounds that those who were campaigning had not yet been confirmed as candidates.
+In addition, two complaints were filed with the SEC by DUI and SDSM under a new Electoral Code provision allowing political parties to challenge entries in the voter lists after the end of the public scrutiny.
+The SEC requested the MoI to investigate, which it declined, claiming that it had met its legal obligation.
+The SEC subsequently rejected the requests, voting along party lines.
+SDSM and DUI appealed the decision to the Administrative Court, which rejected the appeals based on documents provided by the MoI, without an independent investigation being conducted.
+The SEC, SAO and SCPC are not entitled to impose sanctions but can forward the cases to the competent courts by initiating misdemeanour or criminal proceedings.
+There are no deadlines envisaged for adjudicating such cases, which puts into question their timely and effective redress within the electoral timeframe.
+Citizen and International Observers
+The Electoral Code provides for observation by international and citizen observers as well as authorized representatives of candidates at all levels of the election administration.
+In total 326 international observers were registered with the SEC, which includes embassies represented in the country.
+The citizen observer groups which deployed the greatest number of observers were the Association for Humanitarian Activities SINERGIJA with 4,970 observers, MOST with 1790 observers, the Association of Citizens for Democratization and Raising Collective Awareness VEPRO from Struga with 1,500 observers and CIVIL with 50 observers.
+In line with a prior OSCE/ODIHR recommendation, all observers were entitled to receive copies of MEC and EB results protocols.
+Election Day
+Early voting at the limited number of polling locations observed by the OSCE/ODIHR EOM on 12 April was generally conducted well, procedures were followed and voting proceeded in a calm and orderly manner.
+In the case of homebound voting, several MECs raised concerns about stricter eligibility requirements imposed by a SEC decision, resulting in several MECs rejecting applications.
+For prison voting, the OSCE/ODIHR EOM observed several instances of prisoners with valid IDs denied the right to vote because they were not included on the voter’s list.
+On election day, the administration in the limited number of polling stations visited by the IEOM was procedurally well-prepared and the voting process was administered efficiently, however in one municipality the voting process was problematic, and a greater number of irregularities were noted.
+The vote count was carried out in a professional and transparent manner.
+The tabulation process was generally well organized in the few MECs visited.
+Although there were many small discrepancies in the EB results protocols, these technical errors were corrected by the MECs.
+The English version of this statement is the only official document.
+Unofficial translations are provided in the Macedonian and Albanian languages.
+MISSION INFORMATION & ACKNOWLEDGEMENTS
+Skopje, 14 April 2014 – The OSCE/ODIHR EOM opened in Skopje on 10 March, with 11 experts in the capital and 20 long-term observers deployed throughout the country.
+The observers visited a limited number of polling stations around the country on election day, although observation was not conducted in comprehensive fashion.
+On election day, 42 observers were deployed, including 15 parliamentary observers from the PACE, and 27 long-term observers and experts from the OSCE/ODIHR.
+In total, there were observers from 23 OSCE participating States.
+Due to the lack of secondments of short-term observers, the OSCE/ODIHR was not in a position to conduct the envisaged systematic and comprehensive observation of election day proceedings for the 13 April presidential election through the deployment of short-term observers.
+The institutions represented wish to thank the authorities for the invitations to observe the elections, the State Election Commission for its co-operation and for providing accreditation documents, and the Ministry of Foreign Affairs and other authorities for their assistance and co-operation.
+The institutions also wish to express appreciation to the OSCE Mission to Skopje and other international institutions for their co-operation and support.
+For further information, please contact:
+Ambassador Geert-Hinrich Ahrens, Head of the OSCE/ODIHR EOM, in Skopje (+389 (0)2 3121 657);
+Mr. Thomas Rymer, OSCE/ODIHR Spokesperson (+389 72 209 788 or +48 609 522 266); or Ms. Tamara Otiashvili, OSCE/ODIHR Election Adviser, in Warsaw (+389 77 553 814 or +48 22 5200 680);
+PACE Communications Division (+33 388 413 193)
+OSCE/ODIHR EOM Address:
+76 Ilinden Blvd, 1000 Skopje
+Tel: +389 (0)2 3121 657, Fax: +389 (0)2 3119 524; Email: office@odihr.org.mk
+Website: http://www.osce.org/odihr/elections/116272
 While the legal framework did not cover all aspects sufficiently, the 30 September Referendum was administered impartially and fundamental freedoms were respected throughout the campaign.
 The election administration was collegial and met deadlines, but was not always fully transparent in its work.
 The absence of an active ‘Against’ or organized boycott campaign meant that the media struggled to provide balanced coverage but did convey extensive information and diverse views to voters.
