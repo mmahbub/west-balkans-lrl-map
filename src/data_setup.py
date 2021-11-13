@@ -41,8 +41,8 @@ def huggingface_setup(path: Path, data: Dict[str, List[str]], test_pct: float) -
       'test': content[:split_idx],
     }
 
-  hf_hub_path = path.parents[0]/'huggingface_hub'
-  hf_hub_path.mkdir(exist_ok=True)
+  temp_dir = path.parents[0]/'temp_dir'
+  temp_dir.mkdir(exist_ok=True)
   hf_files = {}
 
   for lang in path.stem.split('-'):
@@ -50,13 +50,13 @@ def huggingface_setup(path: Path, data: Dict[str, List[str]], test_pct: float) -
       dir_name = f'en-{lang[:2]}'
       hf_files[dir_name] = {
         'english': {
-          'train': hf_hub_path/dir_name/'train_en.txt',
-          'test': hf_hub_path/dir_name/'test_en.txt',
+          'train': temp_dir/dir_name/'train_en.txt',
+          'test': temp_dir/dir_name/'test_en.txt',
 
         },
         f'{lang}': {
-          'train': hf_hub_path/dir_name/f'train_{lang[:2]}.txt',
-          'test': hf_hub_path/dir_name/f'test_{lang[:2]}.txt'
+          'train': temp_dir/dir_name/f'train_{lang[:2]}.txt',
+          'test': temp_dir/dir_name/f'test_{lang[:2]}.txt'
         }
       }
 
