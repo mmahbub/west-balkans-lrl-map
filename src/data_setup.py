@@ -50,13 +50,13 @@ def huggingface_setup(path: Path, data: Dict[str, List[str]], test_pct: float) -
       dir_name = f'en-{lang[:2]}'
       data_files[dir_name] = {
         'english': {
-          'train': temp_dir/dir_name/'train_en.txt',
-          'test': temp_dir/dir_name/'test_en.txt',
+          'train': temp_dir/dir_name/'en.train',
+          'test': temp_dir/dir_name/'en.test',
 
         },
         f'{lang}': {
-          'train': temp_dir/dir_name/f'train_{lang[:2]}.txt',
-          'test': temp_dir/dir_name/f'test_{lang[:2]}.txt'
+          'train': temp_dir/dir_name/f'{lang[:2]}.train',
+          'test': temp_dir/dir_name/f'{lang[:2]}.testt'
         }
       }
 
