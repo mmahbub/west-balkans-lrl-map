@@ -67,7 +67,7 @@ def huggingface_setup(path: Path, data: Dict[str, List[str]], test_pct: float) -
         write_content(fp, data[lang][split])
 
   subprocess.call(['tar', '-C', temp_dir, '-cvzf', 'rosetta_balcanica.tar.gz', '.'])
-  temp_dir.rmdir()
+  shutil.rmtree(temp_dir)
 
 if __name__=='__main__':
   args = parse_args()
