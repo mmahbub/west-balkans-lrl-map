@@ -1,5 +1,6 @@
 name: rose
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -21,9 +22,9 @@ dependencies:
   - brotli=1.0.9=he6710b0_2
   - brotlipy=0.7.0=py37h27cfd23_1003
   - c-ares=1.17.1=h27cfd23_0
-  - ca-certificates=2021.10.26=h06a4308_2
+  - ca-certificates=2021.10.8=ha878542_0
   - cachetools=4.2.2=pyhd3eb1b0_0
-  - certifi=2021.10.8=py37h06a4308_0
+  - certifi=2021.10.8=py37h89c1867_1
   - cffi=1.14.6=py37h400218f_0
   - chardet=4.0.0=py37h06a4308_1003
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
@@ -62,13 +63,19 @@ dependencies:
   - ipython=7.27.0=py37hb070fc8_0
   - ipython_genutils=0.2.0=pyhd3eb1b0_1
   - jedi=0.18.0=py37h06a4308_1
+  - jinja2=3.0.2=pyhd3eb1b0_0
   - jmespath=0.10.0=pyhd3eb1b0_0
   - joblib=1.0.1=pyhd3eb1b0_0
   - jpeg=9d=h7f8727e_0
   - json5=0.9.6=pyhd3eb1b0_0
   - jsonschema=3.2.0=pyhd3eb1b0_2
   - jupyter_client=7.0.1=pyhd3eb1b0_0
+  - jupyter_contrib_core=0.3.3=py_2
+  - jupyter_contrib_nbextensions=0.5.1=pyhd8ed1ab_2
   - jupyter_core=4.8.1=py37h06a4308_0
+  - jupyter_highlight_selected_word=0.2.0=py37h89c1867_1002
+  - jupyter_latex_envs=1.4.6=pyhd8ed1ab_1002
+  - jupyter_nbextensions_configurator=0.4.1=py37h89c1867_2
   - jupyter_server=1.4.1=py37h06a4308_0
   - jupyterlab=3.1.7=pyhd3eb1b0_0
   - jupyterlab_pygments=0.1.2=py_0
@@ -92,6 +99,8 @@ dependencies:
   - libwebp-base=1.2.0=h27cfd23_0
   - libxcb=1.14=h7b6447c_0
   - libxml2=2.9.12=h03d6c58_0
+  - libxslt=1.1.32=hae48121_1003
+  - lxml=4.4.1=py37h7ec2d77_0
   - lz4-c=1.9.3=h295c915_1
   - markupsafe=2.0.1=py37h27cfd23_0
   - matplotlib=3.4.3=py37h06a4308_0
@@ -140,6 +149,7 @@ dependencies:
   - pysocks=1.7.1=py37_1
   - python=3.7.11=h12debd9_0
   - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python_abi=3.7=2_cp37m
   - pytz=2021.3=pyhd3eb1b0_0
   - pyzmq=22.2.1=py37h295c915_1
   - qt=5.9.7=h5867ecd_1
@@ -170,31 +180,31 @@ dependencies:
   - webencodings=0.5.1=py37_1
   - wheel=0.37.0=pyhd3eb1b0_1
   - xz=5.2.5=h7b6447c_0
+  - yaml=0.2.5=h516909a_0
   - yarl=1.5.1=py37h7b6447c_0
   - zeromq=4.3.4=h2531618_0
   - zipp=3.6.0=pyhd3eb1b0_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.9=haebb681_0
   - pip:
+    - autopep8==1.6.0
     - blis==0.7.5
     - catalogue==2.0.6
     - click==8.0.3
     - cymem==2.0.6
     - datasets==1.14.0
     - dill==0.3.4
-    - en-core-web-lg==3.1.0
     - filelock==3.3.1
     - fsspec==2021.10.1
     - funcy==1.16
     - future==0.18.2
     - huggingface-hub==0.0.19
-    - jinja2==3.0.2
-    - mk-core-news-lg==3.1.0
     - multiprocess==0.70.12.2
     - murmurhash==1.0.6
     - pathy==0.6.1
     - preshed==3.0.6
     - pyarrow==6.0.0
+    - pycodestyle==2.8.0
     - pydantic==1.8.2
     - pyldavis==3.3.1
     - pyyaml==6.0
@@ -203,6 +213,7 @@ dependencies:
     - spacy-legacy==3.0.8
     - srsly==2.4.2
     - thinc==8.0.12
+    - toml==0.10.2
     - tqdm==4.62.3
     - typer==0.4.0
     - wasabi==0.8.2
