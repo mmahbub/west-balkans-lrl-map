@@ -8,11 +8,20 @@ While the PDF files are the original files found on the website, the text files 
 
 For convenience, we have a concatenated all the sentences file into one bearing the document name. This contains the language identifier, URL to the document from which the sentences were extracted, and the sentences themselves.
 
+# How to Contribute
+You can contribute to Rosetta-Balcanica by following these instructions. For clarity, these instructions assume that you are extracting a document titled "North Macedonian Election Report" that is available in English, Shqip, and Macedonian. The instructions should work for any language combinations and documents.
+
+1. Fork and clone the Rosetta Balcanica repo. Following instructions assume the root directory is rosetta-balcanica
+2. Create a new directory within `dataset/english-macedonian-shqip/north_macedonian_election_report`. Appropriately create parent directories if they do not exist.
+3. Save the original PDF files of the document corresponding to each language in the newly created directory. In this case we will have 3 PDF files: `english.pdf`, `shqip.pdf`, `macedonian.pdf`.
+4. Manually extract the sentences from the PDF files and save them in text files corresponding to each language in the same directory. In this case we will have 3 text files: `english.txt`, `shqip.txt`, `macedonian.txt`.
+5. Once the extractions are done, run the `data_setup.py` script passing in the languages directory: `src/data_setup.py dataset/english-macedonian-shqip`. This will aggregate all the files of all the documents in the languages directory, create training and testing split, zip them up and place them in the root directory. The resulting zip file will be named `rosetta_balcanica.tar.gz`
+6. Add the new documents and the newly created zip file into the repo, commit, and push them.
+7. Submit a pull request to have your contribution merged.
+
 # Using Dataset
 
 # Getting Dataset Statistics
-
-# Contributing
 
 ## Testing 
 
